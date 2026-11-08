@@ -123,7 +123,7 @@ built in step 1 from apertium-uzb, is GPL-3.0 and is therefore not included; ste
 @article{salaev2026uzmorphsegtok,
   author  = {Salaev, Ulugbek},
   title   = {CSE-Constrained Neural Morphological Segmentation and Morphology-Aware Tokenization for Uzbek},
-  journal = {Information},
+  journal = {MDPI Journal},
   year    = {2026},
   note    = {Submitted}
 }
