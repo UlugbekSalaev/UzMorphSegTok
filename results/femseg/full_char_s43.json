@@ -1,0 +1,5968 @@
+{
+ "config": "full_char",
+ "seed": 43,
+ "fold": null,
+ "params": 276636,
+ "train_words": 181752,
+ "train_time_s": 1521.1059474945068,
+ "history": [
+  {
+   "epoch": 1,
+   "loss": 1.0506814662419575,
+   "dev_f1_free": 0.9166666666666666,
+   "dev_f1_hard": 0.923913043478261,
+   "time": 207.6590964794159
+  },
+  {
+   "epoch": 2,
+   "loss": 0.3322267403694945,
+   "dev_f1_free": 0.9328124999999999,
+   "dev_f1_hard": 0.9371069182389937,
+   "time": 163.0733027458191
+  },
+  {
+   "epoch": 3,
+   "loss": 0.2609150576457696,
+   "dev_f1_free": 0.9431643625192012,
+   "dev_f1_hard": 0.9489953632148377,
+   "time": 160.39342379570007
+  },
+  {
+   "epoch": 4,
+   "loss": 0.2246109216434645,
+   "dev_f1_free": 0.9529042386185245,
+   "dev_f1_hard": 0.9544025157232703,
+   "time": 182.76174759864807
+  },
+  {
+   "epoch": 5,
+   "loss": 0.195206653924895,
+   "dev_f1_free": 0.9584313725490197,
+   "dev_f1_hard": 0.9591836734693877,
+   "time": 191.10144019126892
+  },
+  {
+   "epoch": 6,
+   "loss": 0.17287526399448094,
+   "dev_f1_free": 0.9579439252336448,
+   "dev_f1_hard": 0.9594383775351014,
+   "time": 201.40748286247253
+  },
+  {
+   "epoch": 7,
+   "loss": 0.1530314919915916,
+   "dev_f1_free": 0.9614476789929189,
+   "dev_f1_hard": 0.9614476789929189,
+   "time": 202.6135983467102
+  },
+  {
+   "epoch": 8,
+   "loss": 0.1422185632049329,
+   "dev_f1_free": 0.9606918238993711,
+   "dev_f1_hard": 0.9622047244094488,
+   "time": 212.09585547447205
+  }
+ ],
+ "best_epoch": 8,
+ "scores": {
+  "free": {
+   "dev": {
+    "TP": 611,
+    "FP": 26,
+    "FN": 24,
+    "TN": 3449,
+    "accuracy": 0.9878345498783455,
+    "precision": 0.9591836734693877,
+    "recall": 0.9622047244094488,
+    "f1": 0.9606918238993711,
+    "exact": 0.9477040816326531,
+    "text_precision": 0.9817030260380014,
+    "text_recall": 0.9830866807610994,
+    "text_f1": 0.9823943661971832,
+    "text_accuracy": 0.9897834082550061,
+    "edit_distance": 0.00851277742725111,
+    "words": 784,
+    "positions": 4110
+   },
+   "UzUDT_test": {
+    "TP": 1232,
+    "FP": 119,
+    "FN": 25,
+    "TN": 7394,
+    "accuracy": 0.9835803876852908,
+    "precision": 0.9119170984455959,
+    "recall": 0.9801113762927606,
+    "f1": 0.9447852760736196,
+    "exact": 0.922979797979798,
+    "text_precision": 0.9594548551959114,
+    "text_recall": 0.991200281590989,
+    "text_f1": 0.9750692520775622,
+    "text_accuracy": 0.9860923314661001,
+    "edit_distance": 0.01163050551976577,
+    "words": 1584,
+    "positions": 8770
+   }
+  },
+  "hard": {
+   "dev": {
+    "TP": 611,
+    "FP": 24,
+    "FN": 24,
+    "TN": 3451,
+    "accuracy": 0.9883211678832117,
+    "precision": 0.9622047244094488,
+    "recall": 0.9622047244094488,
+    "f1": 0.9622047244094488,
+    "exact": 0.9489795918367347,
+    "text_precision": 0.9830866807610994,
+    "text_recall": 0.9830866807610994,
+    "text_f1": 0.9830866807610994,
+    "text_accuracy": 0.9901920719248059,
+    "edit_distance": 0.008229330715232972,
+    "words": 784,
+    "positions": 4110
+   },
+   "UzUDT_test": {
+    "TP": 1233,
+    "FP": 116,
+    "FN": 24,
+    "TN": 7397,
+    "accuracy": 0.984036488027366,
+    "precision": 0.9140103780578206,
+    "recall": 0.9809069212410502,
+    "f1": 0.9462778204144282,
+    "exact": 0.9248737373737373,
+    "text_precision": 0.9604500511421753,
+    "text_recall": 0.9915522703273495,
+    "text_f1": 0.9757533772081746,
+    "text_accuracy": 0.9864786555920417,
+    "edit_distance": 0.011417061556321806,
+    "words": 1584,
+    "positions": 8770
+   }
+  }
+ },
+ "in_domain": {
+  "silver": {
+   "TP": 4045,
+   "FP": 264,
+   "FN": 143,
+   "TN": 25902,
+   "accuracy": 0.9865915530078408,
+   "precision": 0.9387328846600139,
+   "recall": 0.9658548233046801,
+   "f1": 0.9521007414381547,
+   "exact": 0.903143585386576,
+   "text_precision": 0.9663265306122449,
+   "text_recall": 0.9814742842337091,
+   "text_f1": 0.9738415065235555,
+   "text_accuracy": 0.9879887855983474,
+   "edit_distance": 0.011599327668890037,
+   "words": 3531,
+   "positions": 30354,
+   "tag_accuracy": 0.9772465692784418
+  },
+  "syn": {
+   "TP": 10535,
+   "FP": 127,
+   "FN": 62,
+   "TN": 48958,
+   "accuracy": 0.9968332160450387,
+   "precision": 0.9880885387356969,
+   "recall": 0.9941492875342078,
+   "f1": 0.9911096476786303,
+   "exact": 0.9706577392674282,
+   "text_precision": 0.9919313850063533,
+   "text_recall": 0.9960446570972886,
+   "text_f1": 0.9939837657170141,
+   "text_accuracy": 0.9970815318097591,
+   "edit_distance": 0.0037532588055193914,
+   "words": 5078,
+   "positions": 59682,
+   "tag_accuracy": 0.9947498455836936
+  }
+ },
+ "predictions": {
+  "free": {
+   "adabingni": [
+    4,
+    7
+   ],
+   "adabiy": [],
+   "adabiyasarlar": [
+    10
+   ],
+   "adabiyot": [],
+   "adabiyotdan": [
+    8
+   ],
+   "adabiyotga": [
+    8
+   ],
+   "adabiyoti": [
+    8
+   ],
+   "adashib": [
+    5
+   ],
+   "advokatini": [
+    7,
+    8
+   ],
+   "afandi": [
+    5
+   ],
+   "afandim": [
+    5
+   ],
+   "afg'oniston": [],
+   "afsun": [],
+   "afsus": [],
+   "agarda": [
+    4
+   ],
+   "ahil": [],
+   "aholisi": [
+    5
+   ],
+   "aholisining": [
+    5,
+    7
+   ],
+   "ajoyib": [],
+   "aka": [],
+   "allomalarning": [
+    6,
+    9
+   ],
+   "ammo": [],
+   "ana": [],
+   "anglagan": [
+    5
+   ],
+   "anhorlarda": [
+    5,
+    8
+   ],
+   "aniqlamoqchi": [
+    6
+   ],
+   "aniqlashda": [
+    6,
+    8
+   ],
+   "aniqlayolmabdi": [
+    7,
+    9,
+    11,
+    12
+   ],
+   "aqlga": [
+    3
+   ],
+   "aqliy": [],
+   "aqlli": [],
+   "arg'amcha": [
+    6
+   ],
+   "arg'amchini": [
+    9
+   ],
+   "arg'imchoq": [],
+   "arilarning": [
+    3,
+    6
+   ],
+   "ariq": [],
+   "arqon": [],
+   "arqonlarni": [
+    5,
+    8
+   ],
+   "arqonning": [
+    5
+   ],
+   "arvohi": [
+    5
+   ],
+   "asal": [],
+   "asarlari": [
+    4,
+    7
+   ],
+   "asarlarni": [
+    4,
+    7
+   ],
+   "ashyolarni": [
+    5,
+    8
+   ],
+   "asil": [],
+   "aslida": [
+    3,
+    4
+   ],
+   "aslo": [],
+   "asoslanib": [
+    7
+   ],
+   "atalibdi": [
+    4,
+    6
+   ],
+   "avloddan": [
+    5
+   ],
+   "avlodga": [
+    5
+   ],
+   "avval": [],
+   "avvalida": [
+    5,
+    6
+   ],
+   "ayamasangiz": [
+    3,
+    5,
+    7
+   ],
+   "aylandi": [
+    5
+   ],
+   "ayni": [],
+   "ayon": [],
+   "aytganidan": [
+    3,
+    6,
+    7
+   ],
+   "aytganingizdek": [
+    3,
+    6,
+    11
+   ],
+   "aytganini": [
+    3,
+    6,
+    7
+   ],
+   "aytib": [
+    3
+   ],
+   "aziz": [],
+   "ba'zi": [],
+   "ba'zilari": [
+    5,
+    8
+   ],
+   "badbashara": [],
+   "badiyasarlarning": [
+    9,
+    12
+   ],
+   "baholanib": [
+    6,
+    7
+   ],
+   "baqiribdi": [
+    5,
+    7
+   ],
+   "barakalla": [],
+   "barglarini": [
+    4,
+    7,
+    8
+   ],
+   "bas": [],
+   "basta": [],
+   "baxtimdir": [
+    6
+   ],
+   "baxtiyor": [],
+   "bayon": [],
+   "bazalarining": [
+    4,
+    7,
+    8
+   ],
+   "bazi": [
+    3
+   ],
+   "beg'ubor": [],
+   "bemanilikdir": [
+    9
+   ],
+   "bepoyon": [],
+   "beradi": [
+    3,
+    4
+   ],
+   "beramiz": [
+    3,
+    4
+   ],
+   "beray": [],
+   "bergan": [
+    3
+   ],
+   "bergin": [
+    3
+   ],
+   "beribdi": [
+    3,
+    5
+   ],
+   "bering": [
+    3
+   ],
+   "berish": [
+    3
+   ],
+   "bermaydigan": [
+    3,
+    5
+   ],
+   "besh": [],
+   "betob": [],
+   "bilan": [],
+   "bildingiz": [
+    3,
+    5
+   ],
+   "bildiribdi": [
+    3,
+    6,
+    8
+   ],
+   "bilib": [
+    3
+   ],
+   "bilim": [],
+   "bilimini": [
+    5,
+    6
+   ],
+   "bilimning": [
+    5
+   ],
+   "bilmaydigan": [
+    3,
+    5
+   ],
+   "bir": [],
+   "birdan": [
+    3
+   ],
+   "birga": [
+    3
+   ],
+   "biri": [
+    3
+   ],
+   "birida": [
+    3,
+    4
+   ],
+   "biriktirilgan": [
+    8,
+    10
+   ],
+   "birini": [
+    3,
+    4
+   ],
+   "birlikda": [
+    6
+   ],
+   "biroq": [
+    2
+   ],
+   "biror": [],
+   "biroz": [],
+   "biz": [],
+   "bizda": [
+    3
+   ],
+   "bizga": [
+    3
+   ],
+   "bizni": [
+    3
+   ],
+   "bizning": [
+    3
+   ],
+   "bo'ladi": [
+    4,
+    5
+   ],
+   "bo'lar": [
+    4
+   ],
+   "bo'lardik": [
+    4,
+    6,
+    8
+   ],
+   "bo'layotgandek": [
+    4,
+    11
+   ],
+   "bo'ldi": [
+    4
+   ],
+   "bo'ldim": [
+    4,
+    6
+   ],
+   "bo'lgan": [
+    4
+   ],
+   "bo'lganda": [
+    4,
+    7
+   ],
+   "bo'lib": [
+    4
+   ],
+   "bo'libdi": [
+    4,
+    6
+   ],
+   "bo'limdagi": [
+    6
+   ],
+   "bo'lishga": [
+    4,
+    7
+   ],
+   "bo'lishni": [
+    4,
+    7
+   ],
+   "bo'lmaganligidan": [
+    4,
+    6,
+    9,
+    12,
+    13
+   ],
+   "bo'lmaydi": [
+    4,
+    6,
+    7
+   ],
+   "bo'lmaydigan": [
+    4,
+    6
+   ],
+   "bo'lmoqdamiz": [
+    9
+   ],
+   "bo'lsa": [
+    4
+   ],
+   "bo'lsada": [
+    6
+   ],
+   "bo'lsak": [
+    4,
+    6
+   ],
+   "bo'lsam": [
+    4,
+    6
+   ],
+   "bo'lsangiz": [
+    4,
+    6
+   ],
+   "bo'lsin": [
+    4
+   ],
+   "bo'pti": [
+    4
+   ],
+   "bo'yicha": [],
+   "bo'yiga": [
+    4,
+    5
+   ],
+   "bog'chamiz": [
+    7
+   ],
+   "bog'lab": [
+    6
+   ],
+   "bog'langan": [
+    6,
+    7
+   ],
+   "bog'larga": [
+    4,
+    7
+   ],
+   "bola": [],
+   "bolaga": [
+    4
+   ],
+   "bolalar": [
+    4
+   ],
+   "bolalari": [
+    4,
+    7
+   ],
+   "bolam": [
+    4
+   ],
+   "bor": [],
+   "boray": [],
+   "borganda": [
+    3,
+    6
+   ],
+   "borib": [
+    3
+   ],
+   "boribdi": [
+    3,
+    5
+   ],
+   "borliq": [],
+   "bormoqchi": [
+    3
+   ],
+   "bormoqchiligimizni": [
+    12,
+    16
+   ],
+   "boshi": [
+    4
+   ],
+   "boshini": [
+    4,
+    5
+   ],
+   "boshlab": [
+    6
+   ],
+   "boshlanar": [
+    7
+   ],
+   "boshog'ini": [
+    7,
+    8
+   ],
+   "boshqalarni": [
+    6,
+    9
+   ],
+   "bosibdi": [
+    3,
+    5
+   ],
+   "boy": [],
+   "boyga": [
+    3
+   ],
+   "boyitadi": [
+    5,
+    6
+   ],
+   "boyitishning": [
+    5,
+    8
+   ],
+   "boyning": [
+    3
+   ],
+   "bu": [],
+   "bug'doy": [],
+   "bug'doylarining": [
+    7,
+    10,
+    11
+   ],
+   "bundan": [
+    3
+   ],
+   "bunday": [],
+   "buni": [
+    2
+   ],
+   "burjiga": [
+    4,
+    5
+   ],
+   "buyuribdi": [
+    5,
+    7
+   ],
+   "chaksiz": [
+    4
+   ],
+   "chalindi": [
+    4,
+    6
+   ],
+   "chegaralangan": [
+    9,
+    10
+   ],
+   "cheksiz": [],
+   "chertmay": [
+    5,
+    7
+   ],
+   "chiday": [
+    3
+   ],
+   "chiqarib": [
+    4,
+    6
+   ],
+   "chiqasan": [
+    4,
+    5
+   ],
+   "chiqibdi": [
+    4,
+    6
+   ],
+   "chiqirish": [
+    4,
+    6
+   ],
+   "chiqishdan": [
+    4,
+    7
+   ],
+   "chiqqanning": [
+    4,
+    7
+   ],
+   "chiroyli": [],
+   "chizib": [
+    4
+   ],
+   "cho'chaytirgancha": [
+    11,
+    14
+   ],
+   "cho'li": [
+    5
+   ],
+   "cho'mdi": [
+    5
+   ],
+   "cho'milsak": [
+    7,
+    9
+   ],
+   "chunki": [],
+   "chuqurlashadi": [
+    10,
+    11
+   ],
+   "chuvurlaship": [],
+   "da": [],
+   "dada": [],
+   "dadasi": [
+    4
+   ],
+   "dan": [],
+   "daraxt": [],
+   "daraxtga": [
+    6
+   ],
+   "dardga": [
+    4
+   ],
+   "dardimni": [
+    4,
+    6
+   ],
+   "dardini": [
+    4,
+    5
+   ],
+   "darhol": [],
+   "darvozasi": [
+    7
+   ],
+   "daryo": [],
+   "daryoda": [
+    5
+   ],
+   "daryodan": [
+    5
+   ],
+   "daryosiga": [
+    5,
+    7
+   ],
+   "davomida": [
+    5,
+    6
+   ],
+   "davr": [],
+   "davrning": [
+    4
+   ],
+   "deb": [],
+   "debdi": [
+    2,
+    3
+   ],
+   "dedi": [],
+   "degan": [],
+   "dehqon": [],
+   "dehqonga": [
+    6
+   ],
+   "dehqonlar": [
+    6
+   ],
+   "dengiz": [],
+   "dengizsan": [
+    6
+   ],
+   "deyishgan": [
+    6
+   ],
+   "deyishibdi": [
+    6,
+    8
+   ],
+   "dialog": [],
+   "do'sti": [
+    5
+   ],
+   "do'stlari": [
+    5,
+    8
+   ],
+   "do'stlariga": [
+    5,
+    8,
+    9
+   ],
+   "doir": [],
+   "doktor": [],
+   "duch": [],
+   "dumiga": [
+    3,
+    4
+   ],
+   "dunyo": [],
+   "dunyoda": [
+    5
+   ],
+   "dunyoni": [
+    5
+   ],
+   "dunyosiga": [
+    5,
+    7
+   ],
+   "durdonalari": [
+    7,
+    10
+   ],
+   "edi": [],
+   "edimku": [],
+   "ega": [],
+   "ekan": [],
+   "ekibdi": [
+    2,
+    4
+   ],
+   "ekishni": [
+    2,
+    5
+   ],
+   "ekskursiya": [],
+   "elimizning": [
+    2,
+    6
+   ],
+   "emasmi": [
+    4
+   ],
+   "endi": [],
+   "eng": [],
+   "eshik": [],
+   "eshiklar": [
+    5
+   ],
+   "eshiklarni": [
+    5,
+    8
+   ],
+   "eshikning": [
+    5
+   ],
+   "etibdi": [
+    2,
+    4
+   ],
+   "eytip": [],
+   "fan": [],
+   "faqat": [],
+   "farqi": [
+    4
+   ],
+   "farqidan": [
+    4,
+    5
+   ],
+   "fe'li": [
+    4
+   ],
+   "fotima": [],
+   "fotimaning": [
+    6
+   ],
+   "foydalanib": [
+    8
+   ],
+   "g'aflat": [],
+   "g'arbda": [
+    5
+   ],
+   "g'arbiy": [],
+   "g'ayaviy": [],
+   "g'azablangan": [
+    9
+   ],
+   "g'ing": [
+    2
+   ],
+   "g'o'lasini": [
+    6,
+    8
+   ],
+   "gaplarim": [
+    3,
+    6
+   ],
+   "go'shtdan": [
+    6
+   ],
+   "go'shtni": [
+    6
+   ],
+   "go'yo": [],
+   "go'zal": [],
+   "go'zallashib": [
+    10
+   ],
+   "go'zallikning": [
+    9
+   ],
+   "gulga": [
+    3
+   ],
+   "guli": [
+    3
+   ],
+   "gullarga": [
+    3,
+    6
+   ],
+   "gulxan": [],
+   "gulxanning": [
+    6
+   ],
+   "guruch": [],
+   "ha": [],
+   "hal": [],
+   "hali": [],
+   "haligi": [
+    5
+   ],
+   "ham": [],
+   "hamaqatning": [
+    7
+   ],
+   "hamma": [],
+   "hammaga": [
+    5
+   ],
+   "hammasini": [
+    5,
+    7
+   ],
+   "hamroh": [],
+   "haqida": [
+    3,
+    4
+   ],
+   "haqiqat": [],
+   "haqorat": [],
+   "har": [],
+   "havaslari": [
+    5,
+    8
+   ],
+   "haybatli": [],
+   "haydabdi": [
+    5,
+    6
+   ],
+   "hayot": [],
+   "hayotiy": [],
+   "hayotning": [
+    5
+   ],
+   "hayranlikdan": [
+    9
+   ],
+   "hayva": [],
+   "hayvonlar": [
+    6
+   ],
+   "hayvonlarni": [
+    6,
+    9
+   ],
+   "hayvonning": [
+    6
+   ],
+   "hech": [],
+   "hikoyalar": [
+    6
+   ],
+   "hindiston": [],
+   "his": [],
+   "hisab": [
+    4
+   ],
+   "hisobi": [
+    5
+   ],
+   "hisoblagan": [
+    7
+   ],
+   "hisoblanadigan": [
+    8
+   ],
+   "hissiyot": [],
+   "hissiyotini": [
+    8,
+    9
+   ],
+   "hissiyotining": [
+    8,
+    9
+   ],
+   "hissiyotlarining": [
+    8,
+    11,
+    12
+   ],
+   "hiylagar": [],
+   "hojib": [],
+   "holatda": [
+    5
+   ],
+   "holda": [
+    3
+   ],
+   "holni": [
+    3
+   ],
+   "hosilning": [
+    5
+   ],
+   "hovlisi": [
+    5
+   ],
+   "iboratdir": [
+    6
+   ],
+   "ichi": [
+    3
+   ],
+   "ichib": [
+    3
+   ],
+   "ichida": [
+    3,
+    4
+   ],
+   "ichidagi": [
+    3,
+    4
+   ],
+   "ichiga": [
+    3,
+    4
+   ],
+   "ifodalanish": [
+    8
+   ],
+   "ifodasini": [
+    5,
+    7
+   ],
+   "ijara": [],
+   "ijobiy": [],
+   "ijtimoiy": [],
+   "ikkinchi": [
+    4
+   ],
+   "ilgari": [],
+   "inoq": [],
+   "inson": [],
+   "insoniyat": [],
+   "insoniyatning": [
+    9
+   ],
+   "ipak": [],
+   "irodasi": [
+    5
+   ],
+   "ishga": [
+    3
+   ],
+   "ishlab": [
+    5
+   ],
+   "ismi": [
+    3
+   ],
+   "ismli": [],
+   "istagi": [
+    5
+   ],
+   "ixcham": [],
+   "izhori": [
+    5
+   ],
+   "izlash": [],
+   "jahattan": [],
+   "jahon": [],
+   "jahonga": [
+    5
+   ],
+   "jami": [
+    3
+   ],
+   "jamiyatni": [
+    7
+   ],
+   "janubda": [
+    5
+   ],
+   "jarayonidir": [
+    7,
+    8
+   ],
+   "javhari": [
+    6
+   ],
+   "javohirlari": [
+    7,
+    10
+   ],
+   "jilva": [],
+   "jimjitlikka": [
+    9
+   ],
+   "jiring": [
+    3
+   ],
+   "jo'r": [],
+   "jodugar": [],
+   "jome": [],
+   "jon": [],
+   "jonlanib": [
+    6
+   ],
+   "jonlantirib": [
+    6,
+    9
+   ],
+   "juda": [],
+   "kambag'al": [],
+   "kampir": [],
+   "kapalak": [],
+   "kapalaklar": [
+    7
+   ],
+   "katta": [],
+   "kayfiyatga": [
+    8
+   ],
+   "kechirasiz": [
+    6,
+    7
+   ],
+   "kechqurun": [],
+   "kelajak": [],
+   "kelganda": [
+    3,
+    6
+   ],
+   "kelib": [
+    3
+   ],
+   "kelibdi": [
+    3,
+    5
+   ],
+   "kelibdilar": [
+    3,
+    5,
+    7
+   ],
+   "kelinmoqda": [
+    3,
+    5
+   ],
+   "kelish": [
+    3
+   ],
+   "kelishiga": [
+    3,
+    6,
+    7
+   ],
+   "kelsa": [
+    3
+   ],
+   "kelsak": [
+    3,
+    5
+   ],
+   "kengash": [],
+   "kerak": [],
+   "ketadi": [
+    3,
+    4
+   ],
+   "ketasilar": [
+    4,
+    6
+   ],
+   "ketdi": [
+    3
+   ],
+   "ketibdi": [
+    3,
+    5
+   ],
+   "ketmoqda": [
+    3
+   ],
+   "ketolmaymiz": [
+    7,
+    8
+   ],
+   "keyin": [],
+   "kezish": [
+    3
+   ],
+   "kichik": [],
+   "kilometr": [],
+   "kim": [],
+   "kirdi": [
+    3
+   ],
+   "kirgandi": [
+    3,
+    6
+   ],
+   "kirganini": [
+    3,
+    6,
+    7
+   ],
+   "kishilar": [
+    5
+   ],
+   "kishilardir": [
+    5,
+    8
+   ],
+   "kitob": [],
+   "kitobxonlarning": [
+    8,
+    11
+   ],
+   "kiygan": [
+    3
+   ],
+   "kiyimlarni": [
+    5,
+    8
+   ],
+   "ko'ki": [
+    4
+   ],
+   "ko'kka": [
+    4
+   ],
+   "ko'ngildagidek": [
+    11
+   ],
+   "ko'ngillik": [],
+   "ko'p": [],
+   "ko'pchilikka": [
+    10
+   ],
+   "ko'plab": [
+    6
+   ],
+   "ko'pligi": [
+    7
+   ],
+   "ko'proq": [
+    4
+   ],
+   "ko'radigan": [
+    4
+   ],
+   "ko'rib": [
+    4
+   ],
+   "ko'rinibdi": [
+    4,
+    6,
+    8
+   ],
+   "ko'rinishi": [
+    4,
+    6,
+    9
+   ],
+   "ko'rish": [
+    4
+   ],
+   "ko'rsatib": [
+    7
+   ],
+   "ko'rsatibdi": [
+    7,
+    9
+   ],
+   "ko'rsatilsa": [
+    9
+   ],
+   "ko'rsitib": [
+    7
+   ],
+   "ko'ydirib": [
+    4,
+    7
+   ],
+   "ko'z": [],
+   "kulgilar": [
+    5
+   ],
+   "kulgu": [],
+   "kulib": [
+    3
+   ],
+   "kulibdi": [
+    3,
+    5
+   ],
+   "kundalik": [],
+   "kunlarning": [
+    3,
+    6
+   ],
+   "kunsayin": [
+    5
+   ],
+   "kuz": [],
+   "kvadrat": [],
+   "lag'aylab": [
+    8
+   ],
+   "lahjaning": [
+    5
+   ],
+   "lavullab": [
+    7
+   ],
+   "lippilagan": [
+    7
+   ],
+   "ma'lumotli": [],
+   "ma'qul": [],
+   "madaniyat": [],
+   "madaniyatli": [
+    9
+   ],
+   "magistr": [],
+   "mahallani": [
+    7
+   ],
+   "mahallaning": [
+    7
+   ],
+   "mahmud": [],
+   "majbur": [],
+   "majoziy": [],
+   "makoni": [
+    4
+   ],
+   "maktab": [],
+   "maktabda": [
+    6
+   ],
+   "maktabga": [
+    6
+   ],
+   "maktabimiz": [
+    6
+   ],
+   "maktabka": [],
+   "maktabning": [
+    6
+   ],
+   "mamkap": [],
+   "mamlakat": [],
+   "mamnuniyat": [],
+   "mana": [],
+   "manzaralar": [
+    7
+   ],
+   "manzarasini": [
+    7,
+    9
+   ],
+   "manzillar": [
+    6
+   ],
+   "maqbaralari": [
+    7,
+    10
+   ],
+   "maqsadini": [
+    6,
+    7
+   ],
+   "markazi": [
+    6
+   ],
+   "mashhur": [],
+   "masjidlari": [
+    6,
+    9
+   ],
+   "maslahat": [],
+   "maslahati": [
+    8
+   ],
+   "matnlarda": [
+    4,
+    7
+   ],
+   "matnlarni": [
+    4,
+    7
+   ],
+   "mavjud": [],
+   "mavzuda": [
+    5
+   ],
+   "maydonda": [
+    6
+   ],
+   "maydoni": [
+    6
+   ],
+   "mazmunli": [
+    6
+   ],
+   "mazori": [
+    5
+   ],
+   "men": [],
+   "mening": [
+    3
+   ],
+   "meva": [],
+   "millat": [],
+   "millatning": [
+    6
+   ],
+   "million": [],
+   "milliycha": [
+    6
+   ],
+   "mindirib": [
+    3,
+    6
+   ],
+   "ming": [],
+   "mingdan": [
+    1,
+    4
+   ],
+   "minib": [
+    3
+   ],
+   "miyig'ida": [
+    6,
+    7
+   ],
+   "mohiyatan": [],
+   "muallim": [],
+   "muammolarga": [
+    6,
+    9
+   ],
+   "muhim": [],
+   "mujassam": [],
+   "mukammal": [],
+   "mukammalligini": [
+    11,
+    12
+   ],
+   "mumkin": [],
+   "munavvar": [],
+   "muncha": [],
+   "munosabat": [],
+   "mushtdek": [
+    5
+   ],
+   "mutloq": [],
+   "namoyon": [],
+   "naqadar": [],
+   "narsalardan": [
+    5,
+    8
+   ],
+   "narsalargacha": [
+    8
+   ],
+   "narsasi": [
+    5
+   ],
+   "natijasi": [
+    6
+   ],
+   "navkarlar": [
+    6
+   ],
+   "navkarlariga": [
+    6,
+    9,
+    10
+   ],
+   "naxsha": [],
+   "nazaringdan": [
+    5,
+    8
+   ],
+   "necha": [],
+   "nihoyatda": [
+    7
+   ],
+   "nil": [],
+   "nima": [],
+   "nimaga": [
+    4
+   ],
+   "nom": [],
+   "nomi": [
+    3
+   ],
+   "nomusni": [
+    5
+   ],
+   "notanish": [],
+   "nozik": [],
+   "o'n": [],
+   "o'qib": [
+    4
+   ],
+   "o'qibdi": [
+    4,
+    5
+   ],
+   "o'qimagan": [
+    4,
+    6
+   ],
+   "o'qimaydigan": [
+    4,
+    6
+   ],
+   "o'qish": [
+    4
+   ],
+   "o'qishadi": [
+    4,
+    6
+   ],
+   "o'qituvchilarimizga": [
+    10,
+    13,
+    17
+   ],
+   "o'qiyapti": [
+    4,
+    7
+   ],
+   "o'qiydi": [
+    4,
+    5
+   ],
+   "o'qiymiz": [
+    4,
+    5
+   ],
+   "o'quvchilar": [
+    8
+   ],
+   "o'rab": [
+    4
+   ],
+   "o'rmonga": [
+    6
+   ],
+   "o'rnidin": [],
+   "o'rtaga": [
+    5
+   ],
+   "o'rtasidagi": [
+    5,
+    7
+   ],
+   "o'smirlar": [
+    6
+   ],
+   "o'stirish": [
+    3,
+    6
+   ],
+   "o'ta": [],
+   "o'tgan": [
+    3
+   ],
+   "o'tib": [
+    3
+   ],
+   "o'tibdi": [
+    3,
+    5
+   ],
+   "o'tin": [],
+   "o'tirgan": [
+    5
+   ],
+   "o'tkanlar": [
+    6
+   ],
+   "o'tkazib": [
+    6
+   ],
+   "o'tmay": [
+    3,
+    5
+   ],
+   "o'xshamasa": [
+    6,
+    8
+   ],
+   "o'xshash": [
+    6
+   ],
+   "o'xshaydi": [
+    6,
+    7
+   ],
+   "o'yin": [],
+   "o'yinlar": [
+    5
+   ],
+   "o'ylab": [
+    5
+   ],
+   "o'ylabdi": [
+    5,
+    6
+   ],
+   "o'ylashni": [
+    5,
+    7
+   ],
+   "o'ynadi": [
+    5
+   ],
+   "o'ynaydi": [
+    5,
+    6
+   ],
+   "o'ynaymiz": [
+    5,
+    6
+   ],
+   "o'z": [],
+   "o'zgachaligi": [
+    3,
+    11
+   ],
+   "o'zi": [
+    3
+   ],
+   "o'zlarini": [
+    3,
+    6,
+    7
+   ],
+   "och": [],
+   "ochgandir": [
+    6
+   ],
+   "ochib": [
+    3
+   ],
+   "ochildi": [
+    3,
+    5
+   ],
+   "ochilgan": [
+    3,
+    5
+   ],
+   "ochilmasdan": [
+    3,
+    5,
+    7,
+    8
+   ],
+   "ochilmay": [
+    3,
+    5,
+    7
+   ],
+   "ochish": [
+    3
+   ],
+   "odam": [],
+   "odamalar": [
+    5
+   ],
+   "odamga": [
+    4
+   ],
+   "odamlarning": [
+    4,
+    7
+   ],
+   "odamni": [
+    4
+   ],
+   "odamning": [
+    4
+   ],
+   "oddiy": [],
+   "og'lining": [
+    5
+   ],
+   "og'rilikcha": [
+    8
+   ],
+   "og'zini": [
+    4,
+    5
+   ],
+   "oilamiz": [
+    3,
+    4
+   ],
+   "oilasidagilarga": [
+    10,
+    13
+   ],
+   "oladigan": [
+    2
+   ],
+   "olam": [],
+   "olaman": [
+    2,
+    3
+   ],
+   "olar": [
+    2
+   ],
+   "olarman": [
+    1,
+    4
+   ],
+   "oldiga": [
+    3,
+    4
+   ],
+   "oldimga": [
+    3,
+    5
+   ],
+   "oldin": [],
+   "oldingiz": [
+    2,
+    4
+   ],
+   "oldingizda": [
+    3,
+    8
+   ],
+   "olib": [
+    2
+   ],
+   "olibdi": [
+    2,
+    4
+   ],
+   "oliy": [],
+   "olmay": [
+    2,
+    4
+   ],
+   "olmoqchi": [
+    2
+   ],
+   "olov": [
+    2
+   ],
+   "olsak": [
+    2,
+    4
+   ],
+   "olsam": [
+    2,
+    4
+   ],
+   "olti": [],
+   "oltin": [],
+   "onam": [
+    3
+   ],
+   "oppoq": [],
+   "orqali": [],
+   "ortira": [],
+   "orzu": [],
+   "orzuistaklarini": [
+    9,
+    12,
+    13
+   ],
+   "oshadi": [
+    3,
+    4
+   ],
+   "oshirib": [
+    5
+   ],
+   "oshirish": [
+    5
+   ],
+   "osmon": [],
+   "osmonning": [
+    5
+   ],
+   "ostimu": [],
+   "ot": [],
+   "ota": [],
+   "otibdi": [
+    2,
+    4
+   ],
+   "ovga": [
+    2
+   ],
+   "oxiriga": [
+    4,
+    5
+   ],
+   "oy": [],
+   "oyog'i": [
+    5
+   ],
+   "ozroq": [
+    2
+   ],
+   "ozuqa": [],
+   "parcha": [],
+   "parchada": [
+    6
+   ],
+   "parchani": [
+    6
+   ],
+   "pastda": [
+    4
+   ],
+   "pastdagi": [
+    4
+   ],
+   "pastki": [],
+   "paxta": [],
+   "paydo": [],
+   "payt": [],
+   "paytgacha": [
+    4
+   ],
+   "payti": [
+    4
+   ],
+   "pichirlabdi": [
+    8,
+    9
+   ],
+   "pildirab": [
+    7
+   ],
+   "pishganda": [
+    4,
+    7
+   ],
+   "pishirilgan": [
+    6,
+    8
+   ],
+   "piyoz": [],
+   "piyozni": [
+    5
+   ],
+   "piyozning": [
+    5
+   ],
+   "pokistan": [],
+   "pomir": [],
+   "poytaxti": [
+    7
+   ],
+   "qadam": [],
+   "qadar": [],
+   "qadimgi": [],
+   "qadimiy": [],
+   "qadrdon": [],
+   "qaliming": [
+    5
+   ],
+   "qancha": [],
+   "qanday": [],
+   "qani": [],
+   "qarab": [
+    4
+   ],
+   "qarang": [],
+   "qaranglar": [
+    4,
+    6
+   ],
+   "qarasa": [
+    4
+   ],
+   "qarash": [
+    4
+   ],
+   "qarashimiz": [
+    4,
+    6
+   ],
+   "qarashlarimni": [
+    6,
+    9,
+    11
+   ],
+   "qaraylik": [
+    4
+   ],
+   "qashqar": [],
+   "qashqarda": [
+    7
+   ],
+   "qashqarga": [
+    7
+   ],
+   "qashqarni": [
+    7
+   ],
+   "qayerdan": [
+    5
+   ],
+   "qayg'usida": [
+    6,
+    8
+   ],
+   "qaysi": [],
+   "qayta": [],
+   "qaytar": [
+    4
+   ],
+   "qaytib": [
+    4
+   ],
+   "qila": [],
+   "qilaman": [
+    3,
+    4
+   ],
+   "qilamiz": [
+    3,
+    4
+   ],
+   "qilasiz": [
+    3,
+    4
+   ],
+   "qildi": [
+    3
+   ],
+   "qilgan": [
+    3
+   ],
+   "qilganda": [
+    3,
+    6
+   ],
+   "qilganligimni": [
+    3,
+    6,
+    9,
+    11
+   ],
+   "qilib": [
+    3
+   ],
+   "qilibdi": [
+    3,
+    5
+   ],
+   "qilingan": [
+    3,
+    5
+   ],
+   "qilish": [
+    3
+   ],
+   "qilyapti": [
+    3
+   ],
+   "qirg'izston": [],
+   "qirg'oqda": [
+    7
+   ],
+   "qishloqdagi": [
+    7
+   ],
+   "qismini": [
+    4,
+    5
+   ],
+   "qisminimi": [
+    6,
+    7
+   ],
+   "qisminimu": [],
+   "qisqasi": [
+    5
+   ],
+   "qiz": [],
+   "qizg'in": [],
+   "qiziq": [],
+   "qiziqarli": [],
+   "qiziqishini": [
+    5,
+    8,
+    9
+   ],
+   "qizlar": [
+    3
+   ],
+   "qizlarni": [
+    3,
+    6
+   ],
+   "qizlarning": [
+    3,
+    6
+   ],
+   "qizni": [
+    3
+   ],
+   "qo'l": [],
+   "qo'llabdi": [
+    6,
+    7
+   ],
+   "qo'ng'iroq": [
+    7
+   ],
+   "qo'rqmanglar": [
+    7,
+    9
+   ],
+   "qo'rqqanidan": [
+    5,
+    8,
+    9
+   ],
+   "qo'shiq": [],
+   "qo'yamiz": [
+    4,
+    5
+   ],
+   "qo'yaylik": [
+    4
+   ],
+   "qo'ygan": [
+    4
+   ],
+   "qo'ygandim": [
+    4,
+    7,
+    9
+   ],
+   "qo'yganligini": [
+    4,
+    7,
+    10,
+    11
+   ],
+   "qo'yib": [
+    4
+   ],
+   "qo'yibdi": [
+    4,
+    6
+   ],
+   "qo'yilibdi": [
+    4,
+    6,
+    8
+   ],
+   "qo'yish": [
+    4
+   ],
+   "qo'ysangiz": [
+    4,
+    6
+   ],
+   "qochib": [
+    4
+   ],
+   "qochibdi": [
+    4,
+    6
+   ],
+   "qoladi": [
+    3,
+    4
+   ],
+   "qoldi": [
+    3
+   ],
+   "qoldim": [
+    3,
+    5
+   ],
+   "qoldiribdi": [
+    3,
+    6,
+    8
+   ],
+   "qolgan": [
+    3
+   ],
+   "qolibdi": [
+    3,
+    5
+   ],
+   "qolishi": [
+    3,
+    6
+   ],
+   "qolmaslik": [
+    3,
+    5,
+    6
+   ],
+   "qolmay": [
+    3,
+    5
+   ],
+   "qolmaydi": [
+    3,
+    5,
+    6
+   ],
+   "qonaq": [],
+   "qonaqning": [
+    5
+   ],
+   "qoraqurutog'i": [
+    12
+   ],
+   "qorninglar": [
+    4
+   ],
+   "qorong'uda": [
+    8
+   ],
+   "qoshg'ariy": [],
+   "qushlar": [
+    4
+   ],
+   "qushlardek": [
+    4,
+    7
+   ],
+   "qutulganiga": [
+    4,
+    5,
+    8,
+    9
+   ],
+   "qutulolmaydi": [
+    7,
+    9,
+    10
+   ],
+   "quvlamoqchi": [
+    5
+   ],
+   "quvlashmachoq": [],
+   "quvlashni": [
+    5,
+    7
+   ],
+   "rangdorligini": [
+    10,
+    11
+   ],
+   "rangga": [
+    4
+   ],
+   "rangli": [
+    5
+   ],
+   "raqs": [],
+   "rasmlarga": [
+    4,
+    7
+   ],
+   "rosa": [],
+   "rozi": [],
+   "rozilik": [],
+   "roziman": [
+    4
+   ],
+   "ruhining": [
+    3,
+    4
+   ],
+   "sadosidir": [
+    4,
+    6
+   ],
+   "safar": [],
+   "sahar": [],
+   "saqlash": [
+    5
+   ],
+   "saroyida": [
+    5,
+    6
+   ],
+   "saroyini": [
+    5,
+    6
+   ],
+   "sarxush": [],
+   "savaqdashlarning": [
+    9,
+    12
+   ],
+   "savdo": [],
+   "saviyali": [],
+   "saviyasini": [
+    6,
+    8
+   ],
+   "savodli": [
+    5
+   ],
+   "sayohatga": [
+    7
+   ],
+   "sayrab": [
+    5
+   ],
+   "sayrashdan": [
+    5,
+    7
+   ],
+   "sekin": [],
+   "semiz": [
+    2
+   ],
+   "sen": [],
+   "senda": [
+    3
+   ],
+   "senga": [
+    3
+   ],
+   "senlar": [
+    3
+   ],
+   "ser": [],
+   "sevintiradi": [
+    5,
+    8
+   ],
+   "sezib": [
+    3
+   ],
+   "sezmabdi": [
+    5,
+    6
+   ],
+   "shaffof": [],
+   "shahar": [],
+   "shahri": [
+    5
+   ],
+   "shakli": [],
+   "sharqda": [
+    5
+   ],
+   "shartnoma": [],
+   "shartnomada": [
+    9
+   ],
+   "shartnomaga": [
+    9
+   ],
+   "shartnomani": [
+    9
+   ],
+   "shartnomasi": [
+    9
+   ],
+   "shaxsiyati": [
+    9
+   ],
+   "sheva": [],
+   "shevalar": [
+    5
+   ],
+   "shevalarni": [
+    5,
+    8
+   ],
+   "shevasi": [
+    5
+   ],
+   "shildirashdan": [
+    8,
+    10
+   ],
+   "shildirlab": [
+    9
+   ],
+   "shilib": [
+    4
+   ],
+   "shimolda": [
+    6
+   ],
+   "sho'x": [],
+   "shodlikka": [
+    7
+   ],
+   "shoh": [],
+   "shoxini": [
+    4,
+    5
+   ],
+   "shoxlarining": [
+    4,
+    7,
+    8
+   ],
+   "shu": [],
+   "shumlarni": [
+    4,
+    7
+   ],
+   "shumni": [
+    4
+   ],
+   "shuncha": [],
+   "shundan": [
+    4
+   ],
+   "shunday": [],
+   "shundoq": [],
+   "shunga": [
+    4
+   ],
+   "shuning": [
+    3
+   ],
+   "shuningdek": [],
+   "sichqon": [],
+   "sinfda": [
+    4
+   ],
+   "sinflarga": [
+    4,
+    7
+   ],
+   "singari": [],
+   "sirtida": [
+    4,
+    5
+   ],
+   "siz": [],
+   "sizga": [
+    3
+   ],
+   "sizni": [
+    3
+   ],
+   "so'rabdi": [
+    5,
+    6
+   ],
+   "so'z": [],
+   "so'zlab": [
+    6
+   ],
+   "sovg'alarimizni": [
+    6,
+    9,
+    13
+   ],
+   "suhbatlardan": [
+    6,
+    9
+   ],
+   "sukunatlargacha": [
+    10
+   ],
+   "suratini": [
+    5,
+    6
+   ],
+   "suv": [],
+   "suvdan": [
+    3
+   ],
+   "suvga": [
+    3
+   ],
+   "suvni": [
+    3
+   ],
+   "suzib": [
+    3
+   ],
+   "ta'mining": [
+    4,
+    5
+   ],
+   "ta'sirchan": [],
+   "ta'siri": [
+    6
+   ],
+   "tabiatni": [
+    6
+   ],
+   "tabiiat": [],
+   "tadqiqotlarda": [
+    8,
+    11
+   ],
+   "tagidagi": [
+    3,
+    4
+   ],
+   "taklimakan": [
+    5,
+    7
+   ],
+   "talpinishi": [
+    6,
+    9
+   ],
+   "tanaffus": [],
+   "tanaffusda": [
+    8
+   ],
+   "tangritog'": [],
+   "taqdim": [
+    3,
+    5
+   ],
+   "tarixda": [
+    5
+   ],
+   "tarixga": [
+    5
+   ],
+   "tarixidir": [
+    5,
+    6
+   ],
+   "tarixining": [
+    5,
+    6
+   ],
+   "tarixni": [
+    5
+   ],
+   "tarkibida": [
+    6,
+    7
+   ],
+   "tartib": [],
+   "tartibini": [
+    6,
+    7
+   ],
+   "tashkil": [],
+   "tatilda": [
+    5
+   ],
+   "taxtga": [
+    4
+   ],
+   "tegadi": [
+    3,
+    4
+   ],
+   "tera": [],
+   "teraklik": [],
+   "tergani": [
+    3,
+    6
+   ],
+   "teriladigan": [
+    3,
+    5
+   ],
+   "texnikasi": [
+    7
+   ],
+   "tikilib": [
+    3,
+    5
+   ],
+   "tildan": [
+    3
+   ],
+   "tili": [
+    3
+   ],
+   "timsoh": [],
+   "timsohning": [
+    6
+   ],
+   "to'g'ri": [],
+   "to'ldiradi": [
+    7,
+    8
+   ],
+   "to'lgan": [
+    4
+   ],
+   "to'lqinli": [],
+   "to'ng'iz": [],
+   "to'p": [],
+   "to'qibdi": [
+    5,
+    6
+   ],
+   "to'xtab": [
+    6
+   ],
+   "tog'": [],
+   "tog'lari": [
+    4,
+    7
+   ],
+   "tog'risidagi": [
+    6,
+    8
+   ],
+   "tojikistan": [],
+   "tomonga": [
+    5
+   ],
+   "topdi": [
+    3
+   ],
+   "torini": [
+    3,
+    4
+   ],
+   "toshshahar": [],
+   "tuman": [],
+   "turadigan": [
+    3
+   ],
+   "turamiz": [
+    3,
+    4
+   ],
+   "turib": [
+    3
+   ],
+   "turibdimi": [
+    3,
+    5,
+    7
+   ],
+   "turining": [
+    3,
+    4
+   ],
+   "turli": [],
+   "turmush": [],
+   "turmushda": [
+    7
+   ],
+   "turmushimiz": [
+    7
+   ],
+   "turmushni": [
+    7
+   ],
+   "tursa": [
+    3
+   ],
+   "tushibdi": [
+    4,
+    6
+   ],
+   "tushunish": [
+    6
+   ],
+   "tushunishimiz": [
+    6,
+    9
+   ],
+   "tutashgan": [
+    4,
+    6
+   ],
+   "tutganicha": [
+    3,
+    6
+   ],
+   "tutushib": [
+    6
+   ],
+   "tuyiladi": [
+    3,
+    5
+   ],
+   "tuzgani": [
+    3,
+    6
+   ],
+   "uchgan": [
+    3
+   ],
+   "uchib": [
+    3
+   ],
+   "uchinchi": [
+    3
+   ],
+   "uchini": [
+    3,
+    4
+   ],
+   "uchishdan": [
+    3,
+    6
+   ],
+   "uchishsa": [
+    6
+   ],
+   "uchrashish": [
+    5,
+    7
+   ],
+   "uchun": [],
+   "ular": [
+    1
+   ],
+   "ulardan": [
+    1,
+    4
+   ],
+   "ularga": [
+    1,
+    4
+   ],
+   "ularni": [
+    1,
+    4
+   ],
+   "ularning": [
+    1,
+    4
+   ],
+   "ulug'": [],
+   "ulug'vor": [],
+   "umumiy": [],
+   "umumiyligini": [
+    9,
+    10
+   ],
+   "unda": [
+    2
+   ],
+   "undan": [
+    2
+   ],
+   "undanda": [
+    5
+   ],
+   "unib": [
+    2
+   ],
+   "uning": [
+    2
+   ],
+   "unub": [],
+   "unutib": [
+    4
+   ],
+   "unvondagi": [
+    5
+   ],
+   "urushning": [
+    5
+   ],
+   "usti": [
+    3
+   ],
+   "ustimu": [],
+   "usulidan": [
+    4,
+    5
+   ],
+   "usulimiz": [
+    5
+   ],
+   "uxlab": [
+    4
+   ],
+   "uxlaydigan": [
+    4
+   ],
+   "uyg'urlar": [
+    6
+   ],
+   "uyiga": [
+    2,
+    3
+   ],
+   "uyqusida": [
+    4,
+    6
+   ],
+   "uzib": [
+    2
+   ],
+   "uzoq": [],
+   "uzoqdan": [
+    4
+   ],
+   "uzubdi": [
+    3,
+    4
+   ],
+   "va": [],
+   "vafot": [],
+   "vahima": [],
+   "vaqtingiz": [
+    4
+   ],
+   "vaqtini": [
+    4,
+    5
+   ],
+   "viloyat": [],
+   "viloyatining": [
+    7,
+    8
+   ],
+   "vositasidir": [
+    6,
+    8
+   ],
+   "xa": [],
+   "xalq": [],
+   "xalqi": [
+    4
+   ],
+   "xap": [],
+   "xatimni": [
+    3,
+    5
+   ],
+   "xatingizni": [
+    3,
+    8
+   ],
+   "xatning": [
+    3
+   ],
+   "xil": [],
+   "xili": [
+    3
+   ],
+   "xohlash": [
+    5
+   ],
+   "xoja": [],
+   "xonliklarning": [
+    6,
+    9
+   ],
+   "xos": [],
+   "xoshhol": [],
+   "xuddi": [],
+   "xush": [],
+   "xushmanzara": [],
+   "yana": [],
+   "yangi": [],
+   "yanglishadi": [
+    8,
+    9
+   ],
+   "yanglishgan": [
+    8
+   ],
+   "yaproqlar": [
+    6
+   ],
+   "yaproqlari": [
+    6,
+    9
+   ],
+   "yaqinlashib": [
+    9
+   ],
+   "yaqinlashish": [
+    9
+   ],
+   "yashil": [],
+   "yashirin": [],
+   "yashirinib": [
+    6,
+    8
+   ],
+   "yaxshi": [],
+   "yaylov": [],
+   "yaylovlar": [
+    6
+   ],
+   "yeb": [
+    2
+   ],
+   "yechib": [
+    4
+   ],
+   "yegulik": [],
+   "yegulikli": [],
+   "yemayapsilar": [
+    9
+   ],
+   "yemaylik": [
+    2,
+    4
+   ],
+   "yer": [],
+   "yerdan": [
+    3
+   ],
+   "yetgandan": [
+    3,
+    6
+   ],
+   "yetib": [
+    3
+   ],
+   "yetishtirilgan": [
+    6,
+    9,
+    11
+   ],
+   "yetkazadi": [
+    6,
+    7
+   ],
+   "yig'amiz": [
+    4,
+    5
+   ],
+   "yig'ib": [
+    4
+   ],
+   "yig'ishga": [
+    4,
+    7
+   ],
+   "yig'lashga": [
+    6,
+    8
+   ],
+   "yil": [],
+   "yilga": [
+    3
+   ],
+   "yilgi": [],
+   "yili": [
+    3
+   ],
+   "yilidan": [
+    3,
+    4
+   ],
+   "yiliga": [
+    3,
+    4
+   ],
+   "yillar": [
+    3
+   ],
+   "yillarning": [
+    3,
+    6
+   ],
+   "yillik": [],
+   "yiroqlashgandan": [
+    9,
+    12
+   ],
+   "yo'ldan": [
+    4
+   ],
+   "yo'li": [
+    4
+   ],
+   "yo'lining": [
+    4,
+    5
+   ],
+   "yo'llaridan": [
+    4,
+    7,
+    8
+   ],
+   "yo'q": [],
+   "yodgorliklar": [
+    9
+   ],
+   "yoki": [],
+   "yonayotgan": [
+    3
+   ],
+   "yong'oq": [],
+   "yonida": [
+    3,
+    4
+   ],
+   "yonimda": [
+    3,
+    5
+   ],
+   "yopiq": [],
+   "yoqqa": [
+    3
+   ],
+   "yorug'": [],
+   "yosh": [],
+   "yoshli": [],
+   "yotibdi": [
+    3,
+    5
+   ],
+   "yovvoyi": [],
+   "yozadigan": [
+    3
+   ],
+   "yozgandim": [
+    3,
+    6,
+    8
+   ],
+   "yozibdi": [
+    3,
+    5
+   ],
+   "yuboryapti": [
+    5,
+    8
+   ],
+   "yuguribdi": [
+    5,
+    7
+   ],
+   "yumulib": [
+    5
+   ],
+   "yuqori": [],
+   "yuragingizda": [
+    5,
+    10
+   ],
+   "yurak": [],
+   "yuramiz": [
+    3,
+    4
+   ],
+   "yurgan": [
+    3
+   ],
+   "yuribdi": [
+    3,
+    5
+   ],
+   "yurishadi": [
+    3,
+    6
+   ],
+   "yurti": [
+    4
+   ],
+   "yusuf": [],
+   "yutishga": [
+    3,
+    6
+   ],
+   "yutqazib": [
+    6
+   ],
+   "yutqizib": [
+    6
+   ],
+   "yuz": [],
+   "yuzlarida": [
+    3,
+    6,
+    7
+   ],
+   "zaif": [],
+   "zamin": [],
+   "zamonlarda": [
+    5,
+    8
+   ],
+   "zehningizni": [
+    4,
+    9
+   ],
+   "zerikishdan": [
+    5,
+    8
+   ]
+  },
+  "hard": {
+   "adabingni": [
+    4,
+    7
+   ],
+   "adabiy": [],
+   "adabiyasarlar": [
+    10
+   ],
+   "adabiyot": [],
+   "adabiyotdan": [
+    8
+   ],
+   "adabiyotga": [
+    8
+   ],
+   "adabiyoti": [
+    8
+   ],
+   "adashib": [
+    5
+   ],
+   "advokatini": [
+    7,
+    8
+   ],
+   "afandi": [
+    5
+   ],
+   "afandim": [
+    5
+   ],
+   "afg'oniston": [],
+   "afsun": [],
+   "afsus": [],
+   "agarda": [
+    4
+   ],
+   "ahil": [],
+   "aholisi": [
+    5
+   ],
+   "aholisining": [
+    5,
+    7
+   ],
+   "ajoyib": [],
+   "aka": [],
+   "allomalarning": [
+    6,
+    9
+   ],
+   "ammo": [],
+   "ana": [],
+   "anglagan": [
+    5
+   ],
+   "anhorlarda": [
+    5,
+    8
+   ],
+   "aniqlamoqchi": [
+    6
+   ],
+   "aniqlashda": [
+    6,
+    8
+   ],
+   "aniqlayolmabdi": [
+    11,
+    12
+   ],
+   "aqlga": [
+    3
+   ],
+   "aqliy": [],
+   "aqlli": [],
+   "arg'amcha": [
+    6
+   ],
+   "arg'amchini": [
+    9
+   ],
+   "arg'imchoq": [],
+   "arilarning": [
+    3,
+    6
+   ],
+   "ariq": [],
+   "arqon": [],
+   "arqonlarni": [
+    5,
+    8
+   ],
+   "arqonning": [
+    5
+   ],
+   "arvohi": [
+    5
+   ],
+   "asal": [],
+   "asarlari": [
+    4,
+    7
+   ],
+   "asarlarni": [
+    4,
+    7
+   ],
+   "ashyolarni": [
+    5,
+    8
+   ],
+   "asil": [],
+   "aslida": [
+    3,
+    4
+   ],
+   "aslo": [],
+   "asoslanib": [
+    7
+   ],
+   "atalibdi": [
+    4,
+    6
+   ],
+   "avloddan": [
+    5
+   ],
+   "avlodga": [
+    5
+   ],
+   "avval": [],
+   "avvalida": [
+    5,
+    6
+   ],
+   "ayamasangiz": [
+    3,
+    5,
+    7
+   ],
+   "aylandi": [
+    5
+   ],
+   "ayni": [],
+   "ayon": [],
+   "aytganidan": [
+    3,
+    6,
+    7
+   ],
+   "aytganingizdek": [
+    3,
+    6,
+    11
+   ],
+   "aytganini": [
+    3,
+    6,
+    7
+   ],
+   "aytib": [
+    3
+   ],
+   "aziz": [],
+   "ba'zi": [],
+   "ba'zilari": [
+    5,
+    8
+   ],
+   "badbashara": [],
+   "badiyasarlarning": [
+    9,
+    12
+   ],
+   "baholanib": [
+    6,
+    7
+   ],
+   "baqiribdi": [
+    5,
+    7
+   ],
+   "barakalla": [],
+   "barglarini": [
+    4,
+    7,
+    8
+   ],
+   "bas": [],
+   "basta": [],
+   "baxtimdir": [
+    6
+   ],
+   "baxtiyor": [],
+   "bayon": [],
+   "bazalarining": [
+    4,
+    7,
+    8
+   ],
+   "bazi": [
+    3
+   ],
+   "beg'ubor": [],
+   "bemanilikdir": [
+    9
+   ],
+   "bepoyon": [],
+   "beradi": [
+    3,
+    4
+   ],
+   "beramiz": [
+    3,
+    4
+   ],
+   "beray": [],
+   "bergan": [
+    3
+   ],
+   "bergin": [
+    3
+   ],
+   "beribdi": [
+    3,
+    5
+   ],
+   "bering": [
+    3
+   ],
+   "berish": [
+    3
+   ],
+   "bermaydigan": [
+    3,
+    5
+   ],
+   "besh": [],
+   "betob": [],
+   "bilan": [],
+   "bildingiz": [
+    3,
+    5
+   ],
+   "bildiribdi": [
+    3,
+    6,
+    8
+   ],
+   "bilib": [
+    3
+   ],
+   "bilim": [],
+   "bilimini": [
+    5,
+    6
+   ],
+   "bilimning": [
+    5
+   ],
+   "bilmaydigan": [
+    3,
+    5
+   ],
+   "bir": [],
+   "birdan": [
+    3
+   ],
+   "birga": [
+    3
+   ],
+   "biri": [
+    3
+   ],
+   "birida": [
+    3,
+    4
+   ],
+   "biriktirilgan": [
+    8,
+    10
+   ],
+   "birini": [
+    3,
+    4
+   ],
+   "birlikda": [
+    6
+   ],
+   "biroq": [
+    2
+   ],
+   "biror": [],
+   "biroz": [],
+   "biz": [],
+   "bizda": [
+    3
+   ],
+   "bizga": [
+    3
+   ],
+   "bizni": [
+    3
+   ],
+   "bizning": [
+    3
+   ],
+   "bo'ladi": [
+    4,
+    5
+   ],
+   "bo'lar": [
+    4
+   ],
+   "bo'lardik": [
+    4,
+    6,
+    8
+   ],
+   "bo'layotgandek": [
+    4,
+    11
+   ],
+   "bo'ldi": [
+    4
+   ],
+   "bo'ldim": [
+    4,
+    6
+   ],
+   "bo'lgan": [
+    4
+   ],
+   "bo'lganda": [
+    4,
+    7
+   ],
+   "bo'lib": [
+    4
+   ],
+   "bo'libdi": [
+    4,
+    6
+   ],
+   "bo'limdagi": [
+    6
+   ],
+   "bo'lishga": [
+    4,
+    7
+   ],
+   "bo'lishni": [
+    4,
+    7
+   ],
+   "bo'lmaganligidan": [
+    4,
+    6,
+    9,
+    12,
+    13
+   ],
+   "bo'lmaydi": [
+    4,
+    6,
+    7
+   ],
+   "bo'lmaydigan": [
+    4,
+    6
+   ],
+   "bo'lmoqdamiz": [
+    9
+   ],
+   "bo'lsa": [
+    4
+   ],
+   "bo'lsada": [
+    6
+   ],
+   "bo'lsak": [
+    4,
+    6
+   ],
+   "bo'lsam": [
+    4,
+    6
+   ],
+   "bo'lsangiz": [
+    4,
+    6
+   ],
+   "bo'lsin": [
+    4
+   ],
+   "bo'pti": [
+    5
+   ],
+   "bo'yicha": [],
+   "bo'yiga": [
+    4,
+    5
+   ],
+   "bog'chamiz": [
+    7
+   ],
+   "bog'lab": [
+    6
+   ],
+   "bog'langan": [
+    6,
+    7
+   ],
+   "bog'larga": [
+    4,
+    7
+   ],
+   "bola": [],
+   "bolaga": [
+    4
+   ],
+   "bolalar": [
+    4
+   ],
+   "bolalari": [
+    4,
+    7
+   ],
+   "bolam": [
+    4
+   ],
+   "bor": [],
+   "boray": [],
+   "borganda": [
+    3,
+    6
+   ],
+   "borib": [
+    3
+   ],
+   "boribdi": [
+    3,
+    5
+   ],
+   "borliq": [],
+   "bormoqchi": [
+    3
+   ],
+   "bormoqchiligimizni": [
+    12,
+    16
+   ],
+   "boshi": [
+    4
+   ],
+   "boshini": [
+    4,
+    5
+   ],
+   "boshlab": [
+    6
+   ],
+   "boshlanar": [
+    7
+   ],
+   "boshog'ini": [
+    7,
+    8
+   ],
+   "boshqalarni": [
+    6,
+    9
+   ],
+   "bosibdi": [
+    3,
+    5
+   ],
+   "boy": [],
+   "boyga": [
+    3
+   ],
+   "boyitadi": [
+    5,
+    6
+   ],
+   "boyitishning": [
+    5,
+    8
+   ],
+   "boyning": [
+    3
+   ],
+   "bu": [],
+   "bug'doy": [],
+   "bug'doylarining": [
+    7,
+    10,
+    11
+   ],
+   "bundan": [
+    3
+   ],
+   "bunday": [],
+   "buni": [
+    2
+   ],
+   "burjiga": [
+    4,
+    5
+   ],
+   "buyuribdi": [
+    5,
+    7
+   ],
+   "chaksiz": [
+    4
+   ],
+   "chalindi": [
+    4,
+    6
+   ],
+   "chegaralangan": [
+    9,
+    10
+   ],
+   "cheksiz": [],
+   "chertmay": [
+    5,
+    7
+   ],
+   "chiday": [
+    3
+   ],
+   "chiqarib": [
+    4,
+    6
+   ],
+   "chiqasan": [
+    4,
+    5
+   ],
+   "chiqibdi": [
+    4,
+    6
+   ],
+   "chiqirish": [
+    4,
+    6
+   ],
+   "chiqishdan": [
+    4,
+    7
+   ],
+   "chiqqanning": [
+    7
+   ],
+   "chiroyli": [],
+   "chizib": [
+    4
+   ],
+   "cho'chaytirgancha": [
+    11,
+    14
+   ],
+   "cho'li": [
+    5
+   ],
+   "cho'mdi": [
+    5
+   ],
+   "cho'milsak": [
+    7,
+    9
+   ],
+   "chunki": [],
+   "chuqurlashadi": [
+    10,
+    11
+   ],
+   "chuvurlaship": [],
+   "da": [],
+   "dada": [],
+   "dadasi": [
+    4
+   ],
+   "dan": [],
+   "daraxt": [],
+   "daraxtga": [
+    6
+   ],
+   "dardga": [
+    4
+   ],
+   "dardimni": [
+    4,
+    6
+   ],
+   "dardini": [
+    4,
+    5
+   ],
+   "darhol": [],
+   "darvozasi": [
+    7
+   ],
+   "daryo": [],
+   "daryoda": [
+    5
+   ],
+   "daryodan": [
+    5
+   ],
+   "daryosiga": [
+    5,
+    7
+   ],
+   "davomida": [
+    5,
+    6
+   ],
+   "davr": [],
+   "davrning": [
+    4
+   ],
+   "deb": [],
+   "debdi": [
+    2,
+    3
+   ],
+   "dedi": [],
+   "degan": [],
+   "dehqon": [],
+   "dehqonga": [
+    6
+   ],
+   "dehqonlar": [
+    6
+   ],
+   "dengiz": [],
+   "dengizsan": [
+    6
+   ],
+   "deyishgan": [
+    6
+   ],
+   "deyishibdi": [
+    6,
+    8
+   ],
+   "dialog": [],
+   "do'sti": [
+    5
+   ],
+   "do'stlari": [
+    5,
+    8
+   ],
+   "do'stlariga": [
+    5,
+    8,
+    9
+   ],
+   "doir": [],
+   "doktor": [],
+   "duch": [],
+   "dumiga": [
+    3,
+    4
+   ],
+   "dunyo": [],
+   "dunyoda": [
+    5
+   ],
+   "dunyoni": [
+    5
+   ],
+   "dunyosiga": [
+    5,
+    7
+   ],
+   "durdonalari": [
+    7,
+    10
+   ],
+   "edi": [],
+   "edimku": [],
+   "ega": [],
+   "ekan": [],
+   "ekibdi": [
+    2,
+    4
+   ],
+   "ekishni": [
+    2,
+    5
+   ],
+   "ekskursiya": [],
+   "elimizning": [
+    2,
+    6
+   ],
+   "emasmi": [
+    4
+   ],
+   "endi": [],
+   "eng": [],
+   "eshik": [],
+   "eshiklar": [
+    5
+   ],
+   "eshiklarni": [
+    5,
+    8
+   ],
+   "eshikning": [
+    5
+   ],
+   "etibdi": [
+    2,
+    4
+   ],
+   "eytip": [],
+   "fan": [],
+   "faqat": [],
+   "farqi": [
+    4
+   ],
+   "farqidan": [
+    4,
+    5
+   ],
+   "fe'li": [
+    4
+   ],
+   "fotima": [],
+   "fotimaning": [
+    6
+   ],
+   "foydalanib": [
+    8
+   ],
+   "g'aflat": [],
+   "g'arbda": [
+    5
+   ],
+   "g'arbiy": [],
+   "g'ayaviy": [],
+   "g'azablangan": [
+    9
+   ],
+   "g'ing": [
+    2
+   ],
+   "g'o'lasini": [
+    6,
+    8
+   ],
+   "gaplarim": [
+    3,
+    6
+   ],
+   "go'shtdan": [
+    6
+   ],
+   "go'shtni": [
+    6
+   ],
+   "go'yo": [],
+   "go'zal": [],
+   "go'zallashib": [
+    10
+   ],
+   "go'zallikning": [
+    9
+   ],
+   "gulga": [
+    3
+   ],
+   "guli": [
+    3
+   ],
+   "gullarga": [
+    3,
+    6
+   ],
+   "gulxan": [],
+   "gulxanning": [
+    6
+   ],
+   "guruch": [],
+   "ha": [],
+   "hal": [],
+   "hali": [],
+   "haligi": [
+    5
+   ],
+   "ham": [],
+   "hamaqatning": [
+    7
+   ],
+   "hamma": [],
+   "hammaga": [
+    5
+   ],
+   "hammasini": [
+    5,
+    7
+   ],
+   "hamroh": [],
+   "haqida": [
+    3,
+    4
+   ],
+   "haqiqat": [],
+   "haqorat": [],
+   "har": [],
+   "havaslari": [
+    5,
+    8
+   ],
+   "haybatli": [],
+   "haydabdi": [
+    5,
+    6
+   ],
+   "hayot": [],
+   "hayotiy": [],
+   "hayotning": [
+    5
+   ],
+   "hayranlikdan": [
+    9
+   ],
+   "hayva": [],
+   "hayvonlar": [
+    6
+   ],
+   "hayvonlarni": [
+    6,
+    9
+   ],
+   "hayvonning": [
+    6
+   ],
+   "hech": [],
+   "hikoyalar": [
+    6
+   ],
+   "hindiston": [],
+   "his": [],
+   "hisab": [
+    4
+   ],
+   "hisobi": [
+    5
+   ],
+   "hisoblagan": [
+    7
+   ],
+   "hisoblanadigan": [
+    8
+   ],
+   "hissiyot": [],
+   "hissiyotini": [
+    8,
+    9
+   ],
+   "hissiyotining": [
+    8,
+    9
+   ],
+   "hissiyotlarining": [
+    8,
+    11,
+    12
+   ],
+   "hiylagar": [],
+   "hojib": [],
+   "holatda": [
+    5
+   ],
+   "holda": [
+    3
+   ],
+   "holni": [
+    3
+   ],
+   "hosilning": [
+    5
+   ],
+   "hovlisi": [
+    5
+   ],
+   "iboratdir": [
+    6
+   ],
+   "ichi": [
+    3
+   ],
+   "ichib": [
+    3
+   ],
+   "ichida": [
+    3,
+    4
+   ],
+   "ichidagi": [
+    3,
+    4
+   ],
+   "ichiga": [
+    3,
+    4
+   ],
+   "ifodalanish": [
+    8
+   ],
+   "ifodasini": [
+    5,
+    7
+   ],
+   "ijara": [],
+   "ijobiy": [],
+   "ijtimoiy": [],
+   "ikkinchi": [
+    4
+   ],
+   "ilgari": [],
+   "inoq": [],
+   "inson": [],
+   "insoniyat": [],
+   "insoniyatning": [
+    9
+   ],
+   "ipak": [],
+   "irodasi": [
+    5
+   ],
+   "ishga": [
+    3
+   ],
+   "ishlab": [
+    5
+   ],
+   "ismi": [
+    3
+   ],
+   "ismli": [],
+   "istagi": [
+    5
+   ],
+   "ixcham": [],
+   "izhori": [
+    5
+   ],
+   "izlash": [],
+   "jahattan": [],
+   "jahon": [],
+   "jahonga": [
+    5
+   ],
+   "jami": [
+    3
+   ],
+   "jamiyatni": [
+    7
+   ],
+   "janubda": [
+    5
+   ],
+   "jarayonidir": [
+    7,
+    8
+   ],
+   "javhari": [
+    6
+   ],
+   "javohirlari": [
+    7,
+    10
+   ],
+   "jilva": [],
+   "jimjitlikka": [
+    9
+   ],
+   "jiring": [
+    3
+   ],
+   "jo'r": [],
+   "jodugar": [],
+   "jome": [],
+   "jon": [],
+   "jonlanib": [
+    6
+   ],
+   "jonlantirib": [
+    6,
+    9
+   ],
+   "juda": [],
+   "kambag'al": [],
+   "kampir": [],
+   "kapalak": [],
+   "kapalaklar": [
+    7
+   ],
+   "katta": [],
+   "kayfiyatga": [
+    8
+   ],
+   "kechirasiz": [
+    6,
+    7
+   ],
+   "kechqurun": [],
+   "kelajak": [],
+   "kelganda": [
+    3,
+    6
+   ],
+   "kelib": [
+    3
+   ],
+   "kelibdi": [
+    3,
+    5
+   ],
+   "kelibdilar": [
+    3,
+    5,
+    7
+   ],
+   "kelinmoqda": [
+    3,
+    5
+   ],
+   "kelish": [
+    3
+   ],
+   "kelishiga": [
+    3,
+    6,
+    7
+   ],
+   "kelsa": [
+    3
+   ],
+   "kelsak": [
+    3,
+    5
+   ],
+   "kengash": [],
+   "kerak": [],
+   "ketadi": [
+    3,
+    4
+   ],
+   "ketasilar": [
+    6
+   ],
+   "ketdi": [
+    3
+   ],
+   "ketibdi": [
+    3,
+    5
+   ],
+   "ketmoqda": [
+    3
+   ],
+   "ketolmaymiz": [
+    7,
+    8
+   ],
+   "keyin": [],
+   "kezish": [
+    3
+   ],
+   "kichik": [],
+   "kilometr": [],
+   "kim": [],
+   "kirdi": [
+    3
+   ],
+   "kirgandi": [
+    3,
+    6
+   ],
+   "kirganini": [
+    3,
+    6,
+    7
+   ],
+   "kishilar": [
+    5
+   ],
+   "kishilardir": [
+    5,
+    8
+   ],
+   "kitob": [],
+   "kitobxonlarning": [
+    8,
+    11
+   ],
+   "kiygan": [
+    3
+   ],
+   "kiyimlarni": [
+    5,
+    8
+   ],
+   "ko'ki": [
+    4
+   ],
+   "ko'kka": [
+    4
+   ],
+   "ko'ngildagidek": [
+    11
+   ],
+   "ko'ngillik": [],
+   "ko'p": [],
+   "ko'pchilikka": [
+    10
+   ],
+   "ko'plab": [
+    6
+   ],
+   "ko'pligi": [
+    7
+   ],
+   "ko'proq": [
+    4
+   ],
+   "ko'radigan": [
+    4
+   ],
+   "ko'rib": [
+    4
+   ],
+   "ko'rinibdi": [
+    4,
+    6,
+    8
+   ],
+   "ko'rinishi": [
+    4,
+    6,
+    9
+   ],
+   "ko'rish": [
+    4
+   ],
+   "ko'rsatib": [
+    7
+   ],
+   "ko'rsatibdi": [
+    7,
+    9
+   ],
+   "ko'rsatilsa": [
+    9
+   ],
+   "ko'rsitib": [
+    7
+   ],
+   "ko'ydirib": [
+    4,
+    7
+   ],
+   "ko'z": [],
+   "kulgilar": [
+    5
+   ],
+   "kulgu": [],
+   "kulib": [
+    3
+   ],
+   "kulibdi": [
+    3,
+    5
+   ],
+   "kundalik": [],
+   "kunlarning": [
+    3,
+    6
+   ],
+   "kunsayin": [
+    5
+   ],
+   "kuz": [],
+   "kvadrat": [],
+   "lag'aylab": [
+    8
+   ],
+   "lahjaning": [
+    5
+   ],
+   "lavullab": [
+    7
+   ],
+   "lippilagan": [
+    7
+   ],
+   "ma'lumotli": [],
+   "ma'qul": [],
+   "madaniyat": [],
+   "madaniyatli": [
+    9
+   ],
+   "magistr": [],
+   "mahallani": [
+    7
+   ],
+   "mahallaning": [
+    7
+   ],
+   "mahmud": [],
+   "majbur": [],
+   "majoziy": [],
+   "makoni": [
+    4
+   ],
+   "maktab": [],
+   "maktabda": [
+    6
+   ],
+   "maktabga": [
+    6
+   ],
+   "maktabimiz": [
+    6
+   ],
+   "maktabka": [],
+   "maktabning": [
+    6
+   ],
+   "mamkap": [],
+   "mamlakat": [],
+   "mamnuniyat": [],
+   "mana": [],
+   "manzaralar": [
+    7
+   ],
+   "manzarasini": [
+    7,
+    9
+   ],
+   "manzillar": [
+    6
+   ],
+   "maqbaralari": [
+    7,
+    10
+   ],
+   "maqsadini": [
+    6,
+    7
+   ],
+   "markazi": [
+    6
+   ],
+   "mashhur": [],
+   "masjidlari": [
+    6,
+    9
+   ],
+   "maslahat": [],
+   "maslahati": [
+    8
+   ],
+   "matnlarda": [
+    4,
+    7
+   ],
+   "matnlarni": [
+    4,
+    7
+   ],
+   "mavjud": [],
+   "mavzuda": [
+    5
+   ],
+   "maydonda": [
+    6
+   ],
+   "maydoni": [
+    6
+   ],
+   "mazmunli": [
+    6
+   ],
+   "mazori": [
+    5
+   ],
+   "men": [],
+   "mening": [
+    3
+   ],
+   "meva": [],
+   "millat": [],
+   "millatning": [
+    6
+   ],
+   "million": [],
+   "milliycha": [
+    6
+   ],
+   "mindirib": [
+    3,
+    6
+   ],
+   "ming": [],
+   "mingdan": [
+    1,
+    4
+   ],
+   "minib": [
+    3
+   ],
+   "miyig'ida": [
+    6,
+    7
+   ],
+   "mohiyatan": [],
+   "muallim": [],
+   "muammolarga": [
+    6,
+    9
+   ],
+   "muhim": [],
+   "mujassam": [],
+   "mukammal": [],
+   "mukammalligini": [
+    11,
+    12
+   ],
+   "mumkin": [],
+   "munavvar": [],
+   "muncha": [],
+   "munosabat": [],
+   "mushtdek": [
+    5
+   ],
+   "mutloq": [],
+   "namoyon": [],
+   "naqadar": [],
+   "narsalardan": [
+    5,
+    8
+   ],
+   "narsalargacha": [
+    8
+   ],
+   "narsasi": [
+    5
+   ],
+   "natijasi": [
+    6
+   ],
+   "navkarlar": [
+    6
+   ],
+   "navkarlariga": [
+    6,
+    9,
+    10
+   ],
+   "naxsha": [],
+   "nazaringdan": [
+    5,
+    8
+   ],
+   "necha": [],
+   "nihoyatda": [
+    7
+   ],
+   "nil": [],
+   "nima": [],
+   "nimaga": [
+    4
+   ],
+   "nom": [],
+   "nomi": [
+    3
+   ],
+   "nomusni": [
+    5
+   ],
+   "notanish": [],
+   "nozik": [],
+   "o'n": [],
+   "o'qib": [
+    4
+   ],
+   "o'qibdi": [
+    4,
+    5
+   ],
+   "o'qimagan": [
+    4,
+    6
+   ],
+   "o'qimaydigan": [
+    4,
+    6
+   ],
+   "o'qish": [
+    4
+   ],
+   "o'qishadi": [
+    4,
+    6
+   ],
+   "o'qituvchilarimizga": [
+    10,
+    13,
+    17
+   ],
+   "o'qiyapti": [
+    4,
+    7
+   ],
+   "o'qiydi": [
+    4,
+    5
+   ],
+   "o'qiymiz": [
+    4,
+    5
+   ],
+   "o'quvchilar": [
+    8
+   ],
+   "o'rab": [
+    4
+   ],
+   "o'rmonga": [
+    6
+   ],
+   "o'rnidin": [],
+   "o'rtaga": [
+    5
+   ],
+   "o'rtasidagi": [
+    5,
+    7
+   ],
+   "o'smirlar": [
+    6
+   ],
+   "o'stirish": [
+    3,
+    6
+   ],
+   "o'ta": [],
+   "o'tgan": [
+    3
+   ],
+   "o'tib": [
+    3
+   ],
+   "o'tibdi": [
+    3,
+    5
+   ],
+   "o'tin": [],
+   "o'tirgan": [
+    5
+   ],
+   "o'tkanlar": [
+    6
+   ],
+   "o'tkazib": [
+    6
+   ],
+   "o'tmay": [
+    3,
+    5
+   ],
+   "o'xshamasa": [
+    6,
+    8
+   ],
+   "o'xshash": [
+    6
+   ],
+   "o'xshaydi": [
+    6,
+    7
+   ],
+   "o'yin": [],
+   "o'yinlar": [
+    5
+   ],
+   "o'ylab": [
+    5
+   ],
+   "o'ylabdi": [
+    5,
+    6
+   ],
+   "o'ylashni": [
+    5,
+    7
+   ],
+   "o'ynadi": [
+    5
+   ],
+   "o'ynaydi": [
+    5,
+    6
+   ],
+   "o'ynaymiz": [
+    5,
+    6
+   ],
+   "o'z": [],
+   "o'zgachaligi": [
+    11
+   ],
+   "o'zi": [
+    3
+   ],
+   "o'zlarini": [
+    3,
+    6,
+    7
+   ],
+   "och": [],
+   "ochgandir": [
+    6
+   ],
+   "ochib": [
+    3
+   ],
+   "ochildi": [
+    3,
+    5
+   ],
+   "ochilgan": [
+    3,
+    5
+   ],
+   "ochilmasdan": [
+    3,
+    5,
+    7,
+    8
+   ],
+   "ochilmay": [
+    3,
+    5,
+    7
+   ],
+   "ochish": [
+    3
+   ],
+   "odam": [],
+   "odamalar": [
+    5
+   ],
+   "odamga": [
+    4
+   ],
+   "odamlarning": [
+    4,
+    7
+   ],
+   "odamni": [
+    4
+   ],
+   "odamning": [
+    4
+   ],
+   "oddiy": [],
+   "og'lining": [
+    5
+   ],
+   "og'rilikcha": [
+    8
+   ],
+   "og'zini": [
+    4,
+    5
+   ],
+   "oilamiz": [
+    3,
+    4
+   ],
+   "oilasidagilarga": [
+    10,
+    13
+   ],
+   "oladigan": [
+    2
+   ],
+   "olam": [],
+   "olaman": [
+    2,
+    3
+   ],
+   "olar": [
+    2
+   ],
+   "olarman": [
+    4
+   ],
+   "oldiga": [
+    3,
+    4
+   ],
+   "oldimga": [
+    3,
+    5
+   ],
+   "oldin": [],
+   "oldingiz": [
+    2,
+    4
+   ],
+   "oldingizda": [
+    3,
+    8
+   ],
+   "olib": [
+    2
+   ],
+   "olibdi": [
+    2,
+    4
+   ],
+   "oliy": [],
+   "olmay": [
+    2,
+    4
+   ],
+   "olmoqchi": [
+    2
+   ],
+   "olov": [
+    2
+   ],
+   "olsak": [
+    2,
+    4
+   ],
+   "olsam": [
+    2,
+    4
+   ],
+   "olti": [],
+   "oltin": [],
+   "onam": [
+    3
+   ],
+   "oppoq": [],
+   "orqali": [],
+   "ortira": [],
+   "orzu": [],
+   "orzuistaklarini": [
+    9,
+    12,
+    13
+   ],
+   "oshadi": [
+    3,
+    4
+   ],
+   "oshirib": [
+    5
+   ],
+   "oshirish": [
+    5
+   ],
+   "osmon": [],
+   "osmonning": [
+    5
+   ],
+   "ostimu": [],
+   "ot": [],
+   "ota": [],
+   "otibdi": [
+    2,
+    4
+   ],
+   "ovga": [
+    2
+   ],
+   "oxiriga": [
+    4,
+    5
+   ],
+   "oy": [],
+   "oyog'i": [
+    5
+   ],
+   "ozroq": [
+    2
+   ],
+   "ozuqa": [],
+   "parcha": [],
+   "parchada": [
+    6
+   ],
+   "parchani": [
+    6
+   ],
+   "pastda": [
+    4
+   ],
+   "pastdagi": [
+    4
+   ],
+   "pastki": [],
+   "paxta": [],
+   "paydo": [],
+   "payt": [],
+   "paytgacha": [
+    4
+   ],
+   "payti": [
+    4
+   ],
+   "pichirlabdi": [
+    8,
+    9
+   ],
+   "pildirab": [
+    7
+   ],
+   "pishganda": [
+    4,
+    7
+   ],
+   "pishirilgan": [
+    6,
+    8
+   ],
+   "piyoz": [],
+   "piyozni": [
+    5
+   ],
+   "piyozning": [
+    5
+   ],
+   "pokistan": [],
+   "pomir": [],
+   "poytaxti": [
+    7
+   ],
+   "qadam": [],
+   "qadar": [],
+   "qadimgi": [],
+   "qadimiy": [],
+   "qadrdon": [],
+   "qaliming": [
+    5
+   ],
+   "qancha": [],
+   "qanday": [],
+   "qani": [],
+   "qarab": [
+    4
+   ],
+   "qarang": [],
+   "qaranglar": [
+    4,
+    6
+   ],
+   "qarasa": [
+    4
+   ],
+   "qarash": [
+    4
+   ],
+   "qarashimiz": [
+    4,
+    6
+   ],
+   "qarashlarimni": [
+    6,
+    9,
+    11
+   ],
+   "qaraylik": [
+    4
+   ],
+   "qashqar": [],
+   "qashqarda": [
+    7
+   ],
+   "qashqarga": [
+    7
+   ],
+   "qashqarni": [
+    7
+   ],
+   "qayerdan": [
+    5
+   ],
+   "qayg'usida": [
+    6,
+    8
+   ],
+   "qaysi": [],
+   "qayta": [],
+   "qaytar": [
+    4
+   ],
+   "qaytib": [
+    4
+   ],
+   "qila": [],
+   "qilaman": [
+    3,
+    4
+   ],
+   "qilamiz": [
+    3,
+    4
+   ],
+   "qilasiz": [
+    3,
+    4
+   ],
+   "qildi": [
+    3
+   ],
+   "qilgan": [
+    3
+   ],
+   "qilganda": [
+    3,
+    6
+   ],
+   "qilganligimni": [
+    9,
+    11
+   ],
+   "qilib": [
+    3
+   ],
+   "qilibdi": [
+    3,
+    5
+   ],
+   "qilingan": [
+    3,
+    5
+   ],
+   "qilish": [
+    3
+   ],
+   "qilyapti": [
+    3,
+    6
+   ],
+   "qirg'izston": [],
+   "qirg'oqda": [
+    7
+   ],
+   "qishloqdagi": [
+    7
+   ],
+   "qismini": [
+    4,
+    5
+   ],
+   "qisminimi": [
+    6,
+    7
+   ],
+   "qisminimu": [],
+   "qisqasi": [
+    5
+   ],
+   "qiz": [],
+   "qizg'in": [],
+   "qiziq": [],
+   "qiziqarli": [],
+   "qiziqishini": [
+    5,
+    8,
+    9
+   ],
+   "qizlar": [
+    3
+   ],
+   "qizlarni": [
+    3,
+    6
+   ],
+   "qizlarning": [
+    3,
+    6
+   ],
+   "qizni": [
+    3
+   ],
+   "qo'l": [],
+   "qo'llabdi": [
+    6,
+    7
+   ],
+   "qo'ng'iroq": [
+    7
+   ],
+   "qo'rqmanglar": [
+    7,
+    9
+   ],
+   "qo'rqqanidan": [
+    5,
+    8,
+    9
+   ],
+   "qo'shiq": [],
+   "qo'yamiz": [
+    4,
+    5
+   ],
+   "qo'yaylik": [
+    4
+   ],
+   "qo'ygan": [
+    4
+   ],
+   "qo'ygandim": [
+    4,
+    7,
+    9
+   ],
+   "qo'yganligini": [
+    4,
+    7,
+    10,
+    11
+   ],
+   "qo'yib": [
+    4
+   ],
+   "qo'yibdi": [
+    4,
+    6
+   ],
+   "qo'yilibdi": [
+    4,
+    6,
+    8
+   ],
+   "qo'yish": [
+    4
+   ],
+   "qo'ysangiz": [
+    4,
+    6
+   ],
+   "qochib": [
+    4
+   ],
+   "qochibdi": [
+    4,
+    6
+   ],
+   "qoladi": [
+    3,
+    4
+   ],
+   "qoldi": [
+    3
+   ],
+   "qoldim": [
+    3,
+    5
+   ],
+   "qoldiribdi": [
+    3,
+    6,
+    8
+   ],
+   "qolgan": [
+    3
+   ],
+   "qolibdi": [
+    3,
+    5
+   ],
+   "qolishi": [
+    3,
+    6
+   ],
+   "qolmaslik": [
+    3,
+    5,
+    6
+   ],
+   "qolmay": [
+    3,
+    5
+   ],
+   "qolmaydi": [
+    3,
+    5,
+    6
+   ],
+   "qonaq": [],
+   "qonaqning": [
+    5
+   ],
+   "qoraqurutog'i": [
+    12
+   ],
+   "qorninglar": [
+    4
+   ],
+   "qorong'uda": [
+    8
+   ],
+   "qoshg'ariy": [],
+   "qushlar": [
+    4
+   ],
+   "qushlardek": [
+    4,
+    7
+   ],
+   "qutulganiga": [
+    4,
+    5,
+    8,
+    9
+   ],
+   "qutulolmaydi": [
+    7,
+    9,
+    10
+   ],
+   "quvlamoqchi": [
+    5
+   ],
+   "quvlashmachoq": [],
+   "quvlashni": [
+    5,
+    7
+   ],
+   "rangdorligini": [
+    10,
+    11
+   ],
+   "rangga": [
+    4
+   ],
+   "rangli": [
+    5
+   ],
+   "raqs": [],
+   "rasmlarga": [
+    4,
+    7
+   ],
+   "rosa": [],
+   "rozi": [],
+   "rozilik": [],
+   "roziman": [
+    4
+   ],
+   "ruhining": [
+    3,
+    4
+   ],
+   "sadosidir": [
+    4,
+    6
+   ],
+   "safar": [],
+   "sahar": [],
+   "saqlash": [
+    5
+   ],
+   "saroyida": [
+    5,
+    6
+   ],
+   "saroyini": [
+    5,
+    6
+   ],
+   "sarxush": [],
+   "savaqdashlarning": [
+    9,
+    12
+   ],
+   "savdo": [],
+   "saviyali": [],
+   "saviyasini": [
+    6,
+    8
+   ],
+   "savodli": [
+    5
+   ],
+   "sayohatga": [
+    7
+   ],
+   "sayrab": [
+    5
+   ],
+   "sayrashdan": [
+    5,
+    7
+   ],
+   "sekin": [],
+   "semiz": [
+    2
+   ],
+   "sen": [],
+   "senda": [
+    3
+   ],
+   "senga": [
+    3
+   ],
+   "senlar": [
+    3
+   ],
+   "ser": [],
+   "sevintiradi": [
+    5,
+    8
+   ],
+   "sezib": [
+    3
+   ],
+   "sezmabdi": [
+    5,
+    6
+   ],
+   "shaffof": [],
+   "shahar": [],
+   "shahri": [
+    5
+   ],
+   "shakli": [],
+   "sharqda": [
+    5
+   ],
+   "shartnoma": [],
+   "shartnomada": [
+    9
+   ],
+   "shartnomaga": [
+    9
+   ],
+   "shartnomani": [
+    9
+   ],
+   "shartnomasi": [
+    9
+   ],
+   "shaxsiyati": [
+    9
+   ],
+   "sheva": [],
+   "shevalar": [
+    5
+   ],
+   "shevalarni": [
+    5,
+    8
+   ],
+   "shevasi": [
+    5
+   ],
+   "shildirashdan": [
+    8,
+    10
+   ],
+   "shildirlab": [
+    9
+   ],
+   "shilib": [
+    4
+   ],
+   "shimolda": [
+    6
+   ],
+   "sho'x": [],
+   "shodlikka": [
+    7
+   ],
+   "shoh": [],
+   "shoxini": [
+    4,
+    5
+   ],
+   "shoxlarining": [
+    4,
+    7,
+    8
+   ],
+   "shu": [],
+   "shumlarni": [
+    4,
+    7
+   ],
+   "shumni": [
+    4
+   ],
+   "shuncha": [],
+   "shundan": [
+    4
+   ],
+   "shunday": [],
+   "shundoq": [],
+   "shunga": [
+    4
+   ],
+   "shuning": [
+    3
+   ],
+   "shuningdek": [],
+   "sichqon": [],
+   "sinfda": [
+    4
+   ],
+   "sinflarga": [
+    4,
+    7
+   ],
+   "singari": [],
+   "sirtida": [
+    4,
+    5
+   ],
+   "siz": [],
+   "sizga": [
+    3
+   ],
+   "sizni": [
+    3
+   ],
+   "so'rabdi": [
+    5,
+    6
+   ],
+   "so'z": [],
+   "so'zlab": [
+    6
+   ],
+   "sovg'alarimizni": [
+    6,
+    9,
+    13
+   ],
+   "suhbatlardan": [
+    6,
+    9
+   ],
+   "sukunatlargacha": [
+    10
+   ],
+   "suratini": [
+    5,
+    6
+   ],
+   "suv": [],
+   "suvdan": [
+    3
+   ],
+   "suvga": [
+    3
+   ],
+   "suvni": [
+    3
+   ],
+   "suzib": [
+    3
+   ],
+   "ta'mining": [
+    4,
+    5
+   ],
+   "ta'sirchan": [],
+   "ta'siri": [
+    6
+   ],
+   "tabiatni": [
+    6
+   ],
+   "tabiiat": [],
+   "tadqiqotlarda": [
+    8,
+    11
+   ],
+   "tagidagi": [
+    3,
+    4
+   ],
+   "taklimakan": [],
+   "talpinishi": [
+    6,
+    9
+   ],
+   "tanaffus": [],
+   "tanaffusda": [
+    8
+   ],
+   "tangritog'": [],
+   "taqdim": [
+    3,
+    5
+   ],
+   "tarixda": [
+    5
+   ],
+   "tarixga": [
+    5
+   ],
+   "tarixidir": [
+    5,
+    6
+   ],
+   "tarixining": [
+    5,
+    6
+   ],
+   "tarixni": [
+    5
+   ],
+   "tarkibida": [
+    6,
+    7
+   ],
+   "tartib": [],
+   "tartibini": [
+    6,
+    7
+   ],
+   "tashkil": [],
+   "tatilda": [
+    5
+   ],
+   "taxtga": [
+    4
+   ],
+   "tegadi": [
+    3,
+    4
+   ],
+   "tera": [],
+   "teraklik": [],
+   "tergani": [
+    3,
+    6
+   ],
+   "teriladigan": [
+    3,
+    5
+   ],
+   "texnikasi": [
+    7
+   ],
+   "tikilib": [
+    3,
+    5
+   ],
+   "tildan": [
+    3
+   ],
+   "tili": [
+    3
+   ],
+   "timsoh": [],
+   "timsohning": [
+    6
+   ],
+   "to'g'ri": [],
+   "to'ldiradi": [
+    7,
+    8
+   ],
+   "to'lgan": [
+    4
+   ],
+   "to'lqinli": [],
+   "to'ng'iz": [],
+   "to'p": [],
+   "to'qibdi": [
+    5,
+    6
+   ],
+   "to'xtab": [
+    6
+   ],
+   "tog'": [],
+   "tog'lari": [
+    4,
+    7
+   ],
+   "tog'risidagi": [
+    6,
+    8
+   ],
+   "tojikistan": [],
+   "tomonga": [
+    5
+   ],
+   "topdi": [
+    3
+   ],
+   "torini": [
+    3,
+    4
+   ],
+   "toshshahar": [],
+   "tuman": [],
+   "turadigan": [
+    3
+   ],
+   "turamiz": [
+    3,
+    4
+   ],
+   "turib": [
+    3
+   ],
+   "turibdimi": [
+    3,
+    5,
+    7
+   ],
+   "turining": [
+    3,
+    4
+   ],
+   "turli": [],
+   "turmush": [],
+   "turmushda": [
+    7
+   ],
+   "turmushimiz": [
+    7
+   ],
+   "turmushni": [
+    7
+   ],
+   "tursa": [
+    3
+   ],
+   "tushibdi": [
+    4,
+    6
+   ],
+   "tushunish": [
+    6
+   ],
+   "tushunishimiz": [
+    6,
+    9
+   ],
+   "tutashgan": [
+    4,
+    6
+   ],
+   "tutganicha": [
+    3,
+    6
+   ],
+   "tutushib": [
+    6
+   ],
+   "tuyiladi": [
+    3,
+    5
+   ],
+   "tuzgani": [
+    3,
+    6
+   ],
+   "uchgan": [
+    3
+   ],
+   "uchib": [
+    3
+   ],
+   "uchinchi": [
+    3
+   ],
+   "uchini": [
+    3,
+    4
+   ],
+   "uchishdan": [
+    3,
+    6
+   ],
+   "uchishsa": [
+    6
+   ],
+   "uchrashish": [
+    5,
+    7
+   ],
+   "uchun": [],
+   "ular": [
+    1
+   ],
+   "ulardan": [
+    1,
+    4
+   ],
+   "ularga": [
+    1,
+    4
+   ],
+   "ularni": [
+    1,
+    4
+   ],
+   "ularning": [
+    1,
+    4
+   ],
+   "ulug'": [],
+   "ulug'vor": [],
+   "umumiy": [],
+   "umumiyligini": [
+    9,
+    10
+   ],
+   "unda": [
+    2
+   ],
+   "undan": [
+    2
+   ],
+   "undanda": [
+    5
+   ],
+   "unib": [
+    2
+   ],
+   "uning": [
+    2
+   ],
+   "unub": [],
+   "unutib": [
+    4
+   ],
+   "unvondagi": [
+    5
+   ],
+   "urushning": [
+    5
+   ],
+   "usti": [
+    3
+   ],
+   "ustimu": [],
+   "usulidan": [
+    4,
+    5
+   ],
+   "usulimiz": [
+    5
+   ],
+   "uxlab": [
+    4
+   ],
+   "uxlaydigan": [
+    4
+   ],
+   "uyg'urlar": [
+    6
+   ],
+   "uyiga": [
+    2,
+    3
+   ],
+   "uyqusida": [
+    4,
+    6
+   ],
+   "uzib": [
+    2
+   ],
+   "uzoq": [],
+   "uzoqdan": [
+    4
+   ],
+   "uzubdi": [
+    3,
+    4
+   ],
+   "va": [],
+   "vafot": [],
+   "vahima": [],
+   "vaqtingiz": [
+    4
+   ],
+   "vaqtini": [
+    4,
+    5
+   ],
+   "viloyat": [],
+   "viloyatining": [
+    7,
+    8
+   ],
+   "vositasidir": [
+    6,
+    8
+   ],
+   "xa": [],
+   "xalq": [],
+   "xalqi": [
+    4
+   ],
+   "xap": [],
+   "xatimni": [
+    3,
+    5
+   ],
+   "xatingizni": [
+    3,
+    8
+   ],
+   "xatning": [
+    3
+   ],
+   "xil": [],
+   "xili": [
+    3
+   ],
+   "xohlash": [
+    5
+   ],
+   "xoja": [],
+   "xonliklarning": [
+    6,
+    9
+   ],
+   "xos": [],
+   "xoshhol": [],
+   "xuddi": [],
+   "xush": [],
+   "xushmanzara": [],
+   "yana": [],
+   "yangi": [],
+   "yanglishadi": [
+    8,
+    9
+   ],
+   "yanglishgan": [
+    8
+   ],
+   "yaproqlar": [
+    6
+   ],
+   "yaproqlari": [
+    6,
+    9
+   ],
+   "yaqinlashib": [
+    9
+   ],
+   "yaqinlashish": [
+    9
+   ],
+   "yashil": [],
+   "yashirin": [],
+   "yashirinib": [
+    6,
+    8
+   ],
+   "yaxshi": [],
+   "yaylov": [],
+   "yaylovlar": [
+    6
+   ],
+   "yeb": [
+    2
+   ],
+   "yechib": [
+    4
+   ],
+   "yegulik": [],
+   "yegulikli": [],
+   "yemayapsilar": [
+    9
+   ],
+   "yemaylik": [
+    2,
+    4
+   ],
+   "yer": [],
+   "yerdan": [
+    3
+   ],
+   "yetgandan": [
+    3,
+    6
+   ],
+   "yetib": [
+    3
+   ],
+   "yetishtirilgan": [
+    6,
+    9,
+    11
+   ],
+   "yetkazadi": [
+    6,
+    7
+   ],
+   "yig'amiz": [
+    4,
+    5
+   ],
+   "yig'ib": [
+    4
+   ],
+   "yig'ishga": [
+    4,
+    7
+   ],
+   "yig'lashga": [
+    6,
+    8
+   ],
+   "yil": [],
+   "yilga": [
+    3
+   ],
+   "yilgi": [],
+   "yili": [
+    3
+   ],
+   "yilidan": [
+    3,
+    4
+   ],
+   "yiliga": [
+    3,
+    4
+   ],
+   "yillar": [
+    3
+   ],
+   "yillarning": [
+    3,
+    6
+   ],
+   "yillik": [],
+   "yiroqlashgandan": [
+    9,
+    12
+   ],
+   "yo'ldan": [
+    4
+   ],
+   "yo'li": [
+    4
+   ],
+   "yo'lining": [
+    4,
+    5
+   ],
+   "yo'llaridan": [
+    4,
+    7,
+    8
+   ],
+   "yo'q": [],
+   "yodgorliklar": [
+    9
+   ],
+   "yoki": [],
+   "yonayotgan": [
+    3
+   ],
+   "yong'oq": [],
+   "yonida": [
+    3,
+    4
+   ],
+   "yonimda": [
+    3,
+    5
+   ],
+   "yopiq": [],
+   "yoqqa": [
+    3
+   ],
+   "yorug'": [],
+   "yosh": [],
+   "yoshli": [],
+   "yotibdi": [
+    3,
+    5
+   ],
+   "yovvoyi": [],
+   "yozadigan": [
+    3
+   ],
+   "yozgandim": [
+    3,
+    6,
+    8
+   ],
+   "yozibdi": [
+    3,
+    5
+   ],
+   "yuboryapti": [
+    5,
+    8
+   ],
+   "yuguribdi": [
+    5,
+    7
+   ],
+   "yumulib": [
+    5
+   ],
+   "yuqori": [],
+   "yuragingizda": [
+    5,
+    10
+   ],
+   "yurak": [],
+   "yuramiz": [
+    3,
+    4
+   ],
+   "yurgan": [
+    3
+   ],
+   "yuribdi": [
+    3,
+    5
+   ],
+   "yurishadi": [
+    3,
+    6
+   ],
+   "yurti": [
+    4
+   ],
+   "yusuf": [],
+   "yutishga": [
+    3,
+    6
+   ],
+   "yutqazib": [
+    6
+   ],
+   "yutqizib": [
+    6
+   ],
+   "yuz": [],
+   "yuzlarida": [
+    3,
+    6,
+    7
+   ],
+   "zaif": [],
+   "zamin": [],
+   "zamonlarda": [
+    5,
+    8
+   ],
+   "zehningizni": [
+    4,
+    9
+   ],
+   "zerikishdan": [
+    5,
+    8
+   ]
+  }
+ },
+ "speed_words_per_s": 1253.3003032837878
+}

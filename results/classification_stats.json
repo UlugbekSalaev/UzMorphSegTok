@@ -1,0 +1,46 @@
+{
+  "train": {
+    "Politics": 2000,
+    "Sport": 2000,
+    "World": 2000,
+    "Local": 2000,
+    "Economics": 2000,
+    "Law": 2000,
+    "Culture": 2000,
+    "Tech": 2000,
+    "Society": 2000
+  },
+  "dev": {
+    "Economics": 500,
+    "Law": 500,
+    "Tech": 500,
+    "Politics": 500,
+    "World": 500,
+    "Society": 500,
+    "Local": 500,
+    "Culture": 500,
+    "Sport": 500
+  },
+  "test": {
+    "Sport": 1000,
+    "Law": 1000,
+    "World": 1000,
+    "Economics": 1000,
+    "Society": 1000,
+    "Culture": 1000,
+    "Local": 1000,
+    "Politics": 1000,
+    "Tech": 1000
+  },
+  "reserve": {
+    "Economics": 3000,
+    "Law": 3000,
+    "Society": 3000,
+    "Tech": 3000,
+    "Local": 3000,
+    "Sport": 3000,
+    "Culture": 3000,
+    "World": 3000,
+    "Politics": 3000
+  }
+}

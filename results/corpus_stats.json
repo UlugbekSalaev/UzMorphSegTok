@@ -1,0 +1,92 @@
+{
+  "all": 512750,
+  "cyrillic": 12201,
+  "short": 2257,
+  "duplicates": 195,
+  "label_conflict": 94,
+  "kept": 498003,
+  "per_category": {
+    "Avto": {
+      "all": 6044,
+      "kept": 5926
+    },
+    "Ayollar": {
+      "all": 2657,
+      "kept": 2627
+    },
+    "Dunyo": {
+      "all": 136732,
+      "kept": 135999
+    },
+    "Foto": {
+      "all": 4037,
+      "kept": 3581
+    },
+    "Iqtisodiyot": {
+      "all": 12165,
+      "kept": 11897
+    },
+    "Jamiyat": {
+      "all": 55018,
+      "kept": 54097
+    },
+    "Jinoyat": {
+      "all": 4200,
+      "kept": 4159
+    },
+    "Madaniyat": {
+      "all": 12798,
+      "kept": 12570
+    },
+    "O'zbekiston": {
+      "all": 149312,
+      "kept": 147938
+    },
+    "Pazandachilik": {
+      "all": 2040,
+      "kept": 1536
+    },
+    "Qonunchilik": {
+      "all": 33089,
+      "kept": 24418
+    },
+    "Salomatlik": {
+      "all": 5086,
+      "kept": 4856
+    },
+    "Siyosat": {
+      "all": 12247,
+      "kept": 11614
+    },
+    "Sport": {
+      "all": 59784,
+      "kept": 59404
+    },
+    "Texnologiya": {
+      "all": 17541,
+      "kept": 17381
+    }
+  },
+  "classes": [
+    "Dunyo",
+    "Iqtisodiyot",
+    "Jamiyat",
+    "Madaniyat",
+    "O'zbekiston",
+    "Qonunchilik",
+    "Siyosat",
+    "Sport",
+    "Texnologiya"
+  ],
+  "test_docs": 293,
+  "train_docs": 100000,
+  "unused_docs": 339210,
+  "train": 1397933,
+  "test": 5000,
+  "duplicate_sentences": 80233,
+  "sentences_all": 1652727,
+  "sentences_length": 173523,
+  "sentences_foreign_letter": 1038,
+  "train_words": 21314962,
+  "test_words": 81715
+}

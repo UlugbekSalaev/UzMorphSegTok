@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+logs/
+data/raw_download/
+data/corpus/
+data/extrinsic/
+data/cse/stems.csv
+results/**/*.lock

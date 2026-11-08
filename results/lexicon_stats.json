@@ -1,0 +1,23 @@
+{
+  "entries": 60794,
+  "skipped_class": 213,
+  "skipped_multiword": 1808,
+  "stems": 51597,
+  "rows": 54944,
+  "from_uzmorphanalyser_only": 19,
+  "pos": {
+    "NOUN": 18802,
+    "PPN": 24262,
+    "VERB": 5811,
+    "ADV": 527,
+    "ADJ": 4958,
+    "PRT": 122,
+    "CNJ": 99,
+    "INTJ": 110,
+    "NUM": 54,
+    "ADP": 69,
+    "IMIT": 47,
+    "PRN": 67,
+    "MOD": 16
+  }
+}

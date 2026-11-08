@@ -1,0 +1,125 @@
+stem,pos,note
+masjid,NOUN,{masjidi bulsa di fel qushimchasi di dab qirqadi}
+tuman,NOUN,{}
+eksport,NOUN,{t fel qushimcha}
+taqdim,NOUN,{taq+dim VERB}
+talab,NOUN,{VERB tala+b ketdi}
+igna,NOUN,{}
+afandi,NOUN,{di qushimchasi}
+daftar,NOUN,{(a)r felni gumon shakli}
+barmoq,NOUN,{moq fel qushumchasi}
+muzqaymoq,NOUN,{moq fel qushimchasi}
+qo‘ng‘iroq,NOUN,{moqni qirqadi}
+qaymoq,NOUN,{moq fel qushimchasi}
+kursi,NOUN,{kurs+i}
+olma,NOUN,{ol+ma VERB}
+chiroyli,ADJ,{(s)i egalik qushimchasi}
+sara,ADJ,{a}
+yarim,ADJ,{im egalik}
+qariyb,ADV,{(i)b}
+boshqa,ADV,{Ga}
+anjir,NOUN,{(a)r}
+anor,NOUN,{(a)r}
+olxo‘ri,NOUN,{(s)i}
+shaftoli,NOUN,{(s)i}
+import,NOUN,{t fel qushimcha}
+qulupnay,NOUN,{(a)y}
+mashhur,NOUN,{a(r)}
+yuqori,NOUN,{(s)i}
+manzarali,ADJ,{agar li suz yasovchi bulsa tursin bu yerda.. i ni qirqbardi}
+bahorgi,ADJ,{gi suz yasovchi bulsa bu yerda tursin.. i ni qirqadi}
+marta,NOUN,{ta son qushimchasi}
+vaqt,NOUN,{t fel qushimchasini qirbaradi}
+yigirma,NUM,{ma bulishsiz quchimchasni qirqbaradi.. lekn yigir+ma},{yigir(V)+ma(neg)}
+qimmat,ADJ,{t fel qushimchasini qirbaradi}
+so‘m,NOUN,{(i)m qushimchadagi m ni qirqbaradi}
+oddiy,ADJ,{Y(a va y) dagi y ni qirqbaradi}
+ko‘chat,NOUN,{t ni qirqbaradi}
+noyob,ADJ,{b ni qirqbaradi}
+barcha,ADV,{Y(a/y) dagini qirqadi}
+mart,NOUN,{t ni qirqadi}
+dushanba,NOUN,{a ni qirqadi}
+seshanba,NOUN,{}
+chorshanba,NOUN,{}
+payshanba,NOUN,{}
+juma,NOUN,{}
+shanba,NOUN,{}
+yakshanba,NOUN,{}
+qanday,ADJ,{}
+ma’lum,ADJ,{}
+harorat,NOUN,{t ni qirqadi}
+daraja,NOUN,{a ni qirqadi}
+bo‘yicha,ADV,{a ni qirqadi}
+yomg‘ir,NOUN,{r ni qirqadi}
+ba’zi,ADV,{i ni qirqadi}
+tezkor,ADJ,{r ni qirqadi}
+katta,ADJ,{a ni qirqadi}
+ro‘y,NOUN,{y ni qirqadi}
+ayrim,ADJ,{im ni qirqadi}
+ta’sir,NOUN,{r ni qirqadi}
+murabbiy,NOUN,{y ni qirqadi}
+yo‘riqnoma,NOUN,{ma ni qirqadi}
+kuchli,ADJ,{i ni qirqadi}
+gacha,ADV,{}
+noma,NOUN,{}
+qaysi,ADJ,{}
+o‘tir,VERB,{}
+maosh,NOUN,{maoshi, sakra(shi)}
+kutubxona,NOUN,{a ni qirqadi}
+necha,NOUN,{a qirqadi}
+misli,NOUN,{ism(li) dagi li ni qirqadi}
+xonanda,NOUN,{kitob(da) da ni qirqadi}
+odam,NOUN,{opa(m) dagi egalik m ni qirqadi}
+shartnoma,NOUN,{ma ni qirqadi}
+hujum,NOUN,{opa(m) m quhsimchani qirqadi}
+malham,NOUN,{m ni qirqadi}
+shart,NOUN,{t ni qirqadi}
+balans,MOUN,{si ni qirqadi}
+aholi,NOUN,{i ni qirqadi}
+ravish,NOUN,{}
+tashqari,ADV,{}
+dollar,NOUN,{}
+olim,NOUN,{}
+shaxsan,NOUN,{}
+qancha,NOUN,{}
+kelgusi,NOUN,{}
+kengash,NOUN,{i(shi) ni qirqadi}
+metall,NOUN,{l ni qirqadi}
+yangi,ADJ,{i ni qirqbaradi}
+nuqul,CNJ,{l ni qirqadi}
+tergov,NOUN,{ov son qushimchasini qirqadi}
+aktrisa,NOUN,{sa ni qirqadi}
+xabar,NOUN,{ar ni qirqadi}
+qurilma,NOUN,{ma ni qirqadi / qurilmadi bulsa fel buladi}
+cho‘kindi,NOUN,{indi ni qirqadi / feldagi (i)ndi}
+namoyish,VERB,{(i)sh ni qirqadi}
+kutar,VERB,{ar ni qirqadi}
+avtomobil,NOUN,{il ni qirqadi}
+tizim,NOUN,{(i)m ni qirqadi}
+ravishda,ADV,{ishda ni qirqadi}
+qabul,VERB,{l ni qirqadi}
+saqla,VERB,{saqlab suzida labni qirqadi}
+mustaqil,ADJ,{il ni qirqadi}
+sinov,VERB,{ov ni qirqadi}
+o‘q,NOUN,{o`qimoq feli va o`q suzi farqlash uchun}
+o‘qi,VERB,{o`qimoq feli va o`q suzi farqlash uchun}
+kishi,NOUN,{i ni qirqadi}
+mobaynida,CNJ,{da ni qirqadi}
+yo‘nalish,NOUN,{(i)lish ni qirqadi}
+yangila,VERB,{ila ni qirqadi}
+yig‘ma,NOUN,{noun suzi uchun}
+o‘g‘il,NOUN,{(i)l ni qirqadi}
+erta,ADV,{ta ni qirqadi}
+qorong‘i,ADV,{i ni qirqadi}
+tashkil,VERB,{(i)l ni qirqadi}
+nafar,NOUN,{ar ni qirqadi}
+ravishda,ADV,{ishda ni qirqadi}
+yashil,ADJ,{(i)l ni qirqadi}
+safar,ADV,{(a)r ni qirqadi}
+ayni,ADV,{i ni qirqadi}
+qism,ADV,{qismi da mi ni qirqadi}
+yanvar,NOUN,{ar ni qirqadi}
+paxta,NOUN,{ta ni qirqadi}
+foyda,NOUN,{da ni qirqadi}
+qo‘shma,ADJ,{bunday suzni uzi xam mavjud}
+o‘lim,NOUN,{im ni qirqadi}

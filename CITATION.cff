@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, data splits or models, please cite the paper below."
+title: "UzMorphSegTok: CSE-constrained neural morphological segmentation and morphology-aware tokenization for Uzbek"
+authors:
+  - family-names: Salaev
+    given-names: Ulugbek
+    orcid: "https://orcid.org/0000-0003-3020-7099"
+    affiliation: "Urgench State University named after Abu Rayhan Biruni"
+repository-code: "https://github.com/UlugbekSalaev/UzMorphSegTok"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-08"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Salaev
+      given-names: Ulugbek
+      orcid: "https://orcid.org/0000-0003-3020-7099"
+  title: "CSE-Constrained Neural Morphological Segmentation and Morphology-Aware Tokenization for Uzbek"
+  journal: "Information"
+  year: 2026
+  notes: "Submitted"

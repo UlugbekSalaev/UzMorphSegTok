@@ -1,0 +1,1445 @@
+id	pos	cse	morphs
+5	NOUN	(S)i	(S)i
+173	NOUN	(S)ida	(S)i + da
+684	NOUN	(S)idagi	(S)i + dagi
+170	NOUN	(S)idan	(S)i + dan
+1795	NOUN	(S)idir	(S)i + dir
+169	NOUN	(S)iga	(S)i + ga
+50	NOUN	(S)iman	(S)i + man
+38	NOUN	(S)imi	(S)i + mi
+52	NOUN	(S)imisan	(S)i + mi + san
+51	NOUN	(S)imisiz	(S)i + mi + siz
+171	NOUN	(S)ini	(S)i + ni
+172	NOUN	(S)ining	(S)i + ning
+49	NOUN	(S)isiz	(S)i + siz
+74	VERB	(a)rdi	(a)r + di
+127	VERB	(a)rdilar	(a)r + di + lar
+1696	VERB	(a)rdim	(a)r + di + m
+1697	VERB	(a)rding	(a)r + di + ng
+1310	VERB	(a)rkan	(a)r + kan
+128	VERB	(a)rmidi	(a)r + mi + di
+130	VERB	(a)rmiding	(a)r + mi + di + ng
+131	VERB	(a)rmidingiz	(a)r + mi + di + ngiz
+64	VERB	(a)yin	(a)yin
+55	VERB	(a)ylik	(a)ylik
+57	VERB	(a)ylikmi	(a)ylik + mi
+56	VERB	(a)ymi	(a)y + mi
+111	VERB	(a)yotgan	(a)yotgan
+1215	VERB	(a)yotganda	(a)yotgan + da
+1709	VERB	(a)yotgandek	(a)yotgan + dek
+651	VERB	(a)yotgandi	(a)yotgan + di
+1205	VERB	(a)yotgandik	(a)yotgan + di + k
+1213	VERB	(a)yotgandikmi	(a)yotgan + di + k + mi
+1208	VERB	(a)yotgandilar	(a)yotgan + di + lar
+1206	VERB	(a)yotgandim	(a)yotgan + di + m
+1193	VERB	(a)yotgandimi	(a)yotgan + di + mi
+1214	VERB	(a)yotgandimmi	(a)yotgan + di + m + mi
+1207	VERB	(a)yotganding	(a)yotgan + di + ng
+1209	VERB	(a)yotgandingiz	(a)yotgan + di + ngiz
+1212	VERB	(a)yotgandingizmi	(a)yotgan + di + ngiz + mi
+1211	VERB	(a)yotgandingmi	(a)yotgan + di + ng + mi
+253	VERB	(a)yotgani	(a)yotgan + i
+254	VERB	(a)yotganida	(a)yotgan + i + da
+646	VERB	(a)yotganidan	(a)yotgan + i + dan
+1217	VERB	(a)yotganiga	(a)yotgan + i + ga
+1194	VERB	(a)yotganim	(a)yotgan + im
+1196	VERB	(a)yotganimda	(a)yotgan + im + da
+1197	VERB	(a)yotganimdan	(a)yotgan + im + dan
+1707	VERB	(a)yotganimdek	(a)yotgan + im + dek
+1198	VERB	(a)yotganimga	(a)yotgan + im + ga
+1701	VERB	(a)yotganimiz	(a)yotgan + imiz
+1700	VERB	(a)yotganimizda	(a)yotgan + imiz + da
+1702	VERB	(a)yotganimizga	(a)yotgan + imiz + ga
+1195	VERB	(a)yotganimni	(a)yotgan + im + ni
+1188	VERB	(a)yotganing	(a)yotgan + ing
+1189	VERB	(a)yotganingda	(a)yotgan + ing + da
+1190	VERB	(a)yotganingdan	(a)yotgan + ing + dan
+1191	VERB	(a)yotganingga	(a)yotgan + ing + ga
+1200	VERB	(a)yotganingiz	(a)yotgan + ingiz
+1202	VERB	(a)yotganingizda	(a)yotgan + ingiz + da
+1203	VERB	(a)yotganingizdan	(a)yotgan + ingiz + dan
+1204	VERB	(a)yotganingizga	(a)yotgan + ingiz + ga
+1201	VERB	(a)yotganingizni	(a)yotgan + ingiz + ni
+1192	VERB	(a)yotganingni	(a)yotgan + ing + ni
+255	VERB	(a)yotganini	(a)yotgan + i + ni
+114	VERB	(a)yotganlar	(a)yotgan + lar
+115	VERB	(a)yotganlardan	(a)yotgan + lar + dan
+116	VERB	(a)yotganlardanmi	(a)yotgan + lar + dan + mi
+117	VERB	(a)yotganlardanmisiz	(a)yotgan + lar + dan + mi + siz
+641	VERB	(a)yotganlarimiz	(a)yotgan + lar + imiz
+643	VERB	(a)yotganlarimizda	(a)yotgan + lar + imiz + da
+642	VERB	(a)yotganlarimizdan	(a)yotgan + lar + imiz + dan
+644	VERB	(a)yotganlarimizni	(a)yotgan + lar + imiz + ni
+638	VERB	(a)yotganlaring	(a)yotgan + lar + ing
+640	VERB	(a)yotganlaringga	(a)yotgan + lar + ing + ga
+635	VERB	(a)yotganlaringiz	(a)yotgan + lar + ingiz
+634	VERB	(a)yotganlaringizda	(a)yotgan + lar + ingiz + da
+637	VERB	(a)yotganlaringizdan	(a)yotgan + lar + ingiz + dan
+636	VERB	(a)yotganlaringizni	(a)yotgan + lar + ingiz + ni
+639	VERB	(a)yotganlaringni	(a)yotgan + lar + ing + ni
+1785	VERB	(a)yotganlarni	(a)yotgan + lar + ni
+1793	VERB	(a)yotganlarning	(a)yotgan + lar + ning
+256	VERB	(a)yotganligi	(a)yotgan + lig + i
+258	VERB	(a)yotganligidan	(a)yotgan + lig + i + dan
+257	VERB	(a)yotganligini	(a)yotgan + lig + i + ni
+112	VERB	(a)yotganmi	(a)yotgan + mi
+113	VERB	(a)yotganmidi	(a)yotgan + mi + di
+1216	VERB	(a)yotganni	(a)yotgan + ni
+71	VERB	(a)yotib	(a)yotib
+70	VERB	(a)yotir	(a)yotir
+213	VERB	(i)b	(i)b
+447	VERB	(i)bdi	(i)b + di
+449	VERB	(i)bdilar	(i)b + di + lar
+450	VERB	(i)bdilarmi	(i)b + di + lar + mi
+448	VERB	(i)bdimi	(i)b + di + mi
+444	VERB	(i)bgina	(i)b + gina
+1637	VERB	(i)bman	(i)b + man
+1638	VERB	(i)bmiz	(i)b + miz
+1640	VERB	(i)bsan	(i)b + san
+1639	VERB	(i)bsiz	(i)b + siz
+710	VERB	(i)l	(i)l
+1584	VERB	(i)ladi	(i)l + adi
+1636	VERB	(i)ladigan	(i)l + adigan
+1585	VERB	(i)layotgan	(i)layotgan
+864	VERB	(i)ldi	(i)l + di
+828	VERB	(i)lgan	(i)l + gan
+1125	VERB	(i)lgancha	(i)l + gancha
+867	VERB	(i)lgandi	(i)l + gan + di
+869	VERB	(i)lgandim	(i)l + gan + di + m
+868	VERB	(i)lganding	(i)l + gan + di + ng
+829	VERB	(i)lgani	(i)l + gan + i
+1144	VERB	(i)lganicha	(i)l + ganicha
+831	VERB	(i)lganida	(i)l + gan + i + da
+830	VERB	(i)lganidan	(i)l + gan + i + dan
+832	VERB	(i)lganiga	(i)l + gan + i + ga
+834	VERB	(i)lganim	(i)l + gan + im
+835	VERB	(i)lganimda	(i)l + gan + im + da
+836	VERB	(i)lganimdan	(i)l + gan + im + dan
+840	VERB	(i)lganimiz	(i)l + gan + imiz
+842	VERB	(i)lganimizda	(i)l + gan + imiz + da
+843	VERB	(i)lganimizdan	(i)l + gan + imiz + dan
+841	VERB	(i)lganimizga	(i)l + gan + imiz + ga
+844	VERB	(i)lganimizni	(i)l + gan + imiz + ni
+837	VERB	(i)lganing	(i)l + gan + ing
+838	VERB	(i)lganingda	(i)l + gan + ing + da
+839	VERB	(i)lganingdan	(i)l + gan + ing + dan
+1409	VERB	(i)lganini	(i)l + gan + i + ni
+845	VERB	(i)lganligi	(i)l + gan + lig + i
+847	VERB	(i)lganligida	(i)l + gan + lig + i + da
+846	VERB	(i)lganligidan	(i)l + gan + lig + i + dan
+848	VERB	(i)lganligiga	(i)l + gan + lig + i + ga
+849	VERB	(i)lganligim	(i)l + gan + lig + im
+850	VERB	(i)lganligimda	(i)l + gan + lig + im + da
+851	VERB	(i)lganligimdan	(i)l + gan + lig + im + dan
+852	VERB	(i)lganligimga	(i)l + gan + lig + im + ga
+1582	VERB	(i)lganman	(i)l + gan + man
+866	VERB	(i)lganmidi	(i)l + gan + mi + di
+870	VERB	(i)lganmiding	(i)l + gan + mi + di + ng
+871	VERB	(i)lganmidingiz	(i)l + gan + mi + di + ngiz
+1517	VERB	(i)lish	(i)l + ish
+872	VERB	(i)lishi	(i)l + ish + i
+874	VERB	(i)lishida	(i)l + ish + i + da
+875	VERB	(i)lishidan	(i)l + ish + i + dan
+873	VERB	(i)lishiga	(i)l + ish + i + ga
+877	VERB	(i)lishini	(i)l + ish + i + ni
+876	VERB	(i)lishining	(i)l + ish + i + ning
+878	VERB	(i)lmadi	(i)l + ma + di
+900	VERB	(i)lmadik	(i)l + ma + di + k
+901	VERB	(i)lmadim	(i)l + ma + di + m
+879	VERB	(i)lmagan	(i)l + ma + gan
+1797	ADV	(i)lmaganda	(i)l + ma + gan + da
+904	VERB	(i)lmagandik	(i)l + ma + gan + di + k
+902	VERB	(i)lmagandim	(i)l + ma + gan + di + m
+880	VERB	(i)lmagani	(i)l + ma + gan + i
+903	VERB	(i)lmaganlar	(i)l + ma + gan + lar
+881	VERB	(i)lmaganligi	(i)l + ma + gan + lig + i
+885	VERB	(i)lmas	(i)l + ma + s
+886	VERB	(i)lmasdan	(i)l + ma + s + dan
+1583	VERB	(i)lmasin	(i)l + ma + sin
+887	VERB	(i)lmasligi	(i)l + ma + s + lig + i
+888	VERB	(i)lmasligidan	(i)l + ma + s + lig + i + dan
+889	VERB	(i)lmasligim	(i)l + ma + s + lig + im
+890	VERB	(i)lmasligimdan	(i)l + ma + s + lig + im + dan
+893	VERB	(i)lmasligimiz	(i)l + ma + s + lig + imiz
+895	VERB	(i)lmasligimizdan	(i)l + ma + s + lig + imiz + dan
+898	VERB	(i)lmasligimni	(i)l + ma + s + lig + im + ni
+891	VERB	(i)lmasliging	(i)l + ma + s + lig + ing
+892	VERB	(i)lmasligingdan	(i)l + ma + s + lig + ing + dan
+897	VERB	(i)lmasliginggiz	(i)l + ma + s + lig + ing + g + iz
+896	VERB	(i)lmasliginggizdan	(i)l + ma + s + lig + ing + g + iz + dan
+1477	VERB	(i)lmaslik	(i)l + ma + s + lik
+884	VERB	(i)lmay	(i)l + ma + y
+899	VERB	(i)lmaydi	(i)l + ma + y + di
+1478	VERB	(i)lmoqda	(i)l + moqda
+1480	VERB	(i)lmoqdaman	(i)l + moqda + man
+1483	VERB	(i)lmoqdami	(i)l + moqda + mi
+1482	VERB	(i)lmoqdamiz	(i)l + moqda + miz
+1479	VERB	(i)lmoqdasan	(i)l + moqda + san
+1481	VERB	(i)lmoqdasiz	(i)l + moqda + siz
+1580	VERB	(i)lyapti	(i)l + yapti
+1	NOUN	(i)m	(i)m
+369	NOUN	(i)mchalik	(i)m + chalik
+350	NOUN	(i)mda	(i)m + da
+1299	NOUN	(i)mdagi	(i)m + dagi
+1301	NOUN	(i)mdagiday	(i)m + dagi + day
+1300	NOUN	(i)mdagidek	(i)m + dagi + dek
+1570	NOUN	(i)mdagina	(i)m + da + gina
+351	NOUN	(i)mdan	(i)m + dan
+352	NOUN	(i)mga	(i)m + ga
+2	NOUN	(i)miz	(i)miz
+335	NOUN	(i)mizda	(i)miz + da
+1290	NOUN	(i)mizdagi	(i)miz + dagi
+1291	NOUN	(i)mizdagiday	(i)miz + dagi + day
+334	NOUN	(i)mizdan	(i)miz + dan
+336	NOUN	(i)mizga	(i)miz + ga
+33	NOUN	(i)mizmi	(i)miz + mi
+333	NOUN	(i)mizni	(i)miz + ni
+332	NOUN	(i)mizning	(i)miz + ning
+32	NOUN	(i)mmi	(i)m + mi
+353	NOUN	(i)mni	(i)m + ni
+365	NOUN	(i)mnigina	(i)m + ni + gina
+367	NOUN	(i)mnimi	(i)m + ni + mi
+354	NOUN	(i)mning	(i)m + ning
+675	ADJ	(i)mtir	(i)mtir
+1764	ADJ	(i)mtirida	(i)mtir + i + da
+1765	ADJ	(i)mtiridan	(i)mtir + i + dan
+1763	ADJ	(i)mtiriga	(i)mtir + i + ga
+1762	ADJ	(i)mtirini	(i)mtir + i + ni
+1756	ADJ	(i)mtirligi	(i)mtir + lig + i
+1761	ADJ	(i)mtirligida	(i)mtir + lig + i + da
+1758	ADJ	(i)mtirligidan	(i)mtir + lig + i + dan
+1757	ADJ	(i)mtirligiga	(i)mtir + lig + i + ga
+1566	VERB	(i)nadi	(i)n + adi
+537	VERB	(i)nayotgan	(i)n + ayotgan
+539	VERB	(i)nayotganda	(i)n + ayotgan + da
+542	VERB	(i)nayotgandagina	(i)n + ayotgan + da + gina
+540	VERB	(i)nayotgandan	(i)n + ayotgan + dan
+541	VERB	(i)nayotgandek	(i)n + ayotgan + dek
+538	VERB	(i)nayotganligi	(i)n + ayotgan + lig + i
+388	NUM	(i)nchi	(i)nchi
+1598	NUM	(i)nchidan	(i)nchi + dan
+1832	NUM	(i)nchiga	(i)nchi + ga
+1599	NUM	(i)nchini	(i)nchi + ni
+1686	NUM	(i)nchisi	(i)nchi + si
+1687	NUM	(i)nchisida	(i)nchi + si + da
+1831	NUM	(i)nchisidan	(i)nchi + si + dan
+529	VERB	(i)ndi	(i)n + di
+803	VERB	(i)ndilar	(i)n + di + lar
+802	VERB	(i)ndim	(i)n + di + m
+531	VERB	(i)ndimi	(i)n + di + mi
+760	VERB	(i)nding	(i)n + di + ng
+762	VERB	(i)ndingiz	(i)n + di + ngiz
+763	VERB	(i)ndingizmi	(i)n + di + ngiz + mi
+761	VERB	(i)ndingmi	(i)n + di + ng + mi
+3	NOUN	(i)ng	(i)ng
+1704	VERB	(i)ng	(i)ng
+530	VERB	(i)ngan	(i)n + gan
+774	VERB	(i)ngandi	(i)n + gan + di
+775	VERB	(i)ngandilar	(i)n + gan + di + lar
+776	VERB	(i)ngandimi	(i)n + gan + di + mi
+764	VERB	(i)ngani	(i)n + gan + i
+1417	VERB	(i)nganida	(i)n + gan + i + da
+1418	VERB	(i)nganidan	(i)n + gan + i + dan
+1807	VERB	(i)nganidek	(i)n + gan + i + dek
+797	VERB	(i)nganim	(i)n + gan + im
+798	VERB	(i)nganimda	(i)n + gan + im + da
+799	VERB	(i)nganimdan	(i)n + gan + im + dan
+800	VERB	(i)nganimga	(i)n + gan + im + ga
+801	VERB	(i)nganimni	(i)n + gan + im + ni
+765	VERB	(i)nganing	(i)n + gan + ing
+820	VERB	(i)nganingda	(i)n + gan + ing + da
+766	VERB	(i)nganingdan	(i)n + gan + ing + dan
+821	VERB	(i)nganingga	(i)n + gan + ing + ga
+826	VERB	(i)nganingizmi	(i)n + gan + ingiz + mi
+825	VERB	(i)nganingmi	(i)n + gan + ing + mi
+767	VERB	(i)nganingni	(i)n + gan + ing + ni
+1416	VERB	(i)nganini	(i)n + gan + i + ni
+817	VERB	(i)nganlarni	(i)n + gan + lar + ni
+534	VERB	(i)nganligi	(i)n + gan + lig + i
+779	VERB	(i)nganligida	(i)n + gan + lig + i + da
+777	VERB	(i)nganligidan	(i)n + gan + lig + i + dan
+780	VERB	(i)nganligim	(i)n + gan + lig + im
+788	VERB	(i)nganligimga	(i)n + gan + lig + im + ga
+781	VERB	(i)nganliging	(i)n + gan + lig + ing
+783	VERB	(i)nganligingdan	(i)n + gan + lig + ing + dan
+787	VERB	(i)nganligingga	(i)n + gan + lig + ing + ga
+782	VERB	(i)nganligingiz	(i)n + gan + lig + ingiz
+784	VERB	(i)nganligingizdan	(i)n + gan + lig + ingiz + dan
+785	VERB	(i)nganligingizni	(i)n + gan + lig + ingiz + ni
+786	VERB	(i)nganligingni	(i)n + gan + lig + ing + ni
+778	VERB	(i)nganligini	(i)n + gan + lig + i + ni
+789	VERB	(i)nganliklari	(i)n + gan + lik + lar + i
+790	VERB	(i)nganliklaridan	(i)n + gan + lik + lar + i + dan
+794	VERB	(i)nganliklarimiz	(i)n + gan + lik + lar + imiz
+795	VERB	(i)nganliklarimizdan	(i)n + gan + lik + lar + imiz + dan
+796	VERB	(i)nganliklarimizga	(i)n + gan + lik + lar + imiz + ga
+791	VERB	(i)nganliklaring	(i)n + gan + lik + lar + ing
+793	VERB	(i)nganliklaringdan	(i)n + gan + lik + lar + ing + dan
+792	VERB	(i)nganliklaringga	(i)n + gan + lik + lar + ing + ga
+532	VERB	(i)nganmi	(i)n + gan + mi
+533	VERB	(i)nganmidi	(i)n + gan + mi + di
+770	VERB	(i)nganmidilar	(i)n + gan + mi + di + lar
+768	VERB	(i)nganmiding	(i)n + gan + mi + di + ng
+769	VERB	(i)nganmidingiz	(i)n + gan + mi + di + ngiz
+772	VERB	(i)nganmilar	(i)n + gan + mi + lar
+773	VERB	(i)nganmisan	(i)n + gan + mi + san
+771	VERB	(i)nganmisiz	(i)n + gan + mi + siz
+340	NOUN	(i)ngda	(i)ng + da
+1292	NOUN	(i)ngdagi	(i)ng + dagi
+1295	NOUN	(i)ngdagiday	(i)ng + dagi + day
+1294	NOUN	(i)ngdagidek	(i)ng + dagi + dek
+341	NOUN	(i)ngdan	(i)ng + dan
+343	NOUN	(i)ngga	(i)ng + ga
+4	NOUN	(i)ngiz	(i)ngiz
+1705	VERB	(i)ngiz	(i)ngiz
+347	NOUN	(i)ngizda	(i)ngiz + da
+1296	NOUN	(i)ngizdagi	(i)ngiz + dagi
+1297	NOUN	(i)ngizdagiday	(i)ngiz + dagi + day
+1298	NOUN	(i)ngizdagidek	(i)ngiz + dagi + dek
+1646	NOUN	(i)ngizdaman	(i)ngiz + da + man
+1648	NOUN	(i)ngizdamiz	(i)ngiz + da + miz
+348	NOUN	(i)ngizdan	(i)ngiz + dan
+1647	NOUN	(i)ngizdasiz	(i)ngiz + da + siz
+1571	NOUN	(i)ngizga	(i)ngiz + ga
+36	NOUN	(i)ngizmi	(i)ngiz + mi
+345	NOUN	(i)ngizni	(i)ngiz + ni
+346	NOUN	(i)ngizning	(i)ngiz + ning
+60	VERB	(i)nglar	(i)nglar
+35	NOUN	(i)ngmi	(i)ng + mi
+339	NOUN	(i)ngni	(i)ng + ni
+342	NOUN	(i)ngning	(i)ng + ning
+804	VERB	(i)nib	(i)n + ib
+805	VERB	(i)nibdi	(i)n + ib + di
+806	VERB	(i)nibdilar	(i)n + ib + di + lar
+807	VERB	(i)nibdimi	(i)n + ib + di + mi
+808	VERB	(i)nibgina	(i)n + ib + gina
+1489	VERB	(i)nishdi	(i)n + ish + di
+1490	VERB	(i)nishdilar	(i)n + ish + di + lar
+1491	VERB	(i)nishdimi	(i)n + ish + di + mi
+1492	VERB	(i)nishgan	(i)n + ish + gan
+1494	VERB	(i)nishgandi	(i)n + ish + gan + di
+1498	VERB	(i)nishgandim	(i)n + ish + gan + di + m
+1495	VERB	(i)nishgandimi	(i)n + ish + gan + di + mi
+1496	VERB	(i)nishganding	(i)n + ish + gan + di + ng
+1497	VERB	(i)nishgandingiz	(i)n + ish + gan + di + ngiz
+1499	VERB	(i)nishgani	(i)n + ish + gan + i
+1500	VERB	(i)nishganida	(i)n + ish + gan + i + da
+1501	VERB	(i)nishganidan	(i)n + ish + gan + i + dan
+1502	VERB	(i)nishganiga	(i)n + ish + gan + i + ga
+1493	VERB	(i)nishganmi	(i)n + ish + gan + mi
+1484	VERB	(i)nishi	(i)n + ish + i
+1485	VERB	(i)nishib	(i)n + ish + ib
+1804	VERB	(i)nishicha	(i)n + ish + i + cha
+1488	VERB	(i)nishim	(i)n + ish + im
+1486	VERB	(i)nishing	(i)n + ish + ing
+1487	VERB	(i)nishingiz	(i)n + ish + ingiz
+686	VERB	(i)nmadi	(i)n + ma + di
+690	VERB	(i)nmadik	(i)n + ma + di + k
+691	VERB	(i)nmadim	(i)n + ma + di + m
+688	VERB	(i)nmading	(i)n + ma + di + ng
+689	VERB	(i)nmadingiz	(i)n + ma + di + ngiz
+1812	VERB	(i)nmagan	(i)n + ma + gan
+1813	VERB	(i)nmagandi	(i)n + ma + gan + di
+1814	VERB	(i)nmagani	(i)n + ma + gan + i
+1815	VERB	(i)nmaganida	(i)n + ma + gan + i + da
+1816	VERB	(i)nmaganidan	(i)n + ma + gan + i + dan
+687	VERB	(i)nmas	(i)n + ma + s
+812	VERB	(i)nmasdi	(i)n + ma + s + di
+814	VERB	(i)nmasdilar	(i)n + ma + s + di + lar
+813	VERB	(i)nmasding	(i)n + ma + s + di + ng
+809	VERB	(i)nmay	(i)n + ma + y
+810	VERB	(i)nmaydi	(i)n + ma + y + di
+811	VERB	(i)nmaydilar	(i)n + ma + y + di + lar
+1821	VERB	(i)nmoq	(i)n + moq
+1822	VERB	(i)nmoqchi	(i)n + moqchi
+536	VERB	(i)nmoqda	(i)n + moqda
+1568	VERB	(i)nsa	(i)n + sa
+905	VERB	(i)ntir	(i)n + tir
+907	VERB	(i)ntirdi	(i)n + tir + di
+908	VERB	(i)ntirdilar	(i)n + tir + di + lar
+913	VERB	(i)ntirding	(i)n + tir + di + ng
+914	VERB	(i)ntirdingiz	(i)n + tir + di + ngiz
+915	VERB	(i)ntirgan	(i)n + tir + gan
+918	VERB	(i)ntirganman	(i)n + tir + gan + man
+921	VERB	(i)ntirganmi	(i)n + tir + gan + mi
+922	VERB	(i)ntirganmiding	(i)n + tir + gan + mi + di + ng
+923	VERB	(i)ntirganmidingiz	(i)n + tir + gan + mi + di + ngiz
+919	VERB	(i)ntirganmisan	(i)n + tir + gan + mi + san
+920	VERB	(i)ntirganmisiz	(i)n + tir + gan + mi + siz
+916	VERB	(i)ntirgansan	(i)n + tir + gan + san
+917	VERB	(i)ntirgansiz	(i)n + tir + gan + siz
+909	VERB	(i)ntirildi	(i)n + tir + il + di
+910	VERB	(i)ntirildilar	(i)n + tir + il + di + lar
+911	VERB	(i)ntirma	(i)n + tir + ma
+912	VERB	(i)ntirmadi	(i)n + tir + ma + di
+1833	VERB	(i)sh	(i)sh
+1755	ADJ	(i)sh	(i)sh
+478	VERB	(i)sh	(i)sh
+1421	VERB	(i)shadi	(i)sh + adi
+1422	VERB	(i)shardi	(i)sh + ar + di
+1576	VERB	(i)shayotgani	(i)sh + ayotgan + i
+1577	VERB	(i)shayotganida	(i)sh + ayotgan + i + da
+1578	VERB	(i)shayotganiga	(i)sh + ayotgan + i + ga
+1579	VERB	(i)shayotganini	(i)sh + ayotgan + i + ni
+482	VERB	(i)shda	(i)sh + da
+481	VERB	(i)shdan	(i)sh + dan
+1066	VERB	(i)shdi	(i)sh + di
+1068	VERB	(i)shdik	(i)sh + di + k
+553	VERB	(i)shdikmi	(i)sh + di + k + mi
+1067	VERB	(i)shdilar	(i)sh + di + lar
+1069	VERB	(i)shdim	(i)sh + di + m
+550	VERB	(i)shdimi	(i)sh + di + mi
+1070	VERB	(i)shding	(i)sh + di + ng
+1071	VERB	(i)shdingiz	(i)sh + di + ngiz
+552	VERB	(i)shdingizmi	(i)sh + di + ngiz + mi
+551	VERB	(i)shdingmi	(i)sh + di + ng + mi
+1431	VERB	(i)shga	(i)sh + ga
+1072	VERB	(i)shgan	(i)sh + gan
+1092	VERB	(i)shganda	(i)sh + gan + da
+1093	VERB	(i)shgandan	(i)sh + gan + dan
+1074	VERB	(i)shgandi	(i)sh + gan + di
+1088	VERB	(i)shgandik	(i)sh + gan + di + k
+1090	VERB	(i)shgandilar	(i)sh + gan + di + lar
+1085	VERB	(i)shgandim	(i)sh + gan + di + m
+1084	VERB	(i)shganding	(i)sh + gan + di + ng
+1087	VERB	(i)shgandingiz	(i)sh + gan + di + ngiz
+1094	VERB	(i)shganga	(i)sh + gan + ga
+1424	VERB	(i)shgani	(i)sh + gan + i
+1426	VERB	(i)shganida	(i)sh + gan + i + da
+1427	VERB	(i)shganidan	(i)sh + gan + i + dan
+1091	VERB	(i)shganim	(i)sh + gan + im
+1425	VERB	(i)shganing	(i)sh + gan + ing
+1644	VERB	(i)shganlar	(i)sh + gan + lar
+1073	VERB	(i)shganmi	(i)sh + gan + mi
+1075	VERB	(i)shganmidi	(i)sh + gan + mi + di
+1078	VERB	(i)shganmidik	(i)sh + gan + mi + di + k
+1076	VERB	(i)shganmidilar	(i)sh + gan + mi + di + lar
+1079	VERB	(i)shganmidim	(i)sh + gan + mi + di + m
+556	VERB	(i)shganmiding	(i)sh + gan + mi + di + ng
+555	VERB	(i)shganmidingiz	(i)sh + gan + mi + di + ngiz
+1082	VERB	(i)shganmisan	(i)sh + gan + mi + san
+1083	VERB	(i)shganmisiz	(i)sh + gan + mi + siz
+546	VERB	(i)shi	(i)sh + i
+685	VERB	(i)shicha	(i)sh + i + cha
+520	VERB	(i)shida	(i)sh + i + da
+545	VERB	(i)shidan	(i)sh + i + dan
+535	VERB	(i)shiga	(i)sh + i + ga
+483	VERB	(i)shim	(i)sh + im
+493	VERB	(i)shimda	(i)sh + im + da
+494	VERB	(i)shimdan	(i)sh + im + dan
+514	VERB	(i)shimga	(i)sh + im + ga
+622	VERB	(i)shimgacha	(i)sh + im + gacha
+486	VERB	(i)shimiz	(i)sh + imiz
+488	VERB	(i)shimizda	(i)sh + imiz + da
+489	VERB	(i)shimizdan	(i)sh + imiz + dan
+510	VERB	(i)shimizga	(i)sh + imiz + ga
+487	VERB	(i)shimizni	(i)sh + imiz + ni
+490	VERB	(i)shimizning	(i)sh + imiz + ning
+491	VERB	(i)shimni	(i)sh + im + ni
+492	VERB	(i)shimning	(i)sh + im + ning
+484	VERB	(i)shing	(i)sh + ing
+497	VERB	(i)shingda	(i)sh + ing + da
+498	VERB	(i)shingdan	(i)sh + ing + dan
+512	VERB	(i)shingga	(i)sh + ing + ga
+623	VERB	(i)shinggacha	(i)sh + ing + gacha
+485	VERB	(i)shingiz	(i)sh + ingiz
+501	VERB	(i)shingizda	(i)sh + ingiz + da
+502	VERB	(i)shingizdan	(i)sh + ingiz + dan
+511	VERB	(i)shingizga	(i)sh + ingiz + ga
+628	VERB	(i)shingizgacha	(i)sh + ingiz + gacha
+499	VERB	(i)shingizni	(i)sh + ingiz + ni
+500	VERB	(i)shingizning	(i)sh + ingiz + ning
+495	VERB	(i)shingni	(i)sh + ing + ni
+496	VERB	(i)shingning	(i)sh + ing + ning
+547	VERB	(i)shini	(i)sh + i + ni
+1518	VERB	(i)shish	(i)sh + ish
+1539	VERB	(i)shishayotgandi	(i)sh + ish + ayotgan + di
+1540	VERB	(i)shishayotgandilar	(i)sh + ish + ayotgan + di + lar
+1537	VERB	(i)shishayotganida	(i)sh + ish + ayotgan + i + da
+1538	VERB	(i)shishayotganidan	(i)sh + ish + ayotgan + i + dan
+1536	VERB	(i)shishayotganini	(i)sh + ish + ayotgan + i + ni
+1541	VERB	(i)shishayotganmidi	(i)sh + ish + ayotgan + mi + di
+1519	VERB	(i)shishdi	(i)sh + ish + di
+1520	VERB	(i)shishgan	(i)sh + ish + gan
+1521	VERB	(i)shishgandi	(i)sh + ish + gan + di
+1532	VERB	(i)shishgandik	(i)sh + ish + gan + di + k
+1522	VERB	(i)shishgandilar	(i)sh + ish + gan + di + lar
+1533	VERB	(i)shishganding	(i)sh + ish + gan + di + ng
+1534	VERB	(i)shishgandingiz	(i)sh + ish + gan + di + ngiz
+1525	VERB	(i)shishgani	(i)sh + ish + gan + i
+1527	VERB	(i)shishganida	(i)sh + ish + gan + i + da
+1528	VERB	(i)shishganidan	(i)sh + ish + gan + i + dan
+1530	VERB	(i)shishganing	(i)sh + ish + gan + ing
+1531	VERB	(i)shishganingiz	(i)sh + ish + gan + ingiz
+1526	VERB	(i)shishganini	(i)sh + ish + gan + i + ni
+1535	VERB	(i)shishganlarimiz	(i)sh + ish + gan + lar + imiz
+1523	VERB	(i)shishganmi	(i)sh + ish + gan + mi
+1524	VERB	(i)shishganmidi	(i)sh + ish + gan + mi + di
+854	VERB	(i)shma	(i)sh + ma
+855	VERB	(i)shmadi	(i)sh + ma + di
+856	VERB	(i)shmadilar	(i)sh + ma + di + lar
+857	VERB	(i)shmadillar	(i)sh + ma + di + l + lar
+860	VERB	(i)shmadim	(i)sh + ma + di + m
+858	VERB	(i)shmadimi	(i)sh + ma + di + mi
+859	VERB	(i)shmading	(i)sh + ma + di + ng
+557	VERB	(i)shmagan	(i)sh + ma + gan
+559	VERB	(i)shmagandi	(i)sh + ma + gan + di
+562	VERB	(i)shmagani	(i)sh + ma + gan + i
+560	VERB	(i)shmaganing	(i)sh + ma + gan + ing
+561	VERB	(i)shmaganingiz	(i)sh + ma + gan + ingiz
+558	VERB	(i)shmaganligi	(i)sh + ma + gan + lig + i
+862	VERB	(i)shmaganligidan	(i)sh + ma + gan + lig + i + dan
+863	VERB	(i)shmaganligini	(i)sh + ma + gan + lig + i + ni
+1095	VERB	(i)shmoq	(i)sh + moq
+479	VERB	(i)shni	(i)sh + ni
+480	VERB	(i)shning	(i)sh + ning
+1441	VERB	(i)shtir	(i)sh + tir
+1449	VERB	(i)shtirgan	(i)sh + tir + gan
+1443	VERB	(i)shtirish	(i)sh + tir + ish
+1451	VERB	(i)shtirishda	(i)sh + tir + ish + da
+1453	VERB	(i)shtirishdan	(i)sh + tir + ish + dan
+1444	VERB	(i)shtirishdi	(i)sh + tir + ish + di
+1445	VERB	(i)shtirishdimi	(i)sh + tir + ish + di + mi
+1446	VERB	(i)shtirishgan	(i)sh + tir + ish + gan
+1447	VERB	(i)shtirishganmi	(i)sh + tir + ish + gan + mi
+1448	VERB	(i)shtirishganmidi	(i)sh + tir + ish + gan + mi + di
+1442	VERB	(i)shtirishni	(i)sh + tir + ish + ni
+1542	VERB	(i)tadi	(i)t + adi
+1269	VERB	(i)tayotgan	(i)t + ayotgan
+1270	VERB	(i)tayotganlar	(i)t + ayotgan + lar
+1273	VERB	(i)tayotganlarda	(i)t + ayotgan + lar + da
+1272	VERB	(i)tayotganlardan	(i)t + ayotgan + lar + dan
+1271	VERB	(i)tayotganlarni	(i)t + ayotgan + lar + ni
+416	VERB	(i)tdi	(i)t + di
+417	VERB	(i)tdimi	(i)t + di + mi
+976	VERB	(i)tgan	(i)t + gan
+984	VERB	(i)tgandik	(i)t + gan + di + k
+1543	VERB	(i)tgani	(i)t + gan + i
+1544	VERB	(i)tganida	(i)t + gan + i + da
+1545	VERB	(i)tganidan	(i)t + gan + i + dan
+1547	VERB	(i)tganiga	(i)t + gan + i + ga
+977	VERB	(i)tganim	(i)t + gan + im
+978	VERB	(i)tganimda	(i)t + gan + im + da
+982	VERB	(i)tganimdan	(i)t + gan + im + dan
+981	VERB	(i)tganimni	(i)t + gan + im + ni
+1546	VERB	(i)tganini	(i)t + gan + i + ni
+1063	VERB	(i)tganlar	(i)t + gan + lar
+1064	VERB	(i)tganlardan	(i)t + gan + lar + dan
+979	VERB	(i)tganlarim	(i)t + gan + lar + im
+980	VERB	(i)tganlarimni	(i)t + gan + lar + im + ni
+974	VERB	(i)tibdi	(i)t + ib + di
+975	VERB	(i)tibdilar	(i)t + ib + di + lar
+1397	VERB	(i)tiladi	(i)t + il + adi
+1396	VERB	(i)tiladigan	(i)t + il + adigan
+1274	VERB	(i)tilayotgan	(i)t + il + ayotgan
+1400	VERB	(i)tilayotgani	(i)t + il + ayotgan + i
+987	VERB	(i)tildi	(i)t + il + di
+989	VERB	(i)tildik	(i)t + il + di + k
+988	VERB	(i)tildim	(i)t + il + di + m
+1399	VERB	(i)tildimi	(i)t + il + di + mi
+993	VERB	(i)tilding	(i)t + il + di + ng
+994	VERB	(i)tildingiz	(i)t + il + di + ngiz
+995	VERB	(i)tilgan	(i)t + il + gan
+1006	VERB	(i)tilgandan	(i)t + il + gan + dan
+1024	VERB	(i)tilgandi	(i)t + il + gan + di
+1026	VERB	(i)tilgandik	(i)t + il + gan + di + k
+1031	VERB	(i)tilgandilar	(i)t + il + gan + di + lar
+1025	VERB	(i)tilgandim	(i)t + il + gan + di + m
+1027	VERB	(i)tilganding	(i)t + il + gan + di + ng
+1028	VERB	(i)tilgandingiz	(i)t + il + gan + di + ngiz
+1007	VERB	(i)tilgani	(i)t + il + gan + i
+1008	VERB	(i)tilganida	(i)t + il + gan + i + da
+1009	VERB	(i)tilganidan	(i)t + il + gan + i + dan
+1002	VERB	(i)tilganim	(i)t + il + gan + im
+1003	VERB	(i)tilganimda	(i)t + il + gan + im + da
+1004	VERB	(i)tilganimdan	(i)t + il + gan + im + dan
+1005	VERB	(i)tilganimni	(i)t + il + gan + im + ni
+1001	VERB	(i)tilganing	(i)t + il + gan + ing
+997	VERB	(i)tilganlar	(i)t + il + gan + lar
+415	VERB	(i)tilganlarni	(i)t + il + gan + lar + ni
+1011	VERB	(i)tilganman	(i)t + il + gan + man
+998	VERB	(i)tilganmi	(i)t + il + gan + mi
+1000	VERB	(i)tilganmidi	(i)t + il + gan + mi + di
+999	VERB	(i)tilganmilar	(i)t + il + gan + mi + lar
+1010	VERB	(i)tilganmiz	(i)t + il + gan + miz
+1012	VERB	(i)tilgansan	(i)t + il + gan + san
+1013	VERB	(i)tilgansiz	(i)t + il + gan + siz
+1061	VERB	(i)tilib	(i)t + il + ib
+1062	VERB	(i)tilibdi	(i)t + il + ib + di
+1014	VERB	(i)tilish	(i)t + il + ish
+1015	VERB	(i)tilishi	(i)t + il + ish + i
+1020	VERB	(i)tilishida	(i)t + il + ish + i + da
+1019	VERB	(i)tilishidan	(i)t + il + ish + i + dan
+1021	VERB	(i)tilishiga	(i)t + il + ish + i + ga
+1017	VERB	(i)tilishim	(i)t + il + ish + im
+1018	VERB	(i)tilishing	(i)t + il + ish + ing
+1023	VERB	(i)tilishingiz	(i)t + il + ish + ingiz
+1016	VERB	(i)tilishini	(i)t + il + ish + i + ni
+986	VERB	(i)tilmadi	(i)t + il + ma + di
+1046	VERB	(i)tilmadik	(i)t + il + ma + di + k
+1047	VERB	(i)tilmadim	(i)t + il + ma + di + m
+1045	VERB	(i)tilmadimi	(i)t + il + ma + di + mi
+1048	VERB	(i)tilmading	(i)t + il + ma + di + ng
+1049	VERB	(i)tilmadingiz	(i)t + il + ma + di + ngiz
+985	VERB	(i)tilmagan	(i)t + il + ma + gan
+1035	VERB	(i)tilmagani	(i)t + il + ma + gan + i
+1037	VERB	(i)tilmaganida	(i)t + il + ma + gan + i + da
+1036	VERB	(i)tilmaganidan	(i)t + il + ma + gan + i + dan
+1038	VERB	(i)tilmaganing	(i)t + il + ma + gan + ing
+1052	VERB	(i)tilmaganman	(i)t + il + ma + gan + man
+1053	VERB	(i)tilmaganmiz	(i)t + il + ma + gan + miz
+1050	VERB	(i)tilmagansan	(i)t + il + ma + gan + san
+1051	VERB	(i)tilmagansiz	(i)t + il + ma + gan + siz
+1039	VERB	(i)tilmas	(i)t + il + ma + s
+1054	VERB	(i)tilmasdan	(i)t + il + ma + s + dan
+1040	VERB	(i)tilmasdi	(i)t + il + ma + s + di
+1042	VERB	(i)tilmasdik	(i)t + il + ma + s + di + k
+1041	VERB	(i)tilmasdilar	(i)t + il + ma + s + di + lar
+1043	VERB	(i)tilmasligi	(i)t + il + ma + s + lig + i
+1056	VERB	(i)tilmasligidan	(i)t + il + ma + s + lig + i + dan
+1044	VERB	(i)tilmaslik	(i)t + il + ma + s + lik
+1057	VERB	(i)tilmay	(i)t + il + ma + y
+1058	VERB	(i)tilmaydi	(i)t + il + ma + y + di
+1059	VERB	(i)tilmaydigan	(i)t + il + ma + ydigan
+1060	VERB	(i)tilmayin	(i)t + il + ma + y + in
+1275	VERB	(i)tilmayotgan	(i)t + il + ma + yotgan
+1276	VERB	(i)tilmayotgandi	(i)t + il + ma + yotgan + di
+1034	VERB	(i)tilmoq	(i)t + il + moq
+1565	VERB	(i)tish	(i)t + ish
+1564	VERB	(i)tishi	(i)t + ish + i
+1553	VERB	(i)tma	(i)t + ma
+1556	VERB	(i)tmadi	(i)t + ma + di
+1557	VERB	(i)tmas	(i)t + ma + s
+1558	VERB	(i)tmasdi	(i)t + ma + s + di
+1554	VERB	(i)tmay	(i)t + ma + y
+1555	VERB	(i)tmaydi	(i)t + ma + y + di
+1559	VERB	(i)tmaydigan	(i)t + ma + ydigan
+1561	VERB	(i)tmaydilar	(i)t + ma + y + di + lar
+1560	VERB	(i)tmaydimi	(i)t + ma + y + di + mi
+418	VERB	(i)tmoqchi	(i)t + moqchi
+1548	VERB	(i)tsa	(i)t + sa
+1550	VERB	(i)tsak	(i)t + sa + k
+1549	VERB	(i)tsam	(i)t + sa + m
+1551	VERB	(i)tsang	(i)t + sa + ng
+1552	VERB	(i)tsangiz	(i)t + sa + ngiz
+924	VERB	(i)ttir	(i)t + tir
+925	VERB	(i)ttirdi	(i)t + tir + di
+965	VERB	(i)ttirdik	(i)t + tir + di + k
+926	VERB	(i)ttirdilar	(i)t + tir + di + lar
+966	VERB	(i)ttirdim	(i)t + tir + di + m
+927	VERB	(i)ttirdimi	(i)t + tir + di + mi
+928	VERB	(i)ttirding	(i)t + tir + di + ng
+929	VERB	(i)ttirdingiz	(i)t + tir + di + ngiz
+930	VERB	(i)ttirdingizmi	(i)t + tir + di + ngiz + mi
+931	VERB	(i)ttirdingmi	(i)t + tir + di + ng + mi
+932	VERB	(i)ttirgan	(i)t + tir + gan
+933	VERB	(i)ttirgani	(i)t + tir + gan + i
+935	VERB	(i)ttirganida	(i)t + tir + gan + i + da
+936	VERB	(i)ttirganidan	(i)t + tir + gan + i + dan
+937	VERB	(i)ttirganim	(i)t + tir + gan + im
+938	VERB	(i)ttirganing	(i)t + tir + gan + ing
+939	VERB	(i)ttirganingiz	(i)t + tir + gan + ingiz
+934	VERB	(i)ttirganini	(i)t + tir + gan + i + ni
+969	VERB	(i)ttirib	(i)t + tir + ib
+970	VERB	(i)ttiribdi	(i)t + tir + ib + di
+971	VERB	(i)ttiribdilar	(i)t + tir + ib + di + lar
+972	VERB	(i)ttiribdimi	(i)t + tir + ib + di + mi
+940	VERB	(i)ttirma	(i)t + tir + ma
+961	VERB	(i)ttirmadi	(i)t + tir + ma + di
+962	VERB	(i)ttirmadik	(i)t + tir + ma + di + k
+963	VERB	(i)ttirmading	(i)t + tir + ma + di + ng
+964	VERB	(i)ttirmadingiz	(i)t + tir + ma + di + ngiz
+941	VERB	(i)ttirmagan	(i)t + tir + ma + gan
+942	VERB	(i)ttirmagandi	(i)t + tir + ma + gan + di
+955	VERB	(i)ttirmagandik	(i)t + tir + ma + gan + di + k
+954	VERB	(i)ttirmagandim	(i)t + tir + ma + gan + di + m
+956	VERB	(i)ttirmaganding	(i)t + tir + ma + gan + di + ng
+957	VERB	(i)ttirmagandingiz	(i)t + tir + ma + gan + di + ngiz
+958	VERB	(i)ttirmagani	(i)t + tir + ma + gan + i
+943	VERB	(i)ttirmaganim	(i)t + tir + ma + gan + im
+944	VERB	(i)ttirmaganing	(i)t + tir + ma + gan + ing
+945	VERB	(i)ttirmaganingiz	(i)t + tir + ma + gan + ingiz
+947	VERB	(i)ttirmaganingizda	(i)t + tir + ma + gan + ingiz + da
+946	VERB	(i)ttirmaganingizdan	(i)t + tir + ma + gan + ingiz + dan
+953	VERB	(i)ttirmaganligi	(i)t + tir + ma + gan + lig + i
+959	VERB	(i)ttirmaganmi	(i)t + tir + ma + gan + mi
+948	VERB	(i)ttirmaganmidi	(i)t + tir + ma + gan + mi + di
+951	VERB	(i)ttirmaganmidik	(i)t + tir + ma + gan + mi + di + k
+952	VERB	(i)ttirmaganmidim	(i)t + tir + ma + gan + mi + di + m
+949	VERB	(i)ttirmaganmiding	(i)t + tir + ma + gan + mi + di + ng
+950	VERB	(i)ttirmaganmidingiz	(i)t + tir + ma + gan + mi + di + ngiz
+1825	PRN	(n)iki	(n)iki
+1826	PRN	(n)ikida	(n)iki + da
+1829	PRN	(n)ikidami	(n)iki + da + mi
+1827	PRN	(n)ikidan	(n)iki + dan
+647	PRN	(n)ikidan	(n)iki + dan
+1828	PRN	(n)ikidanmi	(n)iki + dan + mi
+221	NOUN	(n)ikimi	(n)iki + mi
+153	VERB	(t)Tir	(t)Tir
+1575	VERB	(t)Tiradi	(t)Tir + adi
+1635	VERB	(t)Tiradigan	(t)Tir + adigan
+1373	VERB	(t)Tirar	(t)Tir + ar
+1374	VERB	(t)Tirardi	(t)Tir + ar + di
+1378	VERB	(t)Tirardik	(t)Tir + ar + di + k
+1379	VERB	(t)Tirarding	(t)Tir + ar + di + ng
+1380	VERB	(t)Tirardingiz	(t)Tir + ar + di + ngiz
+1377	VERB	(t)Tirarkan	(t)Tir + ar + kan
+1375	VERB	(t)Tirarmidi	(t)Tir + ar + mi + di
+633	VERB	(t)Tirayotganda	(t)Tir + ayotgan + da
+604	VERB	(t)Tirdi	(t)Tir + di
+606	VERB	(t)Tirdik	(t)Tir + di + k
+591	VERB	(t)Tirdikmi	(t)Tir + di + k + mi
+582	VERB	(t)Tirdilar	(t)Tir + di + lar
+605	VERB	(t)Tirdim	(t)Tir + di + m
+577	VERB	(t)Tirdimi	(t)Tir + di + mi
+592	VERB	(t)Tirdimmi	(t)Tir + di + m + mi
+607	VERB	(t)Tirding	(t)Tir + di + ng
+608	VERB	(t)Tirdingiz	(t)Tir + di + ngiz
+589	VERB	(t)Tirdingizmi	(t)Tir + di + ngiz + mi
+590	VERB	(t)Tirdingmi	(t)Tir + di + ng + mi
+575	VERB	(t)Tirgan	(t)Tir + gan
+434	VERB	(t)Tirgandi	(t)Tir + gan + di
+1320	VERB	(t)Tirgandik	(t)Tir + gan + di + k
+436	VERB	(t)Tirgandilar	(t)Tir + gan + di + lar
+437	VERB	(t)Tirganding	(t)Tir + gan + di + ng
+438	VERB	(t)Tirgandingiz	(t)Tir + gan + di + ngiz
+1346	VERB	(t)Tirgani	(t)Tir + gan + i
+1347	VERB	(t)Tirganim	(t)Tir + gan + im
+1348	VERB	(t)Tirganing	(t)Tir + gan + ing
+1333	VERB	(t)Tirganingdan	(t)Tir + gan + ing + dan
+1334	VERB	(t)Tirganingga	(t)Tir + gan + ing + ga
+1349	VERB	(t)Tirganingiz	(t)Tir + gan + ingiz
+1332	VERB	(t)Tirganingizdan	(t)Tir + gan + ingiz + dan
+1351	VERB	(t)Tirganingizga	(t)Tir + gan + ingiz + ga
+1331	VERB	(t)Tirganingizni	(t)Tir + gan + ingiz + ni
+1330	VERB	(t)Tirganingni	(t)Tir + gan + ing + ni
+1344	VERB	(t)Tirganlar	(t)Tir + gan + lar
+1783	VERB	(t)Tirganmi	(t)Tir + gan + mi
+435	VERB	(t)Tirganmidi	(t)Tir + gan + mi + di
+1321	VERB	(t)Tirganmidik	(t)Tir + gan + mi + di + k
+440	VERB	(t)Tirganmiding	(t)Tir + gan + mi + di + ng
+439	VERB	(t)Tirganmidingiz	(t)Tir + gan + mi + di + ngiz
+1312	VERB	(t)Tirib	(t)Tir + ib
+1313	VERB	(t)Tiribdi	(t)Tir + ib + di
+1624	VERB	(t)Tiriladigan	(t)Tir + il + adigan
+609	VERB	(t)Tirildi	(t)Tir + il + di
+1342	VERB	(t)Tirildik	(t)Tir + il + di + k
+1343	VERB	(t)Tirildikmi	(t)Tir + il + di + k + mi
+611	VERB	(t)Tirildimi	(t)Tir + il + di + mi
+1341	VERB	(t)Tirildingiz	(t)Tir + il + di + ngiz
+1340	VERB	(t)Tirildingizmi	(t)Tir + il + di + ngiz + mi
+1339	VERB	(t)Tirildingmi	(t)Tir + il + di + ng + mi
+610	VERB	(t)Tirilgan	(t)Tir + il + gan
+1383	VERB	(t)Tirilganda	(t)Tir + il + gan + da
+1382	VERB	(t)Tirilgandan	(t)Tir + il + gan + dan
+619	VERB	(t)Tirilgandim	(t)Tir + il + gan + di + m
+620	VERB	(t)Tirilganding	(t)Tir + il + gan + di + ng
+621	VERB	(t)Tirilgandingiz	(t)Tir + il + gan + di + ngiz
+1387	VERB	(t)Tirilgani	(t)Tir + il + gan + i
+1389	VERB	(t)Tirilganida	(t)Tir + il + gan + i + da
+1388	VERB	(t)Tirilganidan	(t)Tir + il + gan + i + dan
+1390	VERB	(t)Tirilganiga	(t)Tir + il + gan + i + ga
+618	VERB	(t)Tirilganim	(t)Tir + il + gan + im
+616	VERB	(t)Tirilganing	(t)Tir + il + gan + ing
+617	VERB	(t)Tirilganingiz	(t)Tir + il + gan + ingiz
+612	VERB	(t)Tirilganmi	(t)Tir + il + gan + mi
+613	VERB	(t)Tirilganmidik	(t)Tir + il + gan + mi + di + k
+614	VERB	(t)Tirilganmiding	(t)Tir + il + gan + mi + di + ng
+615	VERB	(t)Tirilganmidingiz	(t)Tir + il + gan + mi + di + ngiz
+1384	VERB	(t)Tirilganni	(t)Tir + il + gan + ni
+1381	VERB	(t)Tirilib	(t)Tir + il + ib
+1385	VERB	(t)Tirilibdi	(t)Tir + il + ib + di
+1386	VERB	(t)Tirilibdimi	(t)Tir + il + ib + di + mi
+1392	VERB	(t)Tirilish	(t)Tir + il + ish
+1391	VERB	(t)Tirilishi	(t)Tir + il + ish + i
+1394	VERB	(t)Tirilishida	(t)Tir + il + ish + i + da
+1393	VERB	(t)Tirilishidan	(t)Tir + il + ish + i + dan
+1395	VERB	(t)Tirilishini	(t)Tir + il + ish + i + ni
+1324	VERB	(t)Tirish	(t)Tir + ish
+1357	VERB	(t)Tirishdan	(t)Tir + ish + dan
+1327	VERB	(t)Tirishdi	(t)Tir + ish + di
+1361	VERB	(t)Tirishdik	(t)Tir + ish + di + k
+1328	VERB	(t)Tirishdimi	(t)Tir + ish + di + mi
+1364	VERB	(t)Tirishdingiz	(t)Tir + ish + di + ngiz
+1367	VERB	(t)Tirishdingizmi	(t)Tir + ish + di + ngiz + mi
+1366	VERB	(t)Tirishdingmi	(t)Tir + ish + di + ng + mi
+1355	VERB	(t)Tirishga	(t)Tir + ish + ga
+1326	VERB	(t)Tirishgan	(t)Tir + ish + gan
+1353	VERB	(t)Tirishgandi	(t)Tir + ish + gan + di
+1369	VERB	(t)Tirishgani	(t)Tir + ish + gan + i
+1371	VERB	(t)Tirishganida	(t)Tir + ish + gan + i + da
+1370	VERB	(t)Tirishganidan	(t)Tir + ish + gan + i + dan
+1329	VERB	(t)Tirishganmi	(t)Tir + ish + gan + mi
+1368	VERB	(t)Tirishganmidi	(t)Tir + ish + gan + mi + di
+1794	VERB	(t)Tirishi	(t)Tir + ish + i
+1372	VERB	(t)Tirishib	(t)Tir + ish + ib
+1358	VERB	(t)Tirishim	(t)Tir + ish + im
+1359	VERB	(t)Tirishing	(t)Tir + ish + ing
+1360	VERB	(t)Tirishingiz	(t)Tir + ish + ingiz
+1356	VERB	(t)Tirishni	(t)Tir + ish + ni
+593	VERB	(t)Tirmadi	(t)Tir + ma + di
+594	VERB	(t)Tirmadik	(t)Tir + ma + di + k
+595	VERB	(t)Tirmading	(t)Tir + ma + di + ng
+596	VERB	(t)Tirmadingiz	(t)Tir + ma + di + ngiz
+597	VERB	(t)Tirmagan	(t)Tir + ma + gan
+598	VERB	(t)Tirmagandi	(t)Tir + ma + gan + di
+601	VERB	(t)Tirmagandik	(t)Tir + ma + gan + di + k
+602	VERB	(t)Tirmagandim	(t)Tir + ma + gan + di + m
+599	VERB	(t)Tirmaganding	(t)Tir + ma + gan + di + ng
+600	VERB	(t)Tirmagandingiz	(t)Tir + ma + gan + di + ngiz
+631	VERB	(t)Tirmoq	(t)Tir + moq
+1574	VERB	(t)Tirmoqda	(t)Tir + moqda
+1787	VERB	(t)Tirsa	(t)Tir + sa
+1790	VERB	(t)Tirsam	(t)Tir + sa + m
+1791	VERB	(t)Tirsammi	(t)Tir + sa + m + mi
+1788	VERB	(t)Tirsang	(t)Tir + sa + ng
+1789	VERB	(t)Tirsangiz	(t)Tir + sa + ngiz
+1572	VERB	(t)Tiruvchi	(t)Tir + uvchi
+1835	VERB	Ar	Ar
+1689	VERB	Ar	Ar
+1097	VERB	Ardi	Ar + di
+1099	VERB	Ardik	Ar + di + k
+1106	VERB	Ardikmi	Ar + di + k + mi
+1098	VERB	Ardilar	Ar + di + lar
+1107	VERB	Ardilarmi	Ar + di + lar + mi
+1100	VERB	Ardim	Ar + di + m
+1105	VERB	Ardimmi	Ar + di + m + mi
+1101	VERB	Arding	Ar + di + ng
+1102	VERB	Ardingiz	Ar + di + ngiz
+1103	VERB	Ardingizmi	Ar + di + ngiz + mi
+1104	VERB	Ardingmi	Ar + di + ng + mi
+1694	VERB	Argan	Ar + gan
+1110	VERB	Argandi	Ar + gan + di
+1111	VERB	Argandik	Ar + gan + di + k
+1116	VERB	Argandimi	Ar + gan + di + mi
+1112	VERB	Arganding	Ar + gan + di + ng
+1113	VERB	Argandingiz	Ar + gan + di + ngiz
+1118	VERB	Argandingizmi	Ar + gan + di + ngiz + mi
+1117	VERB	Argandingmi	Ar + gan + di + ng + mi
+1122	VERB	Argani	Ar + gan + i
+1142	VERB	Arganingda	Ar + gan + ing + da
+1143	VERB	Arganingdan	Ar + gan + ing + dan
+1119	VERB	Arganlar	Ar + gan + lar
+1121	VERB	Arganlarga	Ar + gan + lar + ga
+1123	VERB	Arganlaricha	Ar + gan + lar + icha
+1120	VERB	Arganlarmi	Ar + gan + lar + mi
+1145	VERB	Arganligi	Ar + gan + lig + i
+1146	VERB	Arganligidan	Ar + gan + lig + i + dan
+1147	VERB	Arganligiga	Ar + gan + lig + i + ga
+1693	VERB	Arib	Ar + ib
+1465	VERB	Arilayotgan	Ar + il + ayotgan
+1466	VERB	Arilayotgani	Ar + il + ayotgan + i
+1467	VERB	Arilayotganligi	Ar + il + ayotgan + lig + i
+1454	VERB	Arildi	Ar + il + di
+1459	VERB	Arildik	Ar + il + di + k
+1138	VERB	Arildikmi	Ar + il + di + k + mi
+1128	VERB	Arildilar	Ar + il + di + lar
+1133	VERB	Arildim	Ar + il + di + m
+1455	VERB	Arildimi	Ar + il + di + mi
+1139	VERB	Arildimmi	Ar + il + di + m + mi
+1460	VERB	Arilding	Ar + il + di + ng
+1461	VERB	Arildingiz	Ar + il + di + ngiz
+1136	VERB	Arildingizmi	Ar + il + di + ngiz + mi
+1137	VERB	Arildingmi	Ar + il + di + ng + mi
+1456	VERB	Arilgan	Ar + il + gan
+1131	VERB	Arilgandi	Ar + il + gan + di
+1463	VERB	Arilgani	Ar + il + gan + i
+1464	VERB	Arilganligi	Ar + il + gan + lig + i
+1457	VERB	Arilganmi	Ar + il + gan + mi
+1784	VERB	Arilgudek	Ar + il + gudek
+1140	VERB	Arilmoqchi	Ar + il + moqchi
+1691	VERB	Arish	Ar + ish
+1692	VERB	Arishi	Ar + ish + i
+1699	VERB	Arishim	Ar + ish + im
+1698	VERB	Arishing	Ar + ish + ing
+1690	VERB	Armay	Ar + ma + y
+1126	VERB	Armoq	Ar + moq
+1141	VERB	Armoqchi	Ar + moqchi
+6	NOUN	Ga	Ga
+442	VERB	Gach	Gach
+151	NOUN	Gacha	Gacha
+443	VERB	Gachgina	Gach + gina
+80	VERB	Gan	Gan
+150	VERB	Gancha	Gan + cha
+470	VERB	Ganchalik	Gan + chalik
+458	VERB	Ganda	Gan + da
+457	VERB	Gandan	Gan + dan
+81	VERB	Gandi	Gan + di
+83	VERB	Gandik	Gan + di + k
+1171	VERB	Gandikmi	Gan + di + k + mi
+84	VERB	Gandilar	Gan + di + lar
+82	VERB	Gandim	Gan + di + m
+106	VERB	Ganding	Gan + di + ng
+1167	VERB	Gandingiz	Gan + di + ngiz
+1168	VERB	Gandingizmi	Gan + di + ngiz + mi
+108	VERB	Gandingmi	Gan + di + ng + mi
+269	VERB	Gani	Gan + i
+1504	VERB	Ganicha	Gan + icha
+266	VERB	Ganida	Gan + i + da
+272	VERB	Ganidan	Gan + i + dan
+1695	VERB	Ganidek	Gan + i + dek
+290	VERB	Ganim	Gan + im
+293	VERB	Ganimda	Gan + im + da
+292	VERB	Ganimdan	Gan + im + dan
+462	VERB	Ganimday	Gan + im + day
+287	VERB	Ganimdek	Gan + im + dek
+426	VERB	Ganimiz	Gan + imiz
+427	VERB	Ganimizda	Gan + imiz + da
+430	VERB	Ganimizdagina	Gan + imiz + da + gina
+431	VERB	Ganimizday	Gan + imiz + day
+468	VERB	Ganimizdek	Gan + imiz + dek
+428	VERB	Ganimizni	Gan + imiz + ni
+429	VERB	Ganimiznigina	Gan + imiz + ni + gina
+288	VERB	Ganimni	Gan + im + ni
+473	VERB	Ganimnigina	Gan + im + ni + gina
+472	VERB	Ganimning	Gan + im + ning
+102	VERB	Ganing	Gan + ing
+104	VERB	Ganingda	Gan + ing + da
+103	VERB	Ganingdan	Gan + ing + dan
+463	VERB	Ganingday	Gan + ing + day
+466	VERB	Ganingdek	Gan + ing + dek
+105	VERB	Ganingga	Gan + ing + ga
+146	VERB	Ganingiz	Gan + ingiz
+464	VERB	Ganingizday	Gan + ingiz + day
+465	VERB	Ganingizdek	Gan + ingiz + dek
+148	VERB	Ganingizni	Gan + ingiz + ni
+475	VERB	Ganingiznigina	Gan + ingiz + ni + gina
+452	VERB	Ganinglar	Gan + inglar
+454	VERB	Ganinglarda	Gan + inglar + da
+455	VERB	Ganinglardan	Gan + inglar + dan
+453	VERB	Ganinglarni	Gan + inglar + ni
+274	VERB	Ganingni	Gan + ing + ni
+474	VERB	Ganingnigina	Gan + ing + ni + gina
+271	VERB	Ganini	Gan + i + ni
+1682	VERB	Ganlar	Gan + lar
+275	VERB	Ganlari	Gan + lar + i
+228	VERB	Ganlarida	Gan + lar + i + da
+227	VERB	Ganlaridan	Gan + lar + i + dan
+289	VERB	Ganlarim	Gan + lar + im
+423	VERB	Ganlarimiz	Gan + lar + imiz
+424	VERB	Ganlarimizni	Gan + lar + imiz + ni
+655	VERB	Ganlaring	Gan + lar + ing
+662	VERB	Ganlaringda	Gan + lar + ing + da
+663	VERB	Ganlaringdan	Gan + lar + ing + dan
+654	VERB	Ganlaringiz	Gan + lar + ingiz
+664	VERB	Ganlaringni	Gan + lar + ing + ni
+229	VERB	Ganlarini	Gan + lar + i + ni
+652	VERB	Ganlarni	Gan + lar + ni
+1428	VERB	Ganlarning	Gan + lar + ning
+524	VERB	Ganligini	Gan + lig + i + ni
+1410	VERB	Ganman	Gan + man
+86	VERB	Ganmi	Gan + mi
+85	VERB	Ganmidi	Gan + mi + di
+231	VERB	Ganmidik	Gan + mi + di + k
+297	VERB	Ganmidilar	Gan + mi + di + lar
+294	VERB	Ganmidim	Gan + mi + di + m
+295	VERB	Ganmiding	Gan + mi + di + ng
+87	VERB	Ganmidingiz	Gan + mi + di + ngiz
+237	VERB	Ganmisan	Gan + mi + san
+406	VERB	Ganmish	Gan + mish
+236	VERB	Ganmisiz	Gan + mi + siz
+96	VERB	Ganmiz	Gan + miz
+235	VERB	Ganmizmi	Gan + miz + mi
+459	VERB	Ganni	Gan + ni
+1411	VERB	Gansan	Gan + san
+97	VERB	Gansiz	Gan + siz
+240	VERB	Gansizmi	Gan + siz + mi
+214	VERB	Gay	Gay
+1654	VERB	Gazadi	Gaz + adi
+1653	VERB	Gazdi	Gaz + di
+1652	VERB	Gazgan	Gaz + gan
+1651	VERB	Gazganini	Gaz + gan + i + ni
+1634	VERB	Gazildi	Gaz + il + di
+1629	VERB	Gazilgan	Gaz + il + gan
+1630	VERB	Gazilgandi	Gaz + il + gan + di
+1631	VERB	Gazilgani	Gaz + il + gan + i
+1633	VERB	Gazilganida	Gaz + il + gan + i + da
+1632	VERB	Gazilganidan	Gaz + il + gan + i + dan
+1650	VERB	Gazilish	Gaz + il + ish
+1626	VERB	Gazish	Gaz + ish
+1627	VERB	Gazishi	Gaz + ish + i
+1628	VERB	Gazishida	Gaz + ish + i + da
+1649	VERB	Gazishni	Gaz + ish + ni
+1823	VERB	Gazmoq	Gaz + moq
+1625	VERB	Gazmoqchi	Gaz + moqchi
+1824	VERB	Gazmoqda	Gaz + moqda
+62	VERB	Gin	Gin
+446	VERB	Gudek	Gudek
+445	VERB	Guncha	Guncha
+1174	VERB	Qaz	Qaz
+1175	VERB	Qazdi	Qaz + di
+1176	VERB	Qazdilar	Qaz + di + lar
+1177	VERB	Qazdimi	Qaz + di + mi
+1178	VERB	Qazgan	Qaz + gan
+1180	VERB	Qazgandi	Qaz + gan + di
+1181	VERB	Qazgandilar	Qaz + gan + di + lar
+1183	VERB	Qazgani	Qaz + gan + i
+1179	VERB	Qazganmi	Qaz + gan + mi
+372	VERB	Ydi	Y + di
+371	VERB	Ydigan	Ydigan
+1419	VERB	Ydiki	Y + di + ki
+373	VERB	Ydilar	Y + di + lar
+374	VERB	Ydimi	Y + di + mi
+668	VERB	Yman	Y + man
+669	VERB	Ymanmi	Y + man + mi
+666	VERB	Ymiz	Y + miz
+667	VERB	Ymizmi	Y + miz + mi
+670	VERB	Ysan	Y + san
+671	VERB	Ysanmi	Y + san + mi
+672	VERB	Ysiz	Y + siz
+673	VERB	Ysizmi	Y + siz + mi
+1655	VERB	Yver	Y + ver
+1685	VERB	Yveradi	Y + ver + adi
+1683	VERB	Yverar	Y + ver + ar
+1684	VERB	Yverardi	Y + ver + ar + di
+1657	VERB	Yverdi	Y + ver + di
+1658	VERB	Yvergan	Y + ver + gan
+1659	VERB	Yvergandi	Y + ver + gan + di
+1660	VERB	Yverganding	Y + ver + gan + di + ng
+1661	VERB	Yvergandingiz	Y + ver + gan + di + ngiz
+1662	VERB	Yvergani	Y + ver + gan + i
+1676	VERB	Yverganidan	Y + ver + gan + i + dan
+1665	VERB	Yverganim	Y + ver + gan + im
+1663	VERB	Yverganing	Y + ver + gan + ing
+1678	VERB	Yverganingdan	Y + ver + gan + ing + dan
+1677	VERB	Yverganingga	Y + ver + gan + ing + ga
+1664	VERB	Yverganingiz	Y + ver + gan + ingiz
+1681	VERB	Yverganingizda	Y + ver + gan + ingiz + da
+1680	VERB	Yverganingizdan	Y + ver + gan + ingiz + dan
+1679	VERB	Yverganingizni	Y + ver + gan + ingiz + ni
+1656	VERB	Yverma	Y + ver + ma
+1671	VERB	Yvermadi	Y + ver + ma + di
+1672	VERB	Yvermadik	Y + ver + ma + di + k
+1674	VERB	Yvermadim	Y + ver + ma + di + m
+1673	VERB	Yvermading	Y + ver + ma + di + ng
+1675	VERB	Yvermadingiz	Y + ver + ma + di + ngiz
+1666	VERB	Yvermagan	Y + ver + ma + gan
+1667	VERB	Yvermagani	Y + ver + ma + gan + i
+1668	VERB	Yvermaganim	Y + ver + ma + gan + im
+1669	VERB	Yvermaganing	Y + ver + ma + gan + ing
+1670	VERB	Yvermaganingiz	Y + ver + ma + gan + ingiz
+392	NUM	ala	ala
+1836	ADV	cha	cha
+1587	NOUN	cha	cha
+7	NOUN	da	da
+165	PRN	dagi	dagi
+43	NOUN	dami	da + mi
+8	NOUN	dan	dan
+1837	ADJ	dan	dan
+44	NOUN	danmi	dan + mi
+402	PRN	day	day
+1838	VERB	dek	dek
+124	ADJ	dek	dek
+299	VERB	di	di
+174	VERB	dik	di + k
+179	VERB	dikmi	di + k + mi
+176	VERB	dilar	di + lar
+311	VERB	dilarmi	di + lar + mi
+175	VERB	dim	di + m
+132	VERB	dimi	di + mi
+133	VERB	dimilar	di + mi + lar
+305	VERB	dimmi	di + m + mi
+134	VERB	ding	di + ng
+135	VERB	dingiz	di + ngiz
+1720	VERB	dingizlar	di + ngiz + lar
+1721	VERB	dingizlarmi	di + ngiz + lar + mi
+136	VERB	dingizmi	di + ngiz + mi
+304	VERB	dinglar	di + nglar
+137	VERB	dingmi	di + ng + mi
+1842	NOUN	dir	dir
+676	ADJ	g'ish	g'ish
+45	NOUN	gami	ga + mi
+121	NOUN	gina	gina
+1779	PRN	gina	gina
+1780	ADJ	gina	gina
+9	NOUN	igacha	i + gacha
+1606	VERB	iladigan	il + adigan
+1601	VERB	ildi	il + di
+1604	VERB	ilgan	il + gan
+1605	VERB	ilganlik	il + gan + lik
+1602	VERB	ilib	il + ib
+1603	VERB	ilibdi	il + ib + di
+1148	VERB	iz	iz
+1149	VERB	izdi	iz + di
+1153	VERB	izdik	iz + di + k
+1154	VERB	izdikmi	iz + di + k + mi
+1150	VERB	izdilar	iz + di + lar
+1152	VERB	izdilarmi	iz + di + lar + mi
+1151	VERB	izdimi	iz + di + mi
+1155	VERB	izdimmi	iz + di + m + mi
+1158	VERB	izding	iz + di + ng
+1159	VERB	izdingiz	iz + di + ngiz
+1157	VERB	izdingizmi	iz + di + ngiz + mi
+1156	VERB	izdingmi	iz + di + ng + mi
+1222	VERB	izgan	iz + gan
+1223	VERB	izgandi	iz + gan + di
+1225	VERB	izgandik	iz + gan + di + k
+1224	VERB	izgandimi	iz + gan + di + mi
+1226	VERB	izganding	iz + gan + di + ng
+1227	VERB	izgandingiz	iz + gan + di + ngiz
+1229	VERB	izgani	iz + gan + i
+1232	VERB	izganida	iz + gan + i + da
+1230	VERB	izganidan	iz + gan + i + dan
+1231	VERB	izganiga	iz + gan + i + ga
+1228	VERB	izganlar	iz + gan + lar
+1233	VERB	izib	iz + ib
+1234	VERB	izibdi	iz + ib + di
+1235	VERB	izibdimi	iz + ib + di + mi
+1239	VERB	izildi	iz + il + di
+1240	VERB	izildimi	iz + il + di + mi
+1238	VERB	izilgan	iz + il + gan
+1242	VERB	izilganda	iz + il + gan + da
+1243	VERB	izilgandan	iz + il + gan + dan
+1245	VERB	izilgani	iz + il + gan + i
+1247	VERB	izilganida	iz + il + gan + i + da
+1246	VERB	izilganidan	iz + il + gan + i + dan
+1248	VERB	izilganiga	iz + il + gan + i + ga
+1249	VERB	izilganligi	iz + il + gan + lig + i
+1267	VERB	izilganligidan	iz + il + gan + lig + i + dan
+1268	VERB	izilganligini	iz + il + gan + lig + i + ni
+1241	VERB	izilganmi	iz + il + gan + mi
+1244	VERB	izilganni	iz + il + gan + ni
+1250	VERB	izilib	iz + il + ib
+1251	VERB	izilibdi	iz + il + ib + di
+1252	VERB	izilibdimi	iz + il + ib + di + mi
+1253	VERB	izish	iz + ish
+1255	VERB	izishda	iz + ish + da
+1254	VERB	izishdan	iz + ish + dan
+1261	VERB	izishdi	iz + ish + di
+1262	VERB	izishdilar	iz + ish + di + lar
+1263	VERB	izishgan	iz + ish + gan
+1264	VERB	izishgandi	iz + ish + gan + di
+1265	VERB	izishgandilar	iz + ish + gan + di + lar
+1266	VERB	izishgandimi	iz + ish + gan + di + mi
+1256	VERB	izishi	iz + ish + i
+1257	VERB	izishiga	iz + ish + i + ga
+1259	VERB	izishim	iz + ish + im
+1258	VERB	izishing	iz + ish + ing
+1260	VERB	izishingiz	iz + ish + ingiz
+1236	VERB	izmoq	iz + moq
+1237	VERB	izmoqchi	iz + moqchi
+1588	NOUN	jon	jon
+1643	ADV	lab	lab
+393	NUM	lab	lab
+10	NOUN	lar	lar
+391	NUM	larcha	larcha
+11	NOUN	larda	lar + da
+1841	PRN	lardadir	lar + da + dir
+167	NOUN	lardagi	lar + dagi
+12	NOUN	lardan	lar + dan
+693	NOUN	lardanmi	lar + dan + mi
+404	PRN	larday	lar + day
+125	NOUN	lardek	lar + dek
+1839	PRN	lardir	lar + dir
+13	NOUN	larga	lar + ga
+1840	PRN	largadir	lar + ga + dir
+122	NOUN	largina	lar + gina
+14	NOUN	lari	lar + i
+158	NOUN	larida	lar + i + da
+1796	NOUN	laridagi	lar + i + dagi
+157	NOUN	laridan	lar + i + dan
+1786	NOUN	laridir	lar + i + dir
+156	NOUN	lariga	lar + i + ga
+355	NOUN	larim	lar + im
+359	NOUN	larimda	lar + im + da
+1302	NOUN	larimdagi	lar + im + dagi
+1304	NOUN	larimdagiday	lar + im + dagi + day
+1303	NOUN	larimdagidek	lar + im + dagi + dek
+360	NOUN	larimdan	lar + im + dan
+361	NOUN	larimga	lar + im + ga
+15	NOUN	larimiz	lar + imiz
+1706	NOUN	larimizda	lar + imiz + da
+1288	NOUN	larimizdagi	lar + imiz + dagi
+1289	NOUN	larimizdagidek	lar + imiz + dagi + dek
+327	NOUN	larimizdan	lar + imiz + dan
+422	NOUN	larimizdangina	lar + imiz + dan + gina
+1703	NOUN	larimizga	lar + imiz + ga
+421	NOUN	larimizgina	lar + imiz + gina
+16	NOUN	larimizni	lar + imiz + ni
+326	NOUN	larimiznigina	lar + imiz + ni + gina
+164	NOUN	larimizning	lar + imiz + ning
+358	NOUN	larimni	lar + im + ni
+414	NOUN	larimniki	lar + im + niki
+363	NOUN	larimning	lar + im + ning
+17	NOUN	laring	lar + ing
+18	NOUN	laringiz	lar + ingiz
+330	NOUN	laringizdan	lar + ingiz + dan
+19	NOUN	laringizni	lar + ingiz + ni
+329	NOUN	laringizning	lar + ingiz + ning
+27	NOUN	larini	lar + i + ni
+159	NOUN	larining	lar + i + ning
+324	NOUN	larmi	lar + mi
+713	NOUN	larmiz	lar + miz
+20	NOUN	larni	lar + ni
+123	NOUN	larnigina	lar + ni + gina
+224	NOUN	larniki	lar + niki
+225	NOUN	larnikichalik	lar + niki + chalik
+21	NOUN	larning	lar + ning
+629	NOUN	larninggina	lar + ning + gina
+711	ADJ	li	li
+1834	ADJ	ma	ma
+138	VERB	ma	ma
+375	VERB	madi	ma + di
+1402	VERB	madik	ma + di + k
+1408	VERB	madikmi	ma + di + k + mi
+376	VERB	madilar	ma + di + lar
+1754	VERB	madilarmi	ma + di + lar + mi
+1401	VERB	madim	ma + di + m
+1407	VERB	madimmi	ma + di + m + mi
+139	VERB	mading	ma + di + ng
+140	VERB	madingiz	ma + di + ngiz
+141	VERB	madingizmi	ma + di + ngiz + mi
+142	VERB	madingmi	ma + di + ng + mi
+250	VERB	magan	ma + gan
+705	ADV	magandek	ma + gan + dek
+377	VERB	magandi	ma + gan + di
+1850	VERB	magandik	ma + gan + di + k
+378	VERB	magandilar	ma + gan + di + lar
+1849	VERB	magandim	ma + gan + di + m
+752	VERB	maganding	ma + gan + di + ng
+1851	VERB	magandingiz	ma + gan + di + ngiz
+1743	VERB	magandingizlarmi	ma + gan + di + ngiz + lar + mi
+753	VERB	magandingmi	ma + gan + di + ng + mi
+704	VERB	maganga	ma + gan + ga
+268	VERB	magani	ma + gan + i
+267	VERB	maganida	ma + gan + i + da
+251	VERB	maganidan	ma + gan + i + dan
+709	ADV	maganidek	ma + gan + i + dek
+381	VERB	maganing	ma + gan + ing
+383	VERB	maganingda	ma + gan + ing + da
+382	VERB	maganingdan	ma + gan + ing + dan
+384	VERB	maganingni	ma + gan + ing + ni
+707	VERB	maganini	ma + gan + i + ni
+727	VERB	maganlari	ma + gan + lar + i
+728	VERB	maganlaridan	ma + gan + lar + i + dan
+725	VERB	maganlaring	ma + gan + lar + ing
+729	VERB	maganlarini	ma + gan + lar + i + ni
+726	VERB	maganlarni	ma + gan + lar + ni
+1429	VERB	maganlarning	ma + gan + lar + ning
+249	VERB	maganligi	ma + gan + lig + i
+248	VERB	maganligidan	ma + gan + lig + i + dan
+759	VERB	maganliging	ma + gan + lig + ing
+1280	VERB	maganligingni	ma + gan + lig + ing + ni
+715	VERB	maganliklari	ma + gan + lik + lar + i
+716	VERB	maganliklaridan	ma + gan + lik + lar + i + dan
+717	VERB	maganliklarini	ma + gan + lik + lar + i + ni
+755	VERB	maganmi	ma + gan + mi
+379	VERB	maganmidi	ma + gan + mi + di
+380	VERB	maganmidilar	ma + gan + mi + di + lar
+754	VERB	maganmiding	ma + gan + mi + di + ng
+1746	VERB	magansiz	ma + gan + siz
+1440	VERB	magin	ma + gin
+320	NOUN	man	man
+1437	VERB	mang	ma + ng
+1438	VERB	mangiz	ma + ngiz
+322	NOUN	manmi	man + mi
+244	VERB	mas	ma + s
+1782	VERB	masa	ma + sa
+1308	VERB	masak	ma + sa + k
+1305	VERB	masam	ma + sa + m
+1306	VERB	masang	ma + sa + ng
+1307	VERB	masangiz	ma + sa + ngiz
+246	VERB	masdan	ma + s + dan
+75	VERB	masdi	ma + s + di
+77	VERB	masdik	ma + s + di + k
+79	VERB	masdilar	ma + s + di + lar
+76	VERB	masdim	ma + s + di + m
+78	VERB	masdingiz	ma + s + di + ngiz
+1283	VERB	masidan	ma + s + i + dan
+1436	VERB	masin	ma + sin
+564	VERB	masligi	ma + s + lig + i
+565	VERB	masligidan	ma + s + lig + i + dan
+1284	VERB	masligiga	ma + s + lig + i + ga
+571	VERB	masligim	ma + s + lig + im
+567	VERB	masliging	ma + s + lig + ing
+573	VERB	masligingdan	ma + s + lig + ing + dan
+568	VERB	masligingiz	ma + s + lig + ingiz
+566	VERB	masligini	ma + s + lig + i + ni
+570	VERB	maslik	ma + s + lik
+247	VERB	masliklari	ma + s + lik + lar + i
+695	VERB	masliklaridan	ma + s + lik + lar + i + dan
+245	VERB	maslikni	ma + s + lik + ni
+714	NOUN	massiz	ma + s + siz
+242	VERB	may	ma + y
+1607	VERB	mayapti	ma + yapti
+719	VERB	maydi	ma + y + di
+720	VERB	maydigan	ma + ydigan
+735	VERB	maydigani	ma + ydigan + i
+750	VERB	maydiganim	ma + ydigan + im
+736	VERB	maydiganing	ma + ydigan + ing
+738	VERB	maydiganingmi	ma + ydigan + ing + mi
+737	VERB	maydiganingni	ma + ydigan + ing + ni
+724	VERB	maydiganlar	ma + ydigan + lar
+730	VERB	maydiganlarga	ma + ydigan + lar + ga
+746	VERB	maydiganlari	ma + ydigan + lar + i
+733	VERB	maydiganlaridan	ma + ydigan + lar + i + dan
+741	VERB	maydiganlarim	ma + ydigan + lar + im
+731	VERB	maydiganlarimiz	ma + ydigan + lar + imiz
+745	VERB	maydiganlarimizdan	ma + ydigan + lar + imiz + dan
+744	VERB	maydiganlarimizni	ma + ydigan + lar + imiz + ni
+732	VERB	maydiganlaring	ma + ydigan + lar + ing
+739	VERB	maydiganlaringiz	ma + ydigan + lar + ingiz
+740	VERB	maydiganlaringizmi	ma + ydigan + lar + ingiz + mi
+743	VERB	maydiganlaringni	ma + ydigan + lar + ing + ni
+734	VERB	maydiganlarini	ma + ydigan + lar + i + ni
+749	VERB	maydiganlarni	ma + ydigan + lar + ni
+748	VERB	maydiganlarning	ma + ydigan + lar + ning
+722	VERB	maydilar	ma + y + di + lar
+723	VERB	maydilarmi	ma + y + di + lar + mi
+721	VERB	maygina	ma + y + gina
+756	VERB	mayin	ma + y + in
+243	VERB	maylik	ma + ylik
+260	VERB	mayotgan	ma + yotgan
+1843	VERB	mayotgandi	ma + yotgan + di
+1847	VERB	mayotgandik	ma + yotgan + di + k
+1848	VERB	mayotgandilar	ma + yotgan + di + lar
+1844	VERB	mayotgandim	ma + yotgan + di + m
+1845	VERB	mayotganding	ma + yotgan + di + ng
+1846	VERB	mayotgandingiz	ma + yotgan + di + ngiz
+261	VERB	mayotgani	ma + yotgan + i
+1800	VERB	mayotganida	ma + yotgan + i + da
+1285	VERB	mayotganidan	ma + yotgan + i + dan
+1801	VERB	mayotganim	ma + yotgan + i + m
+265	VERB	mayotganini	ma + yotgan + i + ni
+263	VERB	mayotganligi	ma + yotgan + lig + i
+262	VERB	mayotganligidan	ma + yotgan + lig + i + dan
+264	VERB	mayotganligini	ma + yotgan + lig + i + ni
+22	NOUN	mi	mi
+1286	NOUN	midi	mi + di
+400	NOUN	mikan	mi + kan
+316	NOUN	misan	mi + san
+405	NOUN	mish	mish
+317	NOUN	misiz	mi + siz
+318	NOUN	miz	miz
+40	NOUN	mizlar	miz + lar
+319	NOUN	mizmi	miz + mi
+39	NOUN	mlar	m + lar
+1510	NOUN	mlardan	m + lar + dan
+1509	NOUN	mlarga	m + lar + ga
+1513	NOUN	mlargagina	m + lar + ga + gina
+1798	NOUN	mlarmi	m + lar + mi
+1508	NOUN	mlarni	m + lar + ni
+1512	NOUN	mlarniki	m + lar + niki
+1511	NOUN	mlarning	m + lar + ning
+516	VERB	moq	moq
+65	VERB	moqchi	moqchi
+1751	VERB	moqchilar	moqchi + lar
+1752	VERB	moqchiligi	moqchi + lig + i
+1753	VERB	moqchiligidan	moqchi + lig + i + dan
+194	VERB	moqchimi	moqchi + mi
+216	VERB	moqchimiding	moqchi + mi + di + ng
+217	VERB	moqchimidingiz	moqchi + mi + di + ngiz
+197	VERB	moqchimiz	moqchi + miz
+196	VERB	moqchisan	moqchi + san
+195	VERB	moqchisiz	moqchi + siz
+68	VERB	moqda	moqda
+1750	VERB	moqdalar	moqda + lar
+1749	VERB	moqdami	moqda + mi
+41	NOUN	ngizlar	ngiz + lar
+42	NOUN	nglar	ng + lar
+23	NOUN	ni	ni
+220	PRN	niki	niki
+223	PRN	nikichalik	niki + chalik
+1287	PRN	nikiday	niki + day
+1778	PRN	nikidek	niki + dek
+222	PRN	nikidir	niki + dir
+24	NOUN	ning	ning
+1781	PRN	ning	ning
+1608	VERB	olmadi	ol + ma + di
+1609	VERB	olmagan	ol + ma + gan
+1616	VERB	olmas	ol + ma + s
+1618	VERB	olmasligi	ol + ma + s + lig + i
+1619	VERB	olmasligidan	ol + ma + s + lig + i + dan
+1620	VERB	olmasligini	ol + ma + s + lig + i + ni
+1617	VERB	olmaslik	ol + ma + s + lik
+1612	VERB	olmay	ol + ma + y
+1613	VERB	olmayapti	ol + ma + yapti
+1614	VERB	olmayaptimi	ol + ma + yapti + mi
+1610	VERB	olmaydi	ol + ma + y + di
+1611	VERB	olmaydigan	ol + ma + ydigan
+1615	VERB	olmaydimi	ol + ma + y + di + mi
+1623	VERB	olmayotgan	ol + ma + yotgan
+394	NUM	ov	ov
+395	NUM	ovi	ovi
+396	NUM	ovlab	ov + lab
+397	NUM	ovlash	ov + lash
+398	NUM	ovlashib	ov + lash + ib
+399	NUM	ovlon	ov + lon
+674	ADJ	roq	roq
+1766	ADJ	roqi	roq + i
+1773	ADJ	roqimiz	roq + imiz
+1776	ADJ	roqimizda	roq + imiz + da
+1777	ADJ	roqimizdan	roq + imiz + dan
+1775	ADJ	roqimizga	roq + imiz + ga
+1774	ADJ	roqimizni	roq + imiz + ni
+1772	ADJ	roqing	roq + ing
+1767	ADJ	roqingiz	roq + ingiz
+1769	ADJ	roqingizdan	roq + ingiz + dan
+1770	ADJ	roqingizga	roq + ingiz + ga
+1768	ADJ	roqingizni	roq + ingiz + ni
+1771	ADJ	roqingizning	roq + ingiz + ning
+66	VERB	sa	sa
+185	VERB	sak	sa + k
+186	VERB	sakgina	sa + k + gina
+189	VERB	sakmi	sa + k + mi
+278	VERB	salar	sa + lar
+187	VERB	sam	sa + m
+285	VERB	samgina	sa + m + gina
+1717	VERB	sami	sa + mi
+188	VERB	sammi	sa + m + mi
+314	NOUN	san	san
+181	VERB	sang	sa + ng
+284	VERB	sanggina	sa + ng + gina
+280	VERB	sangiz	sa + ngiz
+283	VERB	sangizgina	sa + ngiz + gina
+191	VERB	sangmi	sa + ng + mi
+1722	VERB	sat	sat
+1723	VERB	satdi	sat + di
+1724	VERB	satdik	sat + di + k
+1725	VERB	satdim	sat + di + m
+1726	VERB	satgan	sat + gan
+1738	VERB	satganda	sat + gan + da
+1737	VERB	satgandan	sat + gan + dan
+1727	VERB	satgandi	sat + gan + di
+1729	VERB	satgandik	sat + gan + di + k
+1728	VERB	satgandim	sat + gan + di + m
+1730	VERB	satganding	sat + gan + di + ng
+1739	VERB	satganga	sat + gan + ga
+1731	VERB	satganim	sat + gan + im
+1732	VERB	satganimda	sat + gan + im + da
+1736	VERB	satganimdan	sat + gan + im + dan
+1735	VERB	satganimga	sat + gan + im + ga
+1733	VERB	satganimni	sat + gan + im + ni
+1734	VERB	satganimning	sat + gan + im + ning
+1740	VERB	satsa	sat + sa
+1712	VERB	saydi	sa + y + di
+1713	VERB	saydik	sa + y + di + k
+1716	VERB	saydim	sa + y + di + m
+1714	VERB	sayding	sa + y + di + ng
+1715	VERB	saydingiz	sa + y + di + ngiz
+61	VERB	sin	sin
+90	VERB	sinlar	sinlar
+93	VERB	sinlarmi	sin + lar + mi
+91	VERB	sinmi	sin + mi
+47	NOUN	siz	siz
+1469	NOUN	sizligi	siz + lig + i
+1472	NOUN	sizligida	siz + lig + i + da
+1471	NOUN	sizligidan	siz + lig + i + dan
+1473	NOUN	sizligim	siz + lig + im
+1474	NOUN	sizliging	siz + lig + ing
+1475	NOUN	sizligingiz	siz + lig + ingiz
+1470	NOUN	sizligini	siz + lig + i + ni
+389	NUM	ta	ta
+390	NUM	tacha	ta + cha
+678	NUM	tadan	ta + dan
+679	NUM	taga	ta + ga
+680	NUM	tagacha	ta + gacha
+1641	NUM	tasi	ta + si
+1642	NUM	tasidan	ta + si + dan
+1589	NOUN	xon	xon
+1184	VERB	yapman	yap + man
+1187	VERB	yapmiz	yap + miz
+1185	VERB	yapsan	yap + san
+1186	VERB	yapsiz	yap + siz
+276	VERB	yapti	yap + ti
+1745	VERB	yaptimi	yap + ti + mi

@@ -1,0 +1,36 @@
+{
+  "UzUDT_train": {
+    "sentences": 483,
+    "tokens": 5442,
+    "words": 3972,
+    "inflected": 2195,
+    "positions": 21008,
+    "boundaries": 3180,
+    "morphs_per_word": 1.8006042296072509,
+    "bare": 1777,
+    "features_with_counterpart": 2057,
+    "features_confirmed": 1703,
+    "words_with_features": 1314,
+    "ending_not_in_cse": 228,
+    "not_word": 1203,
+    "lemma_mismatch": 39,
+    "ambiguous": 1
+  },
+  "UzUDT_test": {
+    "sentences": 201,
+    "tokens": 2140,
+    "words": 1584,
+    "inflected": 839,
+    "positions": 8770,
+    "boundaries": 1257,
+    "morphs_per_word": 1.793560606060606,
+    "features_with_counterpart": 872,
+    "features_confirmed": 708,
+    "words_with_features": 559,
+    "not_word": 467,
+    "bare": 745,
+    "ending_not_in_cse": 81,
+    "lemma_mismatch": 8,
+    "ambiguous": 1
+  }
+}

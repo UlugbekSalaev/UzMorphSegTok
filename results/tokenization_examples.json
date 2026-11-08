@@ -1,0 +1,58 @@
+{
+ "kitoblarimizda": {
+  "CSE-Seg+P": "kitob|lar|imiz|da",
+  "bpe_raw_32000": "kitob|larimizda",
+  "uni_raw_32000": "kitoblar|imizda",
+  "bpe_cse_32000": "kitob|larimiz|da",
+  "uni_cse_32000": "kitob|lar|imiz|da",
+  "bpe_cse_32000+seg": "kitob|lar|imiz|da",
+  "uni_cse_32000+seg": "kitob|lar|imiz|da",
+  "bpe_fem_32000+seg": "kitob|lar|imiz|da",
+  "uni_fem_32000+seg": "kitob|lar|imiz|da",
+  "mT5": "kito|blar|imizda",
+  "XLM-R": "kitob|larimiz|da",
+  "mBERT": "kit|ob|lari|mi|zda"
+ },
+ "yuragimdagi": {
+  "CSE-Seg+P": "yurag|im|dagi",
+  "bpe_raw_32000": "yuragi|mdagi",
+  "uni_raw_32000": "yuragi|m|dagi",
+  "bpe_cse_32000": "yura|gim|dagi",
+  "uni_cse_32000": "yurag|i|m|dagi",
+  "bpe_cse_32000+seg": "yurag|im|dagi",
+  "uni_cse_32000+seg": "yurag|i|m|dagi",
+  "bpe_fem_32000+seg": "yurag|im|dagi",
+  "uni_fem_32000+seg": "yurag|i|m|dagi",
+  "mT5": "y|ura|gim|dagi",
+  "XLM-R": "y|ura|gim|dagi",
+  "mBERT": "yu|rag|im|dagi"
+ },
+ "o'qituvchilarimizning": {
+  "CSE-Seg+P": "o'qituvchi|lar|imiz|ning",
+  "bpe_raw_32000": "o'qituvchi|larimizning",
+  "uni_raw_32000": "o'qituvchilar|imizning",
+  "bpe_cse_32000": "o'qituvchi|larimiz|ning",
+  "uni_cse_32000": "o'qituvchi|lar|imiz|ning",
+  "bpe_cse_32000+seg": "o'qituvchi|lar|imiz|ning",
+  "uni_cse_32000+seg": "o'qituvchi|lar|imiz|ning",
+  "bpe_fem_32000+seg": "o'qituvchi|lar|imiz|ning",
+  "uni_fem_32000+seg": "o'qituvchi|lar|imiz|ning",
+  "mT5": "o|'|qituvchilar|imizning",
+  "XLM-R": "o|'|qituvchilar|imizning",
+  "mBERT": "o|'|qi|tu|vchi|lari|mi|zni|ng"
+ },
+ "ishlayotganlarning": {
+  "CSE-Seg+P": "ishla|yotgan|lar|ning",
+  "bpe_raw_32000": "ishlayotgan|larning",
+  "uni_raw_32000": "ishlayotgan|larning",
+  "bpe_cse_32000": "ishla|yotgan|larning",
+  "uni_cse_32000": "ishla|yotgan|lar|ning",
+  "bpe_cse_32000+seg": "ishla|yotgan|lar|ning",
+  "uni_cse_32000+seg": "ishla|yotgan|lar|ning",
+  "bpe_fem_32000+seg": "ishla|yotgan|lar|ning",
+  "uni_fem_32000+seg": "ishla|yotgan|lar|ning",
+  "mT5": "i|sh|layotgan|larning",
+  "XLM-R": "ish|layotgan|larning",
+  "mBERT": "ish|lay|ot|gan|larning"
+ }
+}

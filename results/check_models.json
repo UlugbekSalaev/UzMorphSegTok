@@ -1,0 +1,218 @@
+{
+ "full_char_s17": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.946237,
+    0.946237
+   ]
+  }
+ },
+ "full_char_s29": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.938556,
+    0.938556
+   ]
+  }
+ },
+ "full_char_s43": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.946278,
+    0.946278
+   ]
+  }
+ },
+ "full_nocnn_s17": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.947981,
+    0.947981
+   ]
+  }
+ },
+ "full_nocnn_s29": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.94843,
+    0.94843
+   ]
+  }
+ },
+ "full_nocnn_s43": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.953488,
+    0.953488
+   ]
+  }
+ },
+ "full_nocse_s17": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.938168,
+    0.938168
+   ]
+  }
+ },
+ "full_nocse_s29": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.944104,
+    0.944104
+   ]
+  }
+ },
+ "full_nocse_s43": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.945581,
+    0.945581
+   ]
+  }
+ },
+ "full_notrans_s17": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.947531,
+    0.947531
+   ]
+  }
+ },
+ "full_notrans_s29": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.945778,
+    0.945778
+   ]
+  }
+ },
+ "full_notrans_s43": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.94582,
+    0.94582
+   ]
+  }
+ },
+ "full_s17": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.947571,
+    0.947571
+   ]
+  }
+ },
+ "full_s29": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.947738,
+    0.947738
+   ]
+  }
+ },
+ "full_s43": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.944833,
+    0.944833
+   ]
+  }
+ },
+ "v2_s17": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.895028,
+    0.895028
+   ]
+  }
+ },
+ "v2_s29": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.87561,
+    0.87561
+   ]
+  }
+ },
+ "v2_s43": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.883191,
+    0.883191
+   ]
+  }
+ },
+ "v3_s17": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.912542,
+    0.912542
+   ]
+  }
+ },
+ "v3_s29": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.905703,
+    0.905703
+   ]
+  }
+ },
+ "v3_s43": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.911929,
+    0.911929
+   ]
+  }
+ },
+ "v3v2_s17": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.925658,
+    0.925658
+   ]
+  }
+ },
+ "v3v2_s29": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.930179,
+    0.930179
+   ]
+  }
+ },
+ "v3v2_s43": {
+  "ok": true,
+  "f1_recomputed_vs_saved": {
+   "UzUDT_test": [
+    0.927404,
+    0.927404
+   ]
+  }
+ }
+}

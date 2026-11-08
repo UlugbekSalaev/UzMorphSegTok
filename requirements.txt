@@ -1,0 +1,11 @@
+# Versions used for all experiments of the paper (Python 3.12.0, Windows 11, CPU only)
+torch==2.5.1
+tokenizers==0.21.4
+transformers==4.48.1
+sentencepiece==0.2.2
+protobuf==5.29.3
+huggingface_hub==0.36.2
+numpy==2.2.4
+Morfessor==2.0.6
+uzmorphanalyser==0.0.22
+matplotlib==3.10.0

@@ -1,0 +1,20 @@
+{
+ "data/cse/stems.csv": "51a7dd1ad2653e3dc09ae8bef2a30b88e86979ee6212a1d3015314d0aca02839",
+ "data/cse/cse_morphs.tsv": "16d01256220767c0036c2703dd1497381931e583d5ee4a25a16d043ceb78dccd",
+ "data/reference/UzUDT_train.jsonl": "2148ec7a12132eb93e77469fc75acd1f062c5b5ee8e9f22899f004465fdfd6d4",
+ "data/reference/UzUDT_test.jsonl": "e58fbbf906902da1518a0bf2dd0033bfa4dc0f0c3530593ebe3d2930432e7b5f",
+ "data/corpus/train.txt": "8c746af7d9944e38449a2a14848bf3336a8ce9b89e799bac0908ff776acf95fd",
+ "data/corpus/test.txt": "5f2c40f9fd1eda81445efba28ee2cb5a89c40d286e58dcf7ec8df6a162ff6357",
+ "data/corpus/train_cse.txt": "b399e81b570ceb909df28ce821972be63aaa5f3c8379a110c2271dbd54478b60",
+ "data/corpus/silver_words.tsv": "a81f469bc09d3fb562fe98f6cc97b04b109293309e53f9772943da2ec5d33b9a",
+ "data/extrinsic/uztc_train.jsonl": "8776d6b8189167149d15006eff7d4efd58d82db009269a77071a70405d831923",
+ "data/extrinsic/uztc_reserve.jsonl": "cab010e97afa45949286b8f2c1534da7babd5aa5b1c5b7b52e338f59f6e18c30",
+ "data/extrinsic/uztc_dev.jsonl": "f7faf1ee637ca79cf942e57c9746794f4f9e76772ebbfec6c7d1dc128c380ead",
+ "data/extrinsic/uztc_test.jsonl": "5ba95690ae61c6f5195b123adc9e4da71989b4068e0d8019bd88aa1733bf75a2",
+ "data/splits/news_tokenizer_train.txt": "ad803179d35efc857a705656ec000020799accd6b87a752bbc99825caa46e91b",
+ "data/splits/news_tokenizer_test.txt": "96e02a6093478ed3fe5b7289907de9e88fcd82e58df2d7cf05c3750cb53f4f30",
+ "data/splits/news_classification_train.txt": "f71ddfb6ee7f14ad54c6c0e21eafb82420bd6b2b8c038d6dd61488f481496239",
+ "data/splits/news_classification_reserve.txt": "634fa90a5ff345f51141a07991a19b05b01d7ef5b662c916c0e4c199f44a8012",
+ "data/splits/news_classification_dev.txt": "054e4c916605e8bd8c694b55cd4ea67a5fc8a9404b0fb2a9e42e0aac4a7e9877",
+ "data/splits/news_classification_test.txt": "da26eb9fe0cb5827e3af5854cdac189b1df9548089bf979481c81c5f25f6b7e2"
+}
