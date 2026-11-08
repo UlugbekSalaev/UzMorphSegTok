@@ -3,7 +3,7 @@
 Code, data splits, trained models and result files of the paper
 
 > Ulugbek Salaev. **CSE-Constrained Neural Morphological Segmentation and Morphology-Aware Tokenization for Uzbek.**
-> Manuscript submitted to *Information* (MDPI), 2026.
+> Manuscript submitted to *MDPI Journal* (MDPI), 2026.
 
 The repository contains everything needed to repeat the experiments of the paper on a CPU: the scripts download the
 two data sources and one knowledge resource at fixed versions, check their checksums, rebuild all derived data
